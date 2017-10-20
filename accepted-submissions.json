@@ -69,8 +69,40 @@
    "team": "sec0d"
   }, 
   {
-   "lastAccept": 1508535520, 
+   "lastAccept": 1508536405, 
    "pos": 3, 
+   "score": 1588, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 500, 
+     "time": 1508525417
+    }, 
+    "g00d_b0y": {
+     "points": 163, 
+     "time": 1508523566
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 125, 
+     "time": 1508516847
+    }, 
+    "hidden_program": {
+     "points": 174, 
+     "time": 1508515636
+    }, 
+    "sehlokodemais": {
+     "points": 474, 
+     "time": 1508536405
+    }, 
+    "sum": {
+     "points": 152, 
+     "time": 1508516199
+    }
+   }, 
+   "team": "$wag"
+  }, 
+  {
+   "lastAccept": 1508535520, 
+   "pos": 4, 
    "score": 1407, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -102,7 +134,7 @@
   }, 
   {
    "lastAccept": 1508533256, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 1301, 
    "taskStats": {
     "differential_privacy": {
@@ -131,34 +163,6 @@
     }
    }, 
    "team": "RATF"
-  }, 
-  {
-   "lastAccept": 1508525417, 
-   "pos": 5, 
-   "score": 1114, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 500, 
-     "time": 1508525417
-    }, 
-    "g00d_b0y": {
-     "points": 163, 
-     "time": 1508523566
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 125, 
-     "time": 1508516847
-    }, 
-    "hidden_program": {
-     "points": 174, 
-     "time": 1508515636
-    }, 
-    "sum": {
-     "points": 152, 
-     "time": 1508516199
-    }
-   }, 
-   "team": "$wag"
   }, 
   {
    "lastAccept": 1508532745, 
@@ -551,7 +555,7 @@
   {
    "lastAccept": 1508528806, 
    "pos": 20, 
-   "score": 940, 
+   "score": 914, 
    "taskStats": {
     "g00d_b0y": {
      "points": 163, 
@@ -562,7 +566,7 @@
      "time": 1508528806
     }, 
     "sehlokodemais": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508527438
     }, 
     "sum": {
