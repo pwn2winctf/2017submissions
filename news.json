@@ -14,5 +14,9 @@
  {
   "msg": "Sorry, we had some trouble with the AWS bot during the beginning of the CTF which should be fixed by now. If you had the PR denied for a team registration or a flag submission (check if it appears in the scoreboard) please try to submit again.", 
   "time": 1508528713
+ }, 
+ {
+  "msg": "People Throwing 2: The challenge pendulum is a normal pendulum, where the pivot oscilates in horizontal.", 
+  "time": 1508529069
  }
 ]
