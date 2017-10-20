@@ -101,8 +101,36 @@
    "team": "$wag"
   }, 
   {
-   "lastAccept": 1508535520, 
+   "lastAccept": 1508540159, 
    "pos": 4, 
+   "score": 1387, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 500, 
+     "time": 1508540159
+    }, 
+    "g00d_b0y": {
+     "points": 154, 
+     "time": 1508521252
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 118, 
+     "time": 1508528806
+    }, 
+    "sehlokodemais": {
+     "points": 474, 
+     "time": 1508527438
+    }, 
+    "sum": {
+     "points": 141, 
+     "time": 1508524497
+    }
+   }, 
+   "team": "Windows is Updating"
+  }, 
+  {
+   "lastAccept": 1508535520, 
+   "pos": 5, 
    "score": 1360, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -134,7 +162,7 @@
   }, 
   {
    "lastAccept": 1508533256, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1233, 
    "taskStats": {
     "differential_privacy": {
@@ -166,7 +194,7 @@
   }, 
   {
    "lastAccept": 1508538086, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1233, 
    "taskStats": {
     "differential_privacy": {
@@ -198,7 +226,7 @@
   }, 
   {
    "lastAccept": 1508539685, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1233, 
    "taskStats": {
     "differential_privacy": {
@@ -230,7 +258,7 @@
   }, 
   {
    "lastAccept": 1508539030, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1081, 
    "taskStats": {
     "executive_order": {
@@ -258,7 +286,7 @@
   }, 
   {
    "lastAccept": 1508532745, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1065, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -282,7 +310,7 @@
   }, 
   {
    "lastAccept": 1508539677, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1034, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -310,7 +338,7 @@
   }, 
   {
    "lastAccept": 1508518748, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 907, 
    "taskStats": {
     "differential_privacy": {
@@ -338,7 +366,7 @@
   }, 
   {
    "lastAccept": 1508521485, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 907, 
    "taskStats": {
     "differential_privacy": {
@@ -366,7 +394,7 @@
   }, 
   {
    "lastAccept": 1508521842, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 907, 
    "taskStats": {
     "differential_privacy": {
@@ -394,7 +422,7 @@
   }, 
   {
    "lastAccept": 1508526096, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 907, 
    "taskStats": {
     "differential_privacy": {
@@ -422,7 +450,7 @@
   }, 
   {
    "lastAccept": 1508526497, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 907, 
    "taskStats": {
     "g00d_b0y": {
@@ -450,7 +478,7 @@
   }, 
   {
    "lastAccept": 1508529581, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 907, 
    "taskStats": {
     "g00d_b0y": {
@@ -478,7 +506,7 @@
   }, 
   {
    "lastAccept": 1508529686, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 907, 
    "taskStats": {
     "differential_privacy": {
@@ -506,7 +534,7 @@
   }, 
   {
    "lastAccept": 1508530190, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 907, 
    "taskStats": {
     "g00d_b0y": {
@@ -534,7 +562,7 @@
   }, 
   {
    "lastAccept": 1508532120, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 907, 
    "taskStats": {
     "g00d_b0y": {
@@ -562,7 +590,7 @@
   }, 
   {
    "lastAccept": 1508532293, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 907, 
    "taskStats": {
     "g00d_b0y": {
@@ -590,7 +618,7 @@
   }, 
   {
    "lastAccept": 1508532775, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 907, 
    "taskStats": {
     "differential_privacy": {
@@ -618,7 +646,7 @@
   }, 
   {
    "lastAccept": 1508537096, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 907, 
    "taskStats": {
     "g00d_b0y": {
@@ -643,30 +671,6 @@
     }
    }, 
    "team": "M57"
-  }, 
-  {
-   "lastAccept": 1508528806, 
-   "pos": 23, 
-   "score": 887, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 154, 
-     "time": 1508521252
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 118, 
-     "time": 1508528806
-    }, 
-    "sehlokodemais": {
-     "points": 474, 
-     "time": 1508527438
-    }, 
-    "sum": {
-     "points": 141, 
-     "time": 1508524497
-    }
-   }, 
-   "team": "Windows is Updating"
   }, 
   {
    "lastAccept": 1508539002, 
@@ -2473,6 +2477,7 @@
   "achievement_unlocked", 
   "sehlokodemais", 
   "criminals", 
-  "executive_order"
+  "executive_order", 
+  "baby_regex"
  ]
 }
