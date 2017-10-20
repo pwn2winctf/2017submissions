@@ -1,8 +1,28 @@
 {
  "standings": [
   {
-   "lastAccept": 1508515530, 
+   "lastAccept": 1508516655, 
    "pos": 1, 
+   "score": 1073, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 283, 
+     "time": 1508515327
+    }, 
+    "hidden_program": {
+     "points": 435, 
+     "time": 1508516655
+    }, 
+    "sum": {
+     "points": 355, 
+     "time": 1508516403
+    }
+   }, 
+   "team": "RapaceDiabolique"
+  }, 
+  {
+   "lastAccept": 1508515530, 
+   "pos": 2, 
    "score": 931, 
    "taskStats": {
     "g00d_b0y": {
@@ -22,7 +42,7 @@
   }, 
   {
    "lastAccept": 1508516044, 
-   "pos": 2, 
+   "pos": 3, 
    "score": 931, 
    "taskStats": {
     "g00d_b0y": {
@@ -42,7 +62,7 @@
   }, 
   {
    "lastAccept": 1508516077, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 931, 
    "taskStats": {
     "g00d_b0y": {
@@ -62,7 +82,7 @@
   }, 
   {
    "lastAccept": 1508516429, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 931, 
    "taskStats": {
     "g00d_b0y": {
@@ -82,7 +102,7 @@
   }, 
   {
    "lastAccept": 1508516520, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 931, 
    "taskStats": {
     "g00d_b0y": {
@@ -102,11 +122,11 @@
   }, 
   {
    "lastAccept": 1508516199, 
-   "pos": 6, 
-   "score": 808, 
+   "pos": 7, 
+   "score": 790, 
    "taskStats": {
     "hidden_program": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508515636
     }, 
     "sum": {
@@ -118,15 +138,15 @@
   }, 
   {
    "lastAccept": 1508515913, 
-   "pos": 7, 
-   "score": 746, 
+   "pos": 8, 
+   "score": 728, 
    "taskStats": {
     "g00d_b0y": {
      "points": 293, 
      "time": 1508515262
     }, 
     "hidden_program": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508515913
     }
    }, 
@@ -134,15 +154,15 @@
   }, 
   {
    "lastAccept": 1508515760, 
-   "pos": 8, 
-   "score": 736, 
+   "pos": 9, 
+   "score": 718, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 283, 
      "time": 1508514845
     }, 
     "hidden_program": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508515760
     }
    }, 
@@ -150,7 +170,7 @@
   }, 
   {
    "lastAccept": 1508515386, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 648, 
    "taskStats": {
     "g00d_b0y": {
@@ -166,7 +186,7 @@
   }, 
   {
    "lastAccept": 1508516645, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 648, 
    "taskStats": {
     "g00d_b0y": {
@@ -182,7 +202,7 @@
   }, 
   {
    "lastAccept": 1508516296, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 638, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -195,22 +215,6 @@
     }
    }, 
    "team": "Come to Try Fortune"
-  }, 
-  {
-   "lastAccept": 1508516403, 
-   "pos": 12, 
-   "score": 638, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 283, 
-     "time": 1508515327
-    }, 
-    "sum": {
-     "points": 355, 
-     "time": 1508516403
-    }
-   }, 
-   "team": "RapaceDiabolique"
   }, 
   {
    "lastAccept": 1508515289, 
