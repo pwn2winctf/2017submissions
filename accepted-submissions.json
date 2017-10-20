@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508522560, 
    "pos": 1, 
-   "score": 1655, 
+   "score": 1641, 
    "taskStats": {
     "differential_privacy": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508519356
     }, 
     "g00d_b0y": {
@@ -91,10 +91,10 @@
   {
    "lastAccept": 1508518748, 
    "pos": 4, 
-   "score": 1181, 
+   "score": 1167, 
    "taskStats": {
     "differential_privacy": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508517851
     }, 
     "g00d_b0y": {
@@ -119,10 +119,10 @@
   {
    "lastAccept": 1508521485, 
    "pos": 5, 
-   "score": 1181, 
+   "score": 1167, 
    "taskStats": {
     "differential_privacy": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508521485
     }, 
     "g00d_b0y": {
@@ -147,10 +147,10 @@
   {
    "lastAccept": 1508521842, 
    "pos": 6, 
-   "score": 1181, 
+   "score": 1167, 
    "taskStats": {
     "differential_privacy": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508521545
     }, 
     "g00d_b0y": {
@@ -173,8 +173,36 @@
    "team": "vimvaders"
   }, 
   {
-   "lastAccept": 1508520977, 
+   "lastAccept": 1508526096, 
    "pos": 7, 
+   "score": 1167, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 406, 
+     "time": 1508526096
+    }, 
+    "g00d_b0y": {
+     "points": 195, 
+     "time": 1508521505
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 164, 
+     "time": 1508518423
+    }, 
+    "hidden_program": {
+     "points": 228, 
+     "time": 1508520941
+    }, 
+    "sum": {
+     "points": 174, 
+     "time": 1508521779
+    }
+   }, 
+   "team": "Crackchester"
+  }, 
+  {
+   "lastAccept": 1508520977, 
+   "pos": 8, 
    "score": 986, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -198,7 +226,7 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 897, 
    "taskStats": {
     "g00d_b0y": {
@@ -218,15 +246,15 @@
   }, 
   {
    "lastAccept": 1508523120, 
-   "pos": 9, 
-   "score": 873, 
+   "pos": 10, 
+   "score": 859, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 453, 
      "time": 1508518938
     }, 
     "differential_privacy": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508523120
     }
    }, 
@@ -234,7 +262,7 @@
   }, 
   {
    "lastAccept": 1508519475, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -258,7 +286,7 @@
   }, 
   {
    "lastAccept": 1508519520, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -282,7 +310,7 @@
   }, 
   {
    "lastAccept": 1508519622, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -306,7 +334,7 @@
   }, 
   {
    "lastAccept": 1508519861, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -330,7 +358,7 @@
   }, 
   {
    "lastAccept": 1508519904, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -354,7 +382,7 @@
   }, 
   {
    "lastAccept": 1508520213, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -378,7 +406,7 @@
   }, 
   {
    "lastAccept": 1508520277, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -402,7 +430,7 @@
   }, 
   {
    "lastAccept": 1508520699, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -426,7 +454,7 @@
   }, 
   {
    "lastAccept": 1508520845, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -450,7 +478,7 @@
   }, 
   {
    "lastAccept": 1508520992, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -474,7 +502,7 @@
   }, 
   {
    "lastAccept": 1508521333, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 761, 
    "taskStats": {
     "g00d_b0y": {
@@ -495,30 +523,6 @@
     }
    }, 
    "team": "Portal Guns"
-  }, 
-  {
-   "lastAccept": 1508521779, 
-   "pos": 21, 
-   "score": 761, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 195, 
-     "time": 1508521505
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 164, 
-     "time": 1508518423
-    }, 
-    "hidden_program": {
-     "points": 228, 
-     "time": 1508520941
-    }, 
-    "sum": {
-     "points": 174, 
-     "time": 1508521779
-    }
-   }, 
-   "team": "Crackchester"
   }, 
   {
    "lastAccept": 1508521894, 
