@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508518748, 
    "pos": 1, 
-   "score": 1535, 
+   "score": 1509, 
    "taskStats": {
     "differential_privacy": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508517851
     }, 
     "g00d_b0y": {
@@ -29,10 +29,14 @@
    "team": "Itemize"
   }, 
   {
-   "lastAccept": 1508516981, 
+   "lastAccept": 1508519356, 
    "pos": 2, 
-   "score": 1035, 
+   "score": 1509, 
    "taskStats": {
+    "differential_privacy": {
+     "points": 474, 
+     "time": 1508519356
+    }, 
     "g00d_b0y": {
      "points": 243, 
      "time": 1508516751
