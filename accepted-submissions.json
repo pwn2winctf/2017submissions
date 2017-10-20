@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508518748, 
    "pos": 1, 
-   "score": 1367, 
+   "score": 1346, 
    "taskStats": {
     "differential_privacy": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508517851
     }, 
     "g00d_b0y": {
@@ -31,10 +31,10 @@
   {
    "lastAccept": 1508519356, 
    "pos": 2, 
-   "score": 1367, 
+   "score": 1346, 
    "taskStats": {
     "differential_privacy": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508519356
     }, 
     "g00d_b0y": {
@@ -57,8 +57,36 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508520977, 
+   "lastAccept": 1508521485, 
    "pos": 3, 
+   "score": 1346, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 453, 
+     "time": 1508521485
+    }, 
+    "g00d_b0y": {
+     "points": 225, 
+     "time": 1508516854
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 195, 
+     "time": 1508515559
+    }, 
+    "hidden_program": {
+     "points": 260, 
+     "time": 1508518299
+    }, 
+    "sum": {
+     "points": 213, 
+     "time": 1508517209
+    }
+   }, 
+   "team": "KORV"
+  }, 
+  {
+   "lastAccept": 1508520977, 
+   "pos": 4, 
    "score": 1107, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -82,7 +110,7 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 985, 
    "taskStats": {
     "g00d_b0y": {
@@ -99,30 +127,6 @@
     }
    }, 
    "team": "Eat Sleep Pwn Repeat"
-  }, 
-  {
-   "lastAccept": 1508518299, 
-   "pos": 5, 
-   "score": 893, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 225, 
-     "time": 1508516854
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 195, 
-     "time": 1508515559
-    }, 
-    "hidden_program": {
-     "points": 260, 
-     "time": 1508518299
-    }, 
-    "sum": {
-     "points": 213, 
-     "time": 1508517209
-    }
-   }, 
-   "team": "KORV"
   }, 
   {
    "lastAccept": 1508519475, 
