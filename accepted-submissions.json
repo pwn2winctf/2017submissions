@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508516981, 
    "pos": 1, 
-   "score": 1252, 
+   "score": 1241, 
    "taskStats": {
     "g00d_b0y": {
      "points": 271, 
@@ -14,7 +14,7 @@
      "time": 1508516555
     }, 
     "hidden_program": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508516866
     }, 
     "sum": {
@@ -25,16 +25,36 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508516655, 
+   "lastAccept": 1508517253, 
    "pos": 2, 
-   "score": 981, 
+   "score": 974, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 271, 
+     "time": 1508516305
+    }, 
+    "hidden_program": {
+     "points": 383, 
+     "time": 1508517253
+    }, 
+    "sum": {
+     "points": 320, 
+     "time": 1508516645
+    }
+   }, 
+   "team": "glua.team"
+  }, 
+  {
+   "lastAccept": 1508516655, 
+   "pos": 3, 
+   "score": 970, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 267, 
      "time": 1508515327
     }, 
     "hidden_program": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508516655
     }, 
     "sum": {
@@ -46,15 +66,15 @@
   }, 
   {
    "lastAccept": 1508516847, 
-   "pos": 3, 
-   "score": 981, 
+   "pos": 4, 
+   "score": 970, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 267, 
      "time": 1508516847
     }, 
     "hidden_program": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508515636
     }, 
     "sum": {
@@ -66,15 +86,15 @@
   }, 
   {
    "lastAccept": 1508516952, 
-   "pos": 4, 
-   "score": 981, 
+   "pos": 5, 
+   "score": 970, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 267, 
      "time": 1508514845
     }, 
     "hidden_program": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508515760
     }, 
     "sum": {
@@ -86,7 +106,7 @@
   }, 
   {
    "lastAccept": 1508515530, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -106,7 +126,7 @@
   }, 
   {
    "lastAccept": 1508516044, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -126,7 +146,7 @@
   }, 
   {
    "lastAccept": 1508516077, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -146,7 +166,7 @@
   }, 
   {
    "lastAccept": 1508516429, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -166,7 +186,7 @@
   }, 
   {
    "lastAccept": 1508516520, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -186,7 +206,7 @@
   }, 
   {
    "lastAccept": 1508517091, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -206,7 +226,7 @@
   }, 
   {
    "lastAccept": 1508517153, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -226,7 +246,7 @@
   }, 
   {
    "lastAccept": 1508517209, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 858, 
    "taskStats": {
     "g00d_b0y": {
@@ -246,35 +266,19 @@
   }, 
   {
    "lastAccept": 1508515913, 
-   "pos": 13, 
-   "score": 665, 
+   "pos": 14, 
+   "score": 654, 
    "taskStats": {
     "g00d_b0y": {
      "points": 271, 
      "time": 1508515262
     }, 
     "hidden_program": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508515913
     }
    }, 
    "team": "securisecctf"
-  }, 
-  {
-   "lastAccept": 1508516645, 
-   "pos": 14, 
-   "score": 591, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 271, 
-     "time": 1508516305
-    }, 
-    "sum": {
-     "points": 320, 
-     "time": 1508516645
-    }
-   }, 
-   "team": "glua.team"
   }, 
   {
    "lastAccept": 1508517202, 
@@ -391,10 +395,10 @@
   {
    "lastAccept": 1508516876, 
    "pos": 22, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "hidden_program": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508516876
     }
    }, 
@@ -403,10 +407,10 @@
   {
    "lastAccept": 1508517048, 
    "pos": 23, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "hidden_program": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508517048
     }
    }, 
