@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508522560, 
    "pos": 1, 
-   "score": 1634, 
+   "score": 1613, 
    "taskStats": {
     "differential_privacy": {
      "points": 406, 
@@ -26,7 +26,7 @@
      "time": 1508516981
     }, 
     "top_secret": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508522560
     }
    }, 
@@ -89,8 +89,36 @@
    "team": "$wag"
   }, 
   {
-   "lastAccept": 1508518748, 
+   "lastAccept": 1508526497, 
    "pos": 4, 
+   "score": 1207, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 193, 
+     "time": 1508520992
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 163, 
+     "time": 1508515706
+    }, 
+    "hidden_program": {
+     "points": 225, 
+     "time": 1508519636
+    }, 
+    "sum": {
+     "points": 173, 
+     "time": 1508519839
+    }, 
+    "top_secret": {
+     "points": 453, 
+     "time": 1508526497
+    }
+   }, 
+   "team": "TeamRocketIst"
+  }, 
+  {
+   "lastAccept": 1508518748, 
+   "pos": 5, 
    "score": 1160, 
    "taskStats": {
     "differential_privacy": {
@@ -118,7 +146,7 @@
   }, 
   {
    "lastAccept": 1508521485, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1160, 
    "taskStats": {
     "differential_privacy": {
@@ -146,7 +174,7 @@
   }, 
   {
    "lastAccept": 1508521842, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1160, 
    "taskStats": {
     "differential_privacy": {
@@ -174,7 +202,7 @@
   }, 
   {
    "lastAccept": 1508526096, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1160, 
    "taskStats": {
     "differential_privacy": {
@@ -202,7 +230,7 @@
   }, 
   {
    "lastAccept": 1508520977, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 982, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -226,8 +254,8 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 9, 
-   "score": 892, 
+   "pos": 10, 
+   "score": 871, 
    "taskStats": {
     "g00d_b0y": {
      "points": 193, 
@@ -238,7 +266,7 @@
      "time": 1508517335
     }, 
     "top_secret": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508520890
     }
    }, 
@@ -246,7 +274,7 @@
   }, 
   {
    "lastAccept": 1508523120, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 859, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -262,7 +290,7 @@
   }, 
   {
    "lastAccept": 1508519475, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -286,7 +314,7 @@
   }, 
   {
    "lastAccept": 1508519520, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -310,7 +338,7 @@
   }, 
   {
    "lastAccept": 1508519622, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -334,7 +362,7 @@
   }, 
   {
    "lastAccept": 1508519861, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -358,7 +386,7 @@
   }, 
   {
    "lastAccept": 1508519904, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -382,7 +410,7 @@
   }, 
   {
    "lastAccept": 1508520213, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -406,7 +434,7 @@
   }, 
   {
    "lastAccept": 1508520277, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -430,7 +458,7 @@
   }, 
   {
    "lastAccept": 1508520699, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -454,7 +482,7 @@
   }, 
   {
    "lastAccept": 1508520845, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 754, 
    "taskStats": {
     "g00d_b0y": {
@@ -475,30 +503,6 @@
     }
    }, 
    "team": "muddgulch"
-  }, 
-  {
-   "lastAccept": 1508520992, 
-   "pos": 20, 
-   "score": 754, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 193, 
-     "time": 1508520992
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 163, 
-     "time": 1508515706
-    }, 
-    "hidden_program": {
-     "points": 225, 
-     "time": 1508519636
-    }, 
-    "sum": {
-     "points": 173, 
-     "time": 1508519839
-    }
-   }, 
-   "team": "TeamRocketIst"
   }, 
   {
    "lastAccept": 1508521333, 
