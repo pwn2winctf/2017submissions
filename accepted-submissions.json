@@ -1,25 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508515386, 
+   "lastAccept": 1508515530, 
    "pos": 1, 
-   "score": 847, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 347, 
-     "time": 1508514509
-    }, 
-    "sum": {
-     "points": 500, 
-     "time": 1508515386
-    }
-   }, 
-   "team": "=]Chapelaria[="
-  }, 
-  {
-   "lastAccept": 1508514594, 
-   "pos": 2, 
-   "score": 680, 
+   "score": 1154, 
    "taskStats": {
     "g00d_b0y": {
      "points": 347, 
@@ -28,9 +12,29 @@
     "great_cybernetic_revolution": {
      "points": 333, 
      "time": 1508514594
+    }, 
+    "sum": {
+     "points": 474, 
+     "time": 1508515530
     }
    }, 
    "team": "Itemize"
+  }, 
+  {
+   "lastAccept": 1508515386, 
+   "pos": 2, 
+   "score": 821, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 347, 
+     "time": 1508514509
+    }, 
+    "sum": {
+     "points": 474, 
+     "time": 1508515386
+    }
+   }, 
+   "team": "=]Chapelaria[="
   }, 
   {
    "lastAccept": 1508514884, 
