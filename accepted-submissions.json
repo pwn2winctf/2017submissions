@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508513933, 
    "pos": 1, 
-   "score": 453, 
+   "score": 435, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508513933
     }
    }, 
@@ -15,10 +15,10 @@
   {
    "lastAccept": 1508514043, 
    "pos": 2, 
-   "score": 453, 
+   "score": 435, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508514043
     }
    }, 
@@ -27,14 +27,26 @@
   {
    "lastAccept": 1508514298, 
    "pos": 3, 
-   "score": 453, 
+   "score": 435, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508514298
     }
    }, 
    "team": "JotC"
+  }, 
+  {
+   "lastAccept": 1508514502, 
+   "pos": 4, 
+   "score": 435, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 435, 
+     "time": 1508514502
+    }
+   }, 
+   "team": "Eat Sleep Pwn Repeat"
   }
  ], 
  "tasks": [
