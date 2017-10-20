@@ -3,14 +3,14 @@
   {
    "lastAccept": 1508528676, 
    "pos": 1, 
-   "score": 1983, 
+   "score": 1973, 
    "taskStats": {
     "criminals": {
      "points": 500, 
      "time": 1508528676
     }, 
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508519356
     }, 
     "g00d_b0y": {
@@ -151,10 +151,10 @@
   {
    "lastAccept": 1508518748, 
    "pos": 6, 
-   "score": 1077, 
+   "score": 1067, 
    "taskStats": {
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508517851
     }, 
     "g00d_b0y": {
@@ -179,10 +179,10 @@
   {
    "lastAccept": 1508521485, 
    "pos": 7, 
-   "score": 1077, 
+   "score": 1067, 
    "taskStats": {
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508521485
     }, 
     "g00d_b0y": {
@@ -207,10 +207,10 @@
   {
    "lastAccept": 1508521842, 
    "pos": 8, 
-   "score": 1077, 
+   "score": 1067, 
    "taskStats": {
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508521545
     }, 
     "g00d_b0y": {
@@ -235,10 +235,10 @@
   {
    "lastAccept": 1508526096, 
    "pos": 9, 
-   "score": 1077, 
+   "score": 1067, 
    "taskStats": {
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508526096
     }, 
     "g00d_b0y": {
@@ -263,10 +263,10 @@
   {
    "lastAccept": 1508529686, 
    "pos": 10, 
-   "score": 1077, 
+   "score": 1067, 
    "taskStats": {
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508529686
     }, 
     "g00d_b0y": {
@@ -289,8 +289,36 @@
    "team": "ShellCollectingClub"
   }, 
   {
-   "lastAccept": 1508528806, 
+   "lastAccept": 1508530125, 
    "pos": 11, 
+   "score": 1067, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 373, 
+     "time": 1508530125
+    }, 
+    "g00d_b0y": {
+     "points": 181, 
+     "time": 1508517219
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 144, 
+     "time": 1508518525
+    }, 
+    "hidden_program": {
+     "points": 208, 
+     "time": 1508518830
+    }, 
+    "sum": {
+     "points": 161, 
+     "time": 1508520277
+    }
+   }, 
+   "team": "RATF"
+  }, 
+  {
+   "lastAccept": 1508528806, 
+   "pos": 12, 
    "score": 986, 
    "taskStats": {
     "g00d_b0y": {
@@ -314,7 +342,7 @@
   }, 
   {
    "lastAccept": 1508520977, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 939, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -338,7 +366,7 @@
   }, 
   {
    "lastAccept": 1508528517, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 892, 
    "taskStats": {
     "g00d_b0y": {
@@ -362,15 +390,15 @@
   }, 
   {
    "lastAccept": 1508523120, 
-   "pos": 14, 
-   "score": 836, 
+   "pos": 15, 
+   "score": 826, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 453, 
      "time": 1508518938
     }, 
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508523120
     }
    }, 
@@ -378,7 +406,7 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 795, 
    "taskStats": {
     "g00d_b0y": {
@@ -398,7 +426,7 @@
   }, 
   {
    "lastAccept": 1508519520, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 694, 
    "taskStats": {
     "g00d_b0y": {
@@ -422,7 +450,7 @@
   }, 
   {
    "lastAccept": 1508519861, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 694, 
    "taskStats": {
     "g00d_b0y": {
@@ -446,7 +474,7 @@
   }, 
   {
    "lastAccept": 1508519904, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 694, 
    "taskStats": {
     "g00d_b0y": {
@@ -470,7 +498,7 @@
   }, 
   {
    "lastAccept": 1508520213, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 694, 
    "taskStats": {
     "g00d_b0y": {
@@ -491,30 +519,6 @@
     }
    }, 
    "team": "Kap0k"
-  }, 
-  {
-   "lastAccept": 1508520277, 
-   "pos": 20, 
-   "score": 694, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 181, 
-     "time": 1508517219
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 144, 
-     "time": 1508518525
-    }, 
-    "hidden_program": {
-     "points": 208, 
-     "time": 1508518830
-    }, 
-    "sum": {
-     "points": 161, 
-     "time": 1508520277
-    }
-   }, 
-   "team": "RATF"
   }, 
   {
    "lastAccept": 1508520699, 
@@ -847,10 +851,10 @@
   {
    "lastAccept": 1508528438, 
    "pos": 35, 
-   "score": 564, 
+   "score": 554, 
    "taskStats": {
     "differential_privacy": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508528438
     }, 
     "g00d_b0y": {
