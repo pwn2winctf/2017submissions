@@ -3,14 +3,14 @@
   {
    "lastAccept": 1508528676, 
    "pos": 1, 
-   "score": 1819, 
+   "score": 1812, 
    "taskStats": {
     "criminals": {
      "points": 474, 
      "time": 1508528676
     }, 
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508519356
     }, 
     "g00d_b0y": {
@@ -71,10 +71,10 @@
   {
    "lastAccept": 1508533256, 
    "pos": 3, 
-   "score": 1345, 
+   "score": 1338, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508530125
     }, 
     "g00d_b0y": {
@@ -103,14 +103,14 @@
   {
    "lastAccept": 1508532891, 
    "pos": 4, 
-   "score": 1258, 
+   "score": 1251, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 453, 
      "time": 1508518938
     }, 
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508523120
     }, 
     "g00d_b0y": {
@@ -159,14 +159,14 @@
   {
    "lastAccept": 1508532745, 
    "pos": 6, 
-   "score": 1117, 
+   "score": 1110, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 453, 
      "time": 1508525275
     }, 
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508531531
     }, 
     "great_cybernetic_revolution": {
@@ -323,10 +323,10 @@
   {
    "lastAccept": 1508518748, 
    "pos": 12, 
-   "score": 990, 
+   "score": 983, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508517851
     }, 
     "g00d_b0y": {
@@ -351,10 +351,10 @@
   {
    "lastAccept": 1508521485, 
    "pos": 13, 
-   "score": 990, 
+   "score": 983, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508521485
     }, 
     "g00d_b0y": {
@@ -379,10 +379,10 @@
   {
    "lastAccept": 1508521842, 
    "pos": 14, 
-   "score": 990, 
+   "score": 983, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508521545
     }, 
     "g00d_b0y": {
@@ -407,10 +407,10 @@
   {
    "lastAccept": 1508526096, 
    "pos": 15, 
-   "score": 990, 
+   "score": 983, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508526096
     }, 
     "g00d_b0y": {
@@ -435,10 +435,10 @@
   {
    "lastAccept": 1508529686, 
    "pos": 16, 
-   "score": 990, 
+   "score": 983, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508529686
     }, 
     "g00d_b0y": {
@@ -463,10 +463,10 @@
   {
    "lastAccept": 1508532775, 
    "pos": 17, 
-   "score": 990, 
+   "score": 983, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508531716
     }, 
     "g00d_b0y": {
@@ -491,10 +491,10 @@
   {
    "lastAccept": 1508534832, 
    "pos": 18, 
-   "score": 990, 
+   "score": 983, 
    "taskStats": {
     "differential_privacy": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508530691
     }, 
     "g00d_b0y": {
@@ -517,8 +517,36 @@
    "team": "RaBaTe pwners"
   }, 
   {
-   "lastAccept": 1508528806, 
+   "lastAccept": 1508534972, 
    "pos": 19, 
+   "score": 983, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 340, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 169, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 132, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 185, 
+     "time": 1508531481
+    }, 
+    "sum": {
+     "points": 157, 
+     "time": 1508528158
+    }
+   }, 
+   "team": "HackingForSoju"
+  }, 
+  {
+   "lastAccept": 1508528806, 
+   "pos": 20, 
    "score": 958, 
    "taskStats": {
     "g00d_b0y": {
@@ -542,7 +570,7 @@
   }, 
   {
    "lastAccept": 1508520977, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 911, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -566,7 +594,7 @@
   }, 
   {
    "lastAccept": 1508533945, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 829, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -590,7 +618,7 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 709, 
    "taskStats": {
     "g00d_b0y": {
@@ -610,7 +638,7 @@
   }, 
   {
    "lastAccept": 1508532657, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 644, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -630,7 +658,7 @@
   }, 
   {
    "lastAccept": 1508519520, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -654,7 +682,7 @@
   }, 
   {
    "lastAccept": 1508519861, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -678,7 +706,7 @@
   }, 
   {
    "lastAccept": 1508519904, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -702,7 +730,7 @@
   }, 
   {
    "lastAccept": 1508520213, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -726,7 +754,7 @@
   }, 
   {
    "lastAccept": 1508520699, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -750,7 +778,7 @@
   }, 
   {
    "lastAccept": 1508520845, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -774,7 +802,7 @@
   }, 
   {
    "lastAccept": 1508521894, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -798,7 +826,7 @@
   }, 
   {
    "lastAccept": 1508522050, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -822,7 +850,7 @@
   }, 
   {
    "lastAccept": 1508522878, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -846,7 +874,7 @@
   }, 
   {
    "lastAccept": 1508523033, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -870,7 +898,7 @@
   }, 
   {
    "lastAccept": 1508523449, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -894,7 +922,7 @@
   }, 
   {
    "lastAccept": 1508526662, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -918,7 +946,7 @@
   }, 
   {
    "lastAccept": 1508526858, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -942,7 +970,7 @@
   }, 
   {
    "lastAccept": 1508527423, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -966,7 +994,7 @@
   }, 
   {
    "lastAccept": 1508528763, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 643, 
    "taskStats": {
     "g00d_b0y": {
@@ -987,30 +1015,6 @@
     }
    }, 
    "team": "sampriti"
-  }, 
-  {
-   "lastAccept": 1508531481, 
-   "pos": 39, 
-   "score": 643, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 169, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 132, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 185, 
-     "time": 1508531481
-    }, 
-    "sum": {
-     "points": 157, 
-     "time": 1508528158
-    }
-   }, 
-   "team": "HackingForSoju"
   }, 
   {
    "lastAccept": 1508533929, 
@@ -1061,24 +1065,8 @@
    "team": "D_D_D"
   }, 
   {
-   "lastAccept": 1508528438, 
-   "pos": 42, 
-   "score": 516, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 347, 
-     "time": 1508528438
-    }, 
-    "g00d_b0y": {
-     "points": 169, 
-     "time": 1508523543
-    }
-   }, 
-   "team": "Notateam"
-  }, 
-  {
    "lastAccept": 1508517253, 
-   "pos": 43, 
+   "pos": 42, 
    "score": 511, 
    "taskStats": {
     "g00d_b0y": {
@@ -1095,6 +1083,22 @@
     }
    }, 
    "team": "glua.team"
+  }, 
+  {
+   "lastAccept": 1508528438, 
+   "pos": 43, 
+   "score": 509, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 340, 
+     "time": 1508528438
+    }, 
+    "g00d_b0y": {
+     "points": 169, 
+     "time": 1508523543
+    }
+   }, 
+   "team": "Notateam"
   }, 
   {
    "lastAccept": 1508529186, 
