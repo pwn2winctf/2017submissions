@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508528676, 
    "pos": 1, 
-   "score": 2013, 
+   "score": 1999, 
    "taskStats": {
     "criminals": {
      "points": 500, 
@@ -30,7 +30,7 @@
      "time": 1508516981
     }, 
     "top_secret": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508522560
     }
    }, 
@@ -95,7 +95,7 @@
   {
    "lastAccept": 1508526497, 
    "pos": 4, 
-   "score": 1119, 
+   "score": 1105, 
    "taskStats": {
     "g00d_b0y": {
      "points": 181, 
@@ -114,15 +114,43 @@
      "time": 1508519839
     }, 
     "top_secret": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508526497
     }
    }, 
    "team": "TeamRocketIst"
   }, 
   {
-   "lastAccept": 1508518748, 
+   "lastAccept": 1508529581, 
    "pos": 5, 
+   "score": 1105, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 181, 
+     "time": 1508519622
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 147, 
+     "time": 1508518964
+    }, 
+    "hidden_program": {
+     "points": 208, 
+     "time": 1508518465
+    }, 
+    "sum": {
+     "points": 163, 
+     "time": 1508519409
+    }, 
+    "top_secret": {
+     "points": 406, 
+     "time": 1508529581
+    }
+   }, 
+   "team": "PickleRick"
+  }, 
+  {
+   "lastAccept": 1508518748, 
+   "pos": 6, 
    "score": 1093, 
    "taskStats": {
     "differential_privacy": {
@@ -150,7 +178,7 @@
   }, 
   {
    "lastAccept": 1508521485, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 1093, 
    "taskStats": {
     "differential_privacy": {
@@ -178,7 +206,7 @@
   }, 
   {
    "lastAccept": 1508521842, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1093, 
    "taskStats": {
     "differential_privacy": {
@@ -206,7 +234,7 @@
   }, 
   {
    "lastAccept": 1508526096, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1093, 
    "taskStats": {
     "differential_privacy": {
@@ -234,7 +262,7 @@
   }, 
   {
    "lastAccept": 1508528806, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 991, 
    "taskStats": {
     "g00d_b0y": {
@@ -258,7 +286,7 @@
   }, 
   {
    "lastAccept": 1508520977, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 944, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -282,8 +310,8 @@
   }, 
   {
    "lastAccept": 1508528517, 
-   "pos": 11, 
-   "score": 911, 
+   "pos": 12, 
+   "score": 897, 
    "taskStats": {
     "g00d_b0y": {
      "points": 181, 
@@ -298,7 +326,7 @@
      "time": 1508521021
     }, 
     "top_secret": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508528517
     }
    }, 
@@ -306,7 +334,7 @@
   }, 
   {
    "lastAccept": 1508523120, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 847, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -322,8 +350,8 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 13, 
-   "score": 809, 
+   "pos": 14, 
+   "score": 795, 
    "taskStats": {
     "g00d_b0y": {
      "points": 181, 
@@ -334,7 +362,7 @@
      "time": 1508517335
     }, 
     "top_secret": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508520890
     }
    }, 
@@ -342,7 +370,7 @@
   }, 
   {
    "lastAccept": 1508519475, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 699, 
    "taskStats": {
     "g00d_b0y": {
@@ -366,7 +394,7 @@
   }, 
   {
    "lastAccept": 1508519520, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 699, 
    "taskStats": {
     "g00d_b0y": {
@@ -387,30 +415,6 @@
     }
    }, 
    "team": "Test Icicles"
-  }, 
-  {
-   "lastAccept": 1508519622, 
-   "pos": 16, 
-   "score": 699, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 181, 
-     "time": 1508519622
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 147, 
-     "time": 1508518964
-    }, 
-    "hidden_program": {
-     "points": 208, 
-     "time": 1508518465
-    }, 
-    "sum": {
-     "points": 163, 
-     "time": 1508519409
-    }
-   }, 
-   "team": "PickleRick"
   }, 
   {
    "lastAccept": 1508519861, 
@@ -1375,10 +1379,10 @@
   {
    "lastAccept": 1508528524, 
    "pos": 62, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "top_secret": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508528524
     }
    }, 
