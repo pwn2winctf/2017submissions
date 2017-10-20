@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508528676, 
    "pos": 1, 
-   "score": 1697, 
+   "score": 1691, 
    "taskStats": {
     "criminals": {
      "points": 474, 
@@ -30,7 +30,7 @@
      "time": 1508516981
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508522560
     }
    }, 
@@ -163,7 +163,7 @@
   {
    "lastAccept": 1508533256, 
    "pos": 6, 
-   "score": 1223, 
+   "score": 1217, 
    "taskStats": {
     "differential_privacy": {
      "points": 326, 
@@ -186,7 +186,7 @@
      "time": 1508520277
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508533256
     }
    }, 
@@ -195,7 +195,7 @@
   {
    "lastAccept": 1508538086, 
    "pos": 7, 
-   "score": 1223, 
+   "score": 1217, 
    "taskStats": {
     "differential_privacy": {
      "points": 326, 
@@ -218,7 +218,7 @@
      "time": 1508528158
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508538086
     }
    }, 
@@ -227,7 +227,7 @@
   {
    "lastAccept": 1508539685, 
    "pos": 8, 
-   "score": 1223, 
+   "score": 1217, 
    "taskStats": {
     "differential_privacy": {
      "points": 326, 
@@ -250,7 +250,7 @@
      "time": 1508520882
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508539685
     }
    }, 
@@ -449,64 +449,8 @@
    "team": "Crackchester"
   }, 
   {
-   "lastAccept": 1508526497, 
-   "pos": 16, 
-   "score": 897, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 151, 
-     "time": 1508520992
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 116, 
-     "time": 1508515706
-    }, 
-    "hidden_program": {
-     "points": 164, 
-     "time": 1508519636
-    }, 
-    "sum": {
-     "points": 140, 
-     "time": 1508519839
-    }, 
-    "top_secret": {
-     "points": 326, 
-     "time": 1508526497
-    }
-   }, 
-   "team": "TeamRocketIst"
-  }, 
-  {
-   "lastAccept": 1508529581, 
-   "pos": 17, 
-   "score": 897, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 151, 
-     "time": 1508519622
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 116, 
-     "time": 1508518964
-    }, 
-    "hidden_program": {
-     "points": 164, 
-     "time": 1508518465
-    }, 
-    "sum": {
-     "points": 140, 
-     "time": 1508519409
-    }, 
-    "top_secret": {
-     "points": 326, 
-     "time": 1508529581
-    }
-   }, 
-   "team": "PickleRick"
-  }, 
-  {
    "lastAccept": 1508529686, 
-   "pos": 18, 
+   "pos": 16, 
    "score": 897, 
    "taskStats": {
     "differential_privacy": {
@@ -533,92 +477,8 @@
    "team": "ShellCollectingClub"
   }, 
   {
-   "lastAccept": 1508530190, 
-   "pos": 19, 
-   "score": 897, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 151, 
-     "time": 1508519200
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 116, 
-     "time": 1508519416
-    }, 
-    "hidden_program": {
-     "points": 164, 
-     "time": 1508521333
-    }, 
-    "sum": {
-     "points": 140, 
-     "time": 1508520056
-    }, 
-    "top_secret": {
-     "points": 326, 
-     "time": 1508530190
-    }
-   }, 
-   "team": "Portal Guns"
-  }, 
-  {
-   "lastAccept": 1508532120, 
-   "pos": 20, 
-   "score": 897, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 151, 
-     "time": 1508515262
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 116, 
-     "time": 1508529463
-    }, 
-    "hidden_program": {
-     "points": 164, 
-     "time": 1508515913
-    }, 
-    "sum": {
-     "points": 140, 
-     "time": 1508527450
-    }, 
-    "top_secret": {
-     "points": 326, 
-     "time": 1508532120
-    }
-   }, 
-   "team": "securisecctf"
-  }, 
-  {
-   "lastAccept": 1508532293, 
-   "pos": 21, 
-   "score": 897, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 151, 
-     "time": 1508516816
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 116, 
-     "time": 1508521352
-    }, 
-    "hidden_program": {
-     "points": 164, 
-     "time": 1508532293
-    }, 
-    "sum": {
-     "points": 140, 
-     "time": 1508521021
-    }, 
-    "top_secret": {
-     "points": 326, 
-     "time": 1508528517
-    }
-   }, 
-   "team": "Xeroday Assassins"
-  }, 
-  {
    "lastAccept": 1508532775, 
-   "pos": 22, 
+   "pos": 17, 
    "score": 897, 
    "taskStats": {
     "differential_privacy": {
@@ -645,9 +505,149 @@
    "team": "NannyT"
   }, 
   {
+   "lastAccept": 1508526497, 
+   "pos": 18, 
+   "score": 891, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 151, 
+     "time": 1508520992
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 116, 
+     "time": 1508515706
+    }, 
+    "hidden_program": {
+     "points": 164, 
+     "time": 1508519636
+    }, 
+    "sum": {
+     "points": 140, 
+     "time": 1508519839
+    }, 
+    "top_secret": {
+     "points": 320, 
+     "time": 1508526497
+    }
+   }, 
+   "team": "TeamRocketIst"
+  }, 
+  {
+   "lastAccept": 1508529581, 
+   "pos": 19, 
+   "score": 891, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 151, 
+     "time": 1508519622
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 116, 
+     "time": 1508518964
+    }, 
+    "hidden_program": {
+     "points": 164, 
+     "time": 1508518465
+    }, 
+    "sum": {
+     "points": 140, 
+     "time": 1508519409
+    }, 
+    "top_secret": {
+     "points": 320, 
+     "time": 1508529581
+    }
+   }, 
+   "team": "PickleRick"
+  }, 
+  {
+   "lastAccept": 1508530190, 
+   "pos": 20, 
+   "score": 891, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 151, 
+     "time": 1508519200
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 116, 
+     "time": 1508519416
+    }, 
+    "hidden_program": {
+     "points": 164, 
+     "time": 1508521333
+    }, 
+    "sum": {
+     "points": 140, 
+     "time": 1508520056
+    }, 
+    "top_secret": {
+     "points": 320, 
+     "time": 1508530190
+    }
+   }, 
+   "team": "Portal Guns"
+  }, 
+  {
+   "lastAccept": 1508532120, 
+   "pos": 21, 
+   "score": 891, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 151, 
+     "time": 1508515262
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 116, 
+     "time": 1508529463
+    }, 
+    "hidden_program": {
+     "points": 164, 
+     "time": 1508515913
+    }, 
+    "sum": {
+     "points": 140, 
+     "time": 1508527450
+    }, 
+    "top_secret": {
+     "points": 320, 
+     "time": 1508532120
+    }
+   }, 
+   "team": "securisecctf"
+  }, 
+  {
+   "lastAccept": 1508532293, 
+   "pos": 22, 
+   "score": 891, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 151, 
+     "time": 1508516816
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 116, 
+     "time": 1508521352
+    }, 
+    "hidden_program": {
+     "points": 164, 
+     "time": 1508532293
+    }, 
+    "sum": {
+     "points": 140, 
+     "time": 1508521021
+    }, 
+    "top_secret": {
+     "points": 320, 
+     "time": 1508528517
+    }
+   }, 
+   "team": "Xeroday Assassins"
+  }, 
+  {
    "lastAccept": 1508537096, 
    "pos": 23, 
-   "score": 897, 
+   "score": 891, 
    "taskStats": {
     "g00d_b0y": {
      "points": 151, 
@@ -666,15 +666,43 @@
      "time": 1508523940
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508532523
     }
    }, 
    "team": "M57"
   }, 
   {
-   "lastAccept": 1508540614, 
+   "lastAccept": 1508541362, 
    "pos": 24, 
+   "score": 891, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 151, 
+     "time": 1508521579
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 116, 
+     "time": 1508518582
+    }, 
+    "hidden_program": {
+     "points": 164, 
+     "time": 1508523033
+    }, 
+    "sum": {
+     "points": 140, 
+     "time": 1508518654
+    }, 
+    "top_secret": {
+     "points": 320, 
+     "time": 1508541362
+    }
+   }, 
+   "team": "wha1s0s1r1us"
+  }, 
+  {
+   "lastAccept": 1508540614, 
+   "pos": 25, 
    "score": 767, 
    "taskStats": {
     "g00d_b0y": {
@@ -694,7 +722,7 @@
   }, 
   {
    "lastAccept": 1508539002, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 757, 
    "taskStats": {
     "differential_privacy": {
@@ -718,8 +746,8 @@
   }, 
   {
    "lastAccept": 1508535675, 
-   "pos": 26, 
-   "score": 746, 
+   "pos": 27, 
+   "score": 740, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 116, 
@@ -734,7 +762,7 @@
      "time": 1508526243
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508532657
     }
    }, 
@@ -742,7 +770,7 @@
   }, 
   {
    "lastAccept": 1508540128, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 733, 
    "taskStats": {
     "differential_privacy": {
@@ -766,8 +794,8 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 28, 
-   "score": 641, 
+   "pos": 29, 
+   "score": 635, 
    "taskStats": {
     "g00d_b0y": {
      "points": 151, 
@@ -778,7 +806,7 @@
      "time": 1508517335
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508520890
     }
    }, 
@@ -786,8 +814,8 @@
   }, 
   {
    "lastAccept": 1508539472, 
-   "pos": 29, 
-   "score": 593, 
+   "pos": 30, 
+   "score": 587, 
    "taskStats": {
     "g00d_b0y": {
      "points": 151, 
@@ -798,7 +826,7 @@
      "time": 1508526526
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508536192
     }
    }, 
@@ -806,8 +834,8 @@
   }, 
   {
    "lastAccept": 1508536582, 
-   "pos": 30, 
-   "score": 582, 
+   "pos": 31, 
+   "score": 576, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 116, 
@@ -818,7 +846,7 @@
      "time": 1508524870
     }, 
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508536582
     }
    }, 
@@ -826,7 +854,7 @@
   }, 
   {
    "lastAccept": 1508519520, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -850,7 +878,7 @@
   }, 
   {
    "lastAccept": 1508519861, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -874,7 +902,7 @@
   }, 
   {
    "lastAccept": 1508519904, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -898,7 +926,7 @@
   }, 
   {
    "lastAccept": 1508520213, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -922,7 +950,7 @@
   }, 
   {
    "lastAccept": 1508520699, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -946,7 +974,7 @@
   }, 
   {
    "lastAccept": 1508520845, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -970,7 +998,7 @@
   }, 
   {
    "lastAccept": 1508521894, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -994,7 +1022,7 @@
   }, 
   {
    "lastAccept": 1508522050, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -1018,7 +1046,7 @@
   }, 
   {
    "lastAccept": 1508522878, 
-   "pos": 39, 
+   "pos": 40, 
    "score": 571, 
    "taskStats": {
     "g00d_b0y": {
@@ -1039,30 +1067,6 @@
     }
    }, 
    "team": "P_TE"
-  }, 
-  {
-   "lastAccept": 1508523033, 
-   "pos": 40, 
-   "score": 571, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 151, 
-     "time": 1508521579
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 116, 
-     "time": 1508518582
-    }, 
-    "hidden_program": {
-     "points": 164, 
-     "time": 1508523033
-    }, 
-    "sum": {
-     "points": 140, 
-     "time": 1508518654
-    }
-   }, 
-   "team": "wha1s0s1r1us"
   }, 
   {
    "lastAccept": 1508523449, 
@@ -2007,10 +2011,10 @@
   {
    "lastAccept": 1508528524, 
    "pos": 86, 
-   "score": 326, 
+   "score": 320, 
    "taskStats": {
     "top_secret": {
-     "points": 326, 
+     "points": 320, 
      "time": 1508528524
     }
    }, 
