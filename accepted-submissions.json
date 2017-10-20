@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508522560, 
    "pos": 1, 
-   "score": 1748, 
+   "score": 1733, 
    "taskStats": {
     "differential_privacy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508519356
     }, 
     "g00d_b0y": {
@@ -63,10 +63,10 @@
   {
    "lastAccept": 1508518748, 
    "pos": 3, 
-   "score": 1274, 
+   "score": 1259, 
    "taskStats": {
     "differential_privacy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508517851
     }, 
     "g00d_b0y": {
@@ -91,10 +91,10 @@
   {
    "lastAccept": 1508521485, 
    "pos": 4, 
-   "score": 1274, 
+   "score": 1259, 
    "taskStats": {
     "differential_privacy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508521485
     }, 
     "g00d_b0y": {
@@ -119,10 +119,10 @@
   {
    "lastAccept": 1508521842, 
    "pos": 5, 
-   "score": 1274, 
+   "score": 1259, 
    "taskStats": {
     "differential_privacy": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508521545
     }, 
     "g00d_b0y": {
@@ -189,8 +189,24 @@
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
-   "lastAccept": 1508519475, 
+   "lastAccept": 1508523120, 
    "pos": 8, 
+   "score": 894, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 474, 
+     "time": 1508518938
+    }, 
+    "differential_privacy": {
+     "points": 420, 
+     "time": 1508523120
+    }
+   }, 
+   "team": "Pwnium"
+  }, 
+  {
+   "lastAccept": 1508519475, 
+   "pos": 9, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -214,7 +230,7 @@
   }, 
   {
    "lastAccept": 1508519520, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -238,7 +254,7 @@
   }, 
   {
    "lastAccept": 1508519622, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -262,7 +278,7 @@
   }, 
   {
    "lastAccept": 1508519861, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -286,7 +302,7 @@
   }, 
   {
    "lastAccept": 1508519904, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -310,7 +326,7 @@
   }, 
   {
    "lastAccept": 1508520213, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -334,7 +350,7 @@
   }, 
   {
    "lastAccept": 1508520277, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -358,7 +374,7 @@
   }, 
   {
    "lastAccept": 1508520699, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -382,7 +398,7 @@
   }, 
   {
    "lastAccept": 1508520845, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -406,7 +422,7 @@
   }, 
   {
    "lastAccept": 1508520992, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -430,7 +446,7 @@
   }, 
   {
    "lastAccept": 1508521333, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -454,7 +470,7 @@
   }, 
   {
    "lastAccept": 1508521779, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -478,7 +494,7 @@
   }, 
   {
    "lastAccept": 1508521894, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -502,7 +518,7 @@
   }, 
   {
    "lastAccept": 1508522050, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -526,7 +542,7 @@
   }, 
   {
    "lastAccept": 1508522878, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -550,7 +566,7 @@
   }, 
   {
    "lastAccept": 1508523033, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 839, 
    "taskStats": {
     "g00d_b0y": {
@@ -574,7 +590,7 @@
   }, 
   {
    "lastAccept": 1508517253, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 656, 
    "taskStats": {
     "g00d_b0y": {
@@ -594,7 +610,7 @@
   }, 
   {
    "lastAccept": 1508516655, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 629, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -614,7 +630,7 @@
   }, 
   {
    "lastAccept": 1508516847, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 629, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -634,7 +650,7 @@
   }, 
   {
    "lastAccept": 1508516952, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 629, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -654,7 +670,7 @@
   }, 
   {
    "lastAccept": 1508518839, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 629, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -674,7 +690,7 @@
   }, 
   {
    "lastAccept": 1508520350, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 629, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -694,7 +710,7 @@
   }, 
   {
    "lastAccept": 1508520585, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 629, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -714,7 +730,7 @@
   }, 
   {
    "lastAccept": 1508516044, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -734,7 +750,7 @@
   }, 
   {
    "lastAccept": 1508516520, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -754,7 +770,7 @@
   }, 
   {
    "lastAccept": 1508517307, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -774,7 +790,7 @@
   }, 
   {
    "lastAccept": 1508518163, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -794,7 +810,7 @@
   }, 
   {
    "lastAccept": 1508518531, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -814,7 +830,7 @@
   }, 
   {
    "lastAccept": 1508519286, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -834,7 +850,7 @@
   }, 
   {
    "lastAccept": 1508519724, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -854,7 +870,7 @@
   }, 
   {
    "lastAccept": 1508521352, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 599, 
    "taskStats": {
     "g00d_b0y": {
@@ -871,18 +887,6 @@
     }
    }, 
    "team": "Xeroday Assassins"
-  }, 
-  {
-   "lastAccept": 1508518938, 
-   "pos": 39, 
-   "score": 474, 
-   "taskStats": {
-    "asymmetric_encryption": {
-     "points": 474, 
-     "time": 1508518938
-    }
-   }, 
-   "team": "Pwnium"
   }, 
   {
    "lastAccept": 1508515913, 
