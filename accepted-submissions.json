@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508513933, 
    "pos": 1, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508513933
     }
    }, 
@@ -15,10 +15,10 @@
   {
    "lastAccept": 1508514043, 
    "pos": 2, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508514043
     }
    }, 
@@ -27,10 +27,10 @@
   {
    "lastAccept": 1508514298, 
    "pos": 3, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508514298
     }
    }, 
@@ -39,14 +39,26 @@
   {
    "lastAccept": 1508514502, 
    "pos": 4, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508514502
     }
    }, 
    "team": "Eat Sleep Pwn Repeat"
+  }, 
+  {
+   "lastAccept": 1508514509, 
+   "pos": 5, 
+   "score": 420, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 420, 
+     "time": 1508514509
+    }
+   }, 
+   "team": "=]Chapelaria[="
   }
  ], 
  "tasks": [
