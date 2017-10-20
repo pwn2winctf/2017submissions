@@ -1,2 +1,19 @@
 {
+ "standings": [
+  {
+   "lastAccept": 1508513933, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 500, 
+     "time": 1508513933
+    }
+   }, 
+   "team": "DanishNationalTeam"
+  }
+ ], 
+ "tasks": [
+  "g00d_b0y"
+ ]
 }
