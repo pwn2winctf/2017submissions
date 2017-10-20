@@ -18,5 +18,9 @@
  {
   "msg": "People Throwing 2: The challenge pendulum is a normal pendulum, where the pivot oscilates in horizontal.", 
   "time": 1508529069
+ }, 
+ {
+  "msg": "Botnet in the Wild: Your goal is to pwn the bot, not the C2.", 
+  "time": 1508538996
  }
 ]
