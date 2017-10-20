@@ -1,8 +1,32 @@
 {
  "standings": [
   {
-   "lastAccept": 1508516981, 
+   "lastAccept": 1508517851, 
    "pos": 1, 
+   "score": 1324, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 500, 
+     "time": 1508517851
+    }, 
+    "g00d_b0y": {
+     "points": 267, 
+     "time": 1508514043
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 249, 
+     "time": 1508514594
+    }, 
+    "sum": {
+     "points": 308, 
+     "time": 1508515530
+    }
+   }, 
+   "team": "Itemize"
+  }, 
+  {
+   "lastAccept": 1508516981, 
+   "pos": 2, 
    "score": 1187, 
    "taskStats": {
     "g00d_b0y": {
@@ -26,7 +50,7 @@
   }, 
   {
    "lastAccept": 1508517253, 
-   "pos": 2, 
+   "pos": 3, 
    "score": 938, 
    "taskStats": {
     "g00d_b0y": {
@@ -46,7 +70,7 @@
   }, 
   {
    "lastAccept": 1508516655, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 920, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -66,7 +90,7 @@
   }, 
   {
    "lastAccept": 1508516847, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 920, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -86,7 +110,7 @@
   }, 
   {
    "lastAccept": 1508516952, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 920, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -103,26 +127,6 @@
     }
    }, 
    "team": "Dogod"
-  }, 
-  {
-   "lastAccept": 1508515530, 
-   "pos": 6, 
-   "score": 824, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 267, 
-     "time": 1508514043
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 249, 
-     "time": 1508514594
-    }, 
-    "sum": {
-     "points": 308, 
-     "time": 1508515530
-    }
-   }, 
-   "team": "Itemize"
   }, 
   {
    "lastAccept": 1508516044, 
@@ -713,6 +717,7 @@
   "g00d_b0y", 
   "great_cybernetic_revolution", 
   "sum", 
-  "hidden_program"
+  "hidden_program", 
+  "differential_privacy"
  ]
 }
