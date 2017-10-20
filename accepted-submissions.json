@@ -3,14 +3,26 @@
   {
    "lastAccept": 1508513933, 
    "pos": 1, 
-   "score": 500, 
+   "score": 474, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508513933
     }
    }, 
    "team": "DanishNationalTeam"
+  }, 
+  {
+   "lastAccept": 1508514043, 
+   "pos": 2, 
+   "score": 474, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 474, 
+     "time": 1508514043
+    }
+   }, 
+   "team": "Itemize"
   }
  ], 
  "tasks": [
