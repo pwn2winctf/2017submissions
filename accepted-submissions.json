@@ -3,14 +3,14 @@
   {
    "lastAccept": 1508514594, 
    "pos": 1, 
-   "score": 726, 
+   "score": 718, 
    "taskStats": {
     "g00d_b0y": {
      "points": 363, 
      "time": 1508514043
     }, 
     "great_cybernetic_revolution": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508514594
     }
    }, 
@@ -19,14 +19,14 @@
   {
    "lastAccept": 1508514884, 
    "pos": 2, 
-   "score": 726, 
+   "score": 718, 
    "taskStats": {
     "g00d_b0y": {
      "points": 363, 
      "time": 1508514298
     }, 
     "great_cybernetic_revolution": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508514884
     }
    }, 
@@ -35,14 +35,14 @@
   {
    "lastAccept": 1508515281, 
    "pos": 3, 
-   "score": 726, 
+   "score": 718, 
    "taskStats": {
     "g00d_b0y": {
      "points": 363, 
      "time": 1508514787
     }, 
     "great_cybernetic_revolution": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508515281
     }
    }, 
@@ -51,14 +51,14 @@
   {
    "lastAccept": 1508515289, 
    "pos": 4, 
-   "score": 726, 
+   "score": 718, 
    "taskStats": {
     "g00d_b0y": {
      "points": 363, 
      "time": 1508515289
     }, 
     "great_cybernetic_revolution": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508515254
     }
    }, 
@@ -113,32 +113,8 @@
    "team": "Q.ta_con(T,sen(0))"
   }, 
   {
-   "lastAccept": 1508514749, 
-   "pos": 9, 
-   "score": 363, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 363, 
-     "time": 1508514749
-    }
-   }, 
-   "team": "howest"
-  }, 
-  {
-   "lastAccept": 1508514845, 
-   "pos": 10, 
-   "score": 363, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 363, 
-     "time": 1508514845
-    }
-   }, 
-   "team": "Dogod"
-  }, 
-  {
    "lastAccept": 1508514898, 
-   "pos": 11, 
+   "pos": 9, 
    "score": 363, 
    "taskStats": {
     "g00d_b0y": {
@@ -149,56 +125,8 @@
    "team": "omnia-modi"
   }, 
   {
-   "lastAccept": 1508514904, 
-   "pos": 12, 
-   "score": 363, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 363, 
-     "time": 1508514904
-    }
-   }, 
-   "team": "PackdeSys"
-  }, 
-  {
-   "lastAccept": 1508515013, 
-   "pos": 13, 
-   "score": 363, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 363, 
-     "time": 1508515013
-    }
-   }, 
-   "team": "reza"
-  }, 
-  {
-   "lastAccept": 1508515165, 
-   "pos": 14, 
-   "score": 363, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 363, 
-     "time": 1508515165
-    }
-   }, 
-   "team": "sampriti"
-  }, 
-  {
-   "lastAccept": 1508515238, 
-   "pos": 15, 
-   "score": 363, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 363, 
-     "time": 1508515238
-    }
-   }, 
-   "team": "Kap0k"
-  }, 
-  {
    "lastAccept": 1508515262, 
-   "pos": 16, 
+   "pos": 10, 
    "score": 363, 
    "taskStats": {
     "g00d_b0y": {
@@ -207,6 +135,90 @@
     }
    }, 
    "team": "securisecctf"
+  }, 
+  {
+   "lastAccept": 1508514749, 
+   "pos": 11, 
+   "score": 355, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 355, 
+     "time": 1508514749
+    }
+   }, 
+   "team": "howest"
+  }, 
+  {
+   "lastAccept": 1508514845, 
+   "pos": 12, 
+   "score": 355, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 355, 
+     "time": 1508514845
+    }
+   }, 
+   "team": "Dogod"
+  }, 
+  {
+   "lastAccept": 1508514904, 
+   "pos": 13, 
+   "score": 355, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 355, 
+     "time": 1508514904
+    }
+   }, 
+   "team": "PackdeSys"
+  }, 
+  {
+   "lastAccept": 1508515013, 
+   "pos": 14, 
+   "score": 355, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 355, 
+     "time": 1508515013
+    }
+   }, 
+   "team": "reza"
+  }, 
+  {
+   "lastAccept": 1508515165, 
+   "pos": 15, 
+   "score": 355, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 355, 
+     "time": 1508515165
+    }
+   }, 
+   "team": "sampriti"
+  }, 
+  {
+   "lastAccept": 1508515238, 
+   "pos": 16, 
+   "score": 355, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 355, 
+     "time": 1508515238
+    }
+   }, 
+   "team": "Kap0k"
+  }, 
+  {
+   "lastAccept": 1508515299, 
+   "pos": 17, 
+   "score": 355, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 355, 
+     "time": 1508515299
+    }
+   }, 
+   "team": "Come to Try Fortune"
   }
  ], 
  "tasks": [
