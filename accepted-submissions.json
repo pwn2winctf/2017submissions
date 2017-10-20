@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508513933, 
    "pos": 1, 
-   "score": 474, 
+   "score": 453, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508513933
     }
    }, 
@@ -15,14 +15,26 @@
   {
    "lastAccept": 1508514043, 
    "pos": 2, 
-   "score": 474, 
+   "score": 453, 
    "taskStats": {
     "g00d_b0y": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508514043
     }
    }, 
    "team": "Itemize"
+  }, 
+  {
+   "lastAccept": 1508514298, 
+   "pos": 3, 
+   "score": 453, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 453, 
+     "time": 1508514298
+    }
+   }, 
+   "team": "JotC"
   }
  ], 
  "tasks": [
