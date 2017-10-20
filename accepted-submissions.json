@@ -3,26 +3,42 @@
   {
    "lastAccept": 1508514594, 
    "pos": 1, 
-   "score": 847, 
+   "score": 829, 
    "taskStats": {
     "g00d_b0y": {
      "points": 394, 
      "time": 1508514043
     }, 
     "great_cybernetic_revolution": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508514594
     }
    }, 
    "team": "Itemize"
   }, 
   {
-   "lastAccept": 1508514749, 
+   "lastAccept": 1508514884, 
    "pos": 2, 
-   "score": 453, 
+   "score": 829, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 394, 
+     "time": 1508514298
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 435, 
+     "time": 1508514884
+    }
+   }, 
+   "team": "JotC"
+  }, 
+  {
+   "lastAccept": 1508514749, 
+   "pos": 3, 
+   "score": 435, 
    "taskStats": {
     "great_cybernetic_revolution": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508514749
     }
    }, 
@@ -30,11 +46,11 @@
   }, 
   {
    "lastAccept": 1508514845, 
-   "pos": 3, 
-   "score": 453, 
+   "pos": 4, 
+   "score": 435, 
    "taskStats": {
     "great_cybernetic_revolution": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508514845
     }
    }, 
@@ -42,7 +58,7 @@
   }, 
   {
    "lastAccept": 1508513933, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 394, 
    "taskStats": {
     "g00d_b0y": {
@@ -51,18 +67,6 @@
     }
    }, 
    "team": "DanishNationalTeam"
-  }, 
-  {
-   "lastAccept": 1508514298, 
-   "pos": 5, 
-   "score": 394, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 394, 
-     "time": 1508514298
-    }
-   }, 
-   "team": "JotC"
   }, 
   {
    "lastAccept": 1508514502, 
