@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508528676, 
+   "lastAccept": 1508541716, 
    "pos": 1, 
-   "score": 1689, 
+   "score": 2189, 
    "taskStats": {
     "criminals": {
      "points": 474, 
@@ -24,6 +24,10 @@
     "hidden_program": {
      "points": 164, 
      "time": 1508516866
+    }, 
+    "pretty_it_all": {
+     "points": 500, 
+     "time": 1508541716
     }, 
     "sum": {
      "points": 138, 
@@ -2547,6 +2551,7 @@
   "criminals", 
   "executive_order", 
   "baby_regex", 
-  "rootkit"
+  "rootkit", 
+  "pretty_it_all"
  ]
 }
