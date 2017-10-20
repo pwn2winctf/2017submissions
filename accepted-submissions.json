@@ -1,10 +1,14 @@
 {
  "standings": [
   {
-   "lastAccept": 1508522560, 
+   "lastAccept": 1508528676, 
    "pos": 1, 
-   "score": 1526, 
+   "score": 2026, 
    "taskStats": {
+    "criminals": {
+     "points": 500, 
+     "time": 1508528676
+    }, 
     "differential_privacy": {
      "points": 394, 
      "time": 1508519356
@@ -1875,6 +1879,7 @@
   "top_secret", 
   "warehouse", 
   "achievement_unlocked", 
-  "sehlokodemais"
+  "sehlokodemais", 
+  "criminals"
  ]
 }
