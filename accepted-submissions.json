@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508528676, 
    "pos": 1, 
-   "score": 1917, 
+   "score": 1891, 
    "taskStats": {
     "criminals": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508528676
     }, 
     "differential_privacy": {
@@ -37,10 +37,14 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508522099, 
+   "lastAccept": 1508531924, 
    "pos": 2, 
-   "score": 1176, 
+   "score": 1650, 
    "taskStats": {
+    "criminals": {
+     "points": 474, 
+     "time": 1508531924
+    }, 
     "g00d_b0y": {
      "points": 176, 
      "time": 1508521905
