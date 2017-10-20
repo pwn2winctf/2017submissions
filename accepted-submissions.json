@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508515530, 
    "pos": 1, 
-   "score": 1094, 
+   "score": 1076, 
    "taskStats": {
     "g00d_b0y": {
      "points": 333, 
@@ -14,7 +14,7 @@
      "time": 1508514594
     }, 
     "sum": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508515530
     }
    }, 
@@ -23,7 +23,7 @@
   {
    "lastAccept": 1508516044, 
    "pos": 2, 
-   "score": 1094, 
+   "score": 1076, 
    "taskStats": {
     "g00d_b0y": {
      "points": 333, 
@@ -34,27 +34,31 @@
      "time": 1508515281
     }, 
     "sum": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508516044
     }
    }, 
    "team": "randomstr"
   }, 
   {
-   "lastAccept": 1508515386, 
+   "lastAccept": 1508516077, 
    "pos": 3, 
-   "score": 786, 
+   "score": 1076, 
    "taskStats": {
     "g00d_b0y": {
      "points": 333, 
-     "time": 1508514509
+     "time": 1508515352
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 308, 
+     "time": 1508515471
     }, 
     "sum": {
-     "points": 453, 
-     "time": 1508515386
+     "points": 435, 
+     "time": 1508516077
     }
    }, 
-   "team": "=]Chapelaria[="
+   "team": "ShellCollectingClub"
   }, 
   {
    "lastAccept": 1508515913, 
@@ -73,8 +77,24 @@
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1508515760, 
+   "lastAccept": 1508515386, 
    "pos": 5, 
+   "score": 768, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 333, 
+     "time": 1508514509
+    }, 
+    "sum": {
+     "points": 435, 
+     "time": 1508515386
+    }
+   }, 
+   "team": "=]Chapelaria[="
+  }, 
+  {
+   "lastAccept": 1508515760, 
+   "pos": 6, 
    "score": 761, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -90,7 +110,7 @@
   }, 
   {
    "lastAccept": 1508514884, 
-   "pos": 6, 
+   "pos": 7, 
    "score": 641, 
    "taskStats": {
     "g00d_b0y": {
@@ -106,7 +126,7 @@
   }, 
   {
    "lastAccept": 1508515289, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 641, 
    "taskStats": {
     "g00d_b0y": {
@@ -122,7 +142,7 @@
   }, 
   {
    "lastAccept": 1508515426, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 641, 
    "taskStats": {
     "g00d_b0y": {
@@ -135,22 +155,6 @@
     }
    }, 
    "team": "DanishNationalTeam"
-  }, 
-  {
-   "lastAccept": 1508515471, 
-   "pos": 9, 
-   "score": 641, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 333, 
-     "time": 1508515352
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 308, 
-     "time": 1508515471
-    }
-   }, 
-   "team": "ShellCollectingClub"
   }, 
   {
    "lastAccept": 1508515541, 
