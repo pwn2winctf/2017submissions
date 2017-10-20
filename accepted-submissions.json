@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508516981, 
    "pos": 1, 
-   "score": 1237, 
+   "score": 1227, 
    "taskStats": {
     "g00d_b0y": {
      "points": 271, 
@@ -14,7 +14,7 @@
      "time": 1508516555
     }, 
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508516866
     }, 
     "sum": {
@@ -27,14 +27,14 @@
   {
    "lastAccept": 1508517253, 
    "pos": 2, 
-   "score": 974, 
+   "score": 964, 
    "taskStats": {
     "g00d_b0y": {
      "points": 271, 
      "time": 1508516305
     }, 
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508517253
     }, 
     "sum": {
@@ -47,14 +47,14 @@
   {
    "lastAccept": 1508516655, 
    "pos": 3, 
-   "score": 966, 
+   "score": 956, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 263, 
      "time": 1508515327
     }, 
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508516655
     }, 
     "sum": {
@@ -67,14 +67,14 @@
   {
    "lastAccept": 1508516847, 
    "pos": 4, 
-   "score": 966, 
+   "score": 956, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 263, 
      "time": 1508516847
     }, 
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508515636
     }, 
     "sum": {
@@ -87,14 +87,14 @@
   {
    "lastAccept": 1508516952, 
    "pos": 5, 
-   "score": 966, 
+   "score": 956, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 263, 
      "time": 1508514845
     }, 
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508515760
     }, 
     "sum": {
@@ -287,22 +287,38 @@
   {
    "lastAccept": 1508515913, 
    "pos": 15, 
-   "score": 654, 
+   "score": 644, 
    "taskStats": {
     "g00d_b0y": {
      "points": 271, 
      "time": 1508515262
     }, 
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508515913
     }
    }, 
    "team": "securisecctf"
   }, 
   {
-   "lastAccept": 1508516296, 
+   "lastAccept": 1508517335, 
    "pos": 16, 
+   "score": 644, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 271, 
+     "time": 1508514502
+    }, 
+    "hidden_program": {
+     "points": 373, 
+     "time": 1508517335
+    }
+   }, 
+   "team": "Eat Sleep Pwn Repeat"
+  }, 
+  {
+   "lastAccept": 1508516296, 
+   "pos": 17, 
    "score": 583, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -318,7 +334,7 @@
   }, 
   {
    "lastAccept": 1508515289, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 534, 
    "taskStats": {
     "g00d_b0y": {
@@ -334,7 +350,7 @@
   }, 
   {
    "lastAccept": 1508515426, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 534, 
    "taskStats": {
     "g00d_b0y": {
@@ -350,7 +366,7 @@
   }, 
   {
    "lastAccept": 1508515541, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 534, 
    "taskStats": {
     "g00d_b0y": {
@@ -366,7 +382,7 @@
   }, 
   {
    "lastAccept": 1508516110, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 534, 
    "taskStats": {
     "g00d_b0y": {
@@ -382,7 +398,7 @@
   }, 
   {
    "lastAccept": 1508516465, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 534, 
    "taskStats": {
     "g00d_b0y": {
@@ -398,11 +414,11 @@
   }, 
   {
    "lastAccept": 1508516876, 
-   "pos": 22, 
-   "score": 383, 
+   "pos": 23, 
+   "score": 373, 
    "taskStats": {
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508516876
     }
    }, 
@@ -410,11 +426,11 @@
   }, 
   {
    "lastAccept": 1508517048, 
-   "pos": 23, 
-   "score": 383, 
+   "pos": 24, 
+   "score": 373, 
    "taskStats": {
     "hidden_program": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508517048
     }
    }, 
@@ -422,7 +438,7 @@
   }, 
   {
    "lastAccept": 1508516549, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 320, 
    "taskStats": {
     "sum": {
@@ -431,18 +447,6 @@
     }
    }, 
    "team": "mingtsay"
-  }, 
-  {
-   "lastAccept": 1508514502, 
-   "pos": 25, 
-   "score": 271, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 271, 
-     "time": 1508514502
-    }
-   }, 
-   "team": "Eat Sleep Pwn Repeat"
   }, 
   {
    "lastAccept": 1508514652, 
