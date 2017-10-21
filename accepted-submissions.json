@@ -55,7 +55,7 @@
   {
    "lastAccept": 1508595865, 
    "pos": 2, 
-   "score": 2960, 
+   "score": 2946, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 453, 
@@ -86,7 +86,7 @@
      "time": 1508526243
     }, 
     "tokens_v20": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508552740
     }, 
     "top_secret": {
@@ -107,7 +107,7 @@
   {
    "lastAccept": 1508597391, 
    "pos": 3, 
-   "score": 2804, 
+   "score": 2790, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 355, 
@@ -142,7 +142,7 @@
      "time": 1508578541
     }, 
     "tokens_v20": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508594140
     }, 
     "top_secret": {
@@ -207,7 +207,7 @@
   {
    "lastAccept": 1508561194, 
    "pos": 5, 
-   "score": 1870, 
+   "score": 1856, 
    "taskStats": {
     "baby_regex": {
      "points": 383, 
@@ -238,7 +238,7 @@
      "time": 1508524497
     }, 
     "tokens_v20": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508545806
     }
    }, 
@@ -465,8 +465,40 @@
    "team": "Kap0k"
   }, 
   {
-   "lastAccept": 1508568561, 
+   "lastAccept": 1508599118, 
    "pos": 12, 
+   "score": 1337, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 355, 
+     "time": 1508566892
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 74, 
+     "time": 1508518174
+    }, 
+    "hidden_program": {
+     "points": 111, 
+     "time": 1508560021
+    }, 
+    "sum": {
+     "points": 93, 
+     "time": 1508559396
+    }, 
+    "tokens_v20": {
+     "points": 406, 
+     "time": 1508599118
+    }, 
+    "warehouse": {
+     "points": 298, 
+     "time": 1508554794
+    }
+   }, 
+   "team": "scryptos"
+  }, 
+  {
+   "lastAccept": 1508568561, 
+   "pos": 13, 
    "score": 1278, 
    "taskStats": {
     "baby_regex": {
@@ -502,7 +534,7 @@
   }, 
   {
    "lastAccept": 1508597438, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1244, 
    "taskStats": {
     "achievement_unlocked": {
@@ -534,7 +566,7 @@
   }, 
   {
    "lastAccept": 1508582094, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1193, 
    "taskStats": {
     "differential_privacy": {
@@ -570,7 +602,7 @@
   }, 
   {
    "lastAccept": 1508598985, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1161, 
    "taskStats": {
     "baby_regex": {
@@ -598,7 +630,7 @@
   }, 
   {
    "lastAccept": 1508592554, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 1094, 
    "taskStats": {
     "g00d_b0y": {
@@ -626,8 +658,8 @@
   }, 
   {
    "lastAccept": 1508589503, 
-   "pos": 17, 
-   "score": 1052, 
+   "pos": 18, 
+   "score": 1038, 
    "taskStats": {
     "differential_privacy": {
      "points": 243, 
@@ -650,7 +682,7 @@
      "time": 1508517496
     }, 
     "tokens_v20": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508582792
     }
    }, 
@@ -658,7 +690,7 @@
   }, 
   {
    "lastAccept": 1508597013, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 1035, 
    "taskStats": {
     "baby_regex": {
@@ -690,7 +722,7 @@
   }, 
   {
    "lastAccept": 1508535520, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 987, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -722,8 +754,8 @@
   }, 
   {
    "lastAccept": 1508564928, 
-   "pos": 20, 
-   "score": 951, 
+   "pos": 21, 
+   "score": 937, 
    "taskStats": {
     "criminals": {
      "points": 420, 
@@ -734,39 +766,11 @@
      "time": 1508534151
     }, 
     "tokens_v20": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508549920
     }
    }, 
    "team": "CH1ll"
-  }, 
-  {
-   "lastAccept": 1508566892, 
-   "pos": 21, 
-   "score": 931, 
-   "taskStats": {
-    "asymmetric_encryption": {
-     "points": 355, 
-     "time": 1508566892
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 74, 
-     "time": 1508518174
-    }, 
-    "hidden_program": {
-     "points": 111, 
-     "time": 1508560021
-    }, 
-    "sum": {
-     "points": 93, 
-     "time": 1508559396
-    }, 
-    "warehouse": {
-     "points": 298, 
-     "time": 1508554794
-    }
-   }, 
-   "team": "scryptos"
   }, 
   {
    "lastAccept": 1508597643, 
