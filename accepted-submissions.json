@@ -2081,8 +2081,24 @@
    "team": "kerouac"
   }, 
   {
-   "lastAccept": 1508598922, 
+   "lastAccept": 1508599229, 
    "pos": 69, 
+   "score": 494, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 420, 
+     "time": 1508598331
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 74, 
+     "time": 1508599229
+    }
+   }, 
+   "team": "eee"
+  }, 
+  {
+   "lastAccept": 1508598922, 
+   "pos": 70, 
    "score": 464, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -2099,18 +2115,6 @@
     }
    }, 
    "team": "Inshall'Hack"
-  }, 
-  {
-   "lastAccept": 1508598331, 
-   "pos": 70, 
-   "score": 420, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 420, 
-     "time": 1508598331
-    }
-   }, 
-   "team": "eee"
   }, 
   {
    "lastAccept": 1508519861, 
