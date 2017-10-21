@@ -1841,8 +1841,36 @@
    "team": "sampriti"
   }, 
   {
-   "lastAccept": 1508597528, 
+   "lastAccept": 1508622268, 
    "pos": 52, 
+   "score": 651, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 326, 
+     "time": 1508618243
+    }, 
+    "g00d_b0y": {
+     "points": 98, 
+     "time": 1508610210
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 60, 
+     "time": 1508520655
+    }, 
+    "hidden_program": {
+     "points": 93, 
+     "time": 1508622268
+    }, 
+    "sum": {
+     "points": 74, 
+     "time": 1508619452
+    }
+   }, 
+   "team": "$7UNF15K"
+  }, 
+  {
+   "lastAccept": 1508597528, 
+   "pos": 53, 
    "score": 600, 
    "taskStats": {
     "g00d_b0y": {
@@ -1870,7 +1898,7 @@
   }, 
   {
    "lastAccept": 1508618394, 
-   "pos": 53, 
+   "pos": 54, 
    "score": 600, 
    "taskStats": {
     "g00d_b0y": {
@@ -1898,7 +1926,7 @@
   }, 
   {
    "lastAccept": 1508549541, 
-   "pos": 54, 
+   "pos": 55, 
    "score": 587, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -1918,7 +1946,7 @@
   }, 
   {
    "lastAccept": 1508529581, 
-   "pos": 55, 
+   "pos": 56, 
    "score": 581, 
    "taskStats": {
     "g00d_b0y": {
@@ -1946,7 +1974,7 @@
   }, 
   {
    "lastAccept": 1508530190, 
-   "pos": 56, 
+   "pos": 57, 
    "score": 581, 
    "taskStats": {
     "g00d_b0y": {
@@ -1974,7 +2002,7 @@
   }, 
   {
    "lastAccept": 1508532120, 
-   "pos": 57, 
+   "pos": 58, 
    "score": 581, 
    "taskStats": {
     "g00d_b0y": {
@@ -2002,7 +2030,7 @@
   }, 
   {
    "lastAccept": 1508532293, 
-   "pos": 58, 
+   "pos": 59, 
    "score": 581, 
    "taskStats": {
     "g00d_b0y": {
@@ -2030,7 +2058,7 @@
   }, 
   {
    "lastAccept": 1508541362, 
-   "pos": 59, 
+   "pos": 60, 
    "score": 581, 
    "taskStats": {
     "g00d_b0y": {
@@ -2058,7 +2086,7 @@
   }, 
   {
    "lastAccept": 1508562901, 
-   "pos": 60, 
+   "pos": 61, 
    "score": 581, 
    "taskStats": {
     "g00d_b0y": {
@@ -2086,7 +2114,7 @@
   }, 
   {
    "lastAccept": 1508566728, 
-   "pos": 61, 
+   "pos": 62, 
    "score": 581, 
    "taskStats": {
     "g00d_b0y": {
@@ -2114,7 +2142,7 @@
   }, 
   {
    "lastAccept": 1508578011, 
-   "pos": 62, 
+   "pos": 63, 
    "score": 569, 
    "taskStats": {
     "differential_privacy": {
@@ -2134,7 +2162,7 @@
   }, 
   {
    "lastAccept": 1508562470, 
-   "pos": 63, 
+   "pos": 64, 
    "score": 567, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -2155,30 +2183,6 @@
     }
    }, 
    "team": "guatitasec"
-  }, 
-  {
-   "lastAccept": 1508619452, 
-   "pos": 64, 
-   "score": 558, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 326, 
-     "time": 1508618243
-    }, 
-    "g00d_b0y": {
-     "points": 98, 
-     "time": 1508610210
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 60, 
-     "time": 1508520655
-    }, 
-    "sum": {
-     "points": 74, 
-     "time": 1508619452
-    }
-   }, 
-   "team": "$7UNF15K"
   }, 
   {
    "lastAccept": 1508518748, 
