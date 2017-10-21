@@ -3187,6 +3187,18 @@
     }
    }, 
    "team": "TheGoonies"
+  }, 
+  {
+   "lastAccept": 1508562942, 
+   "pos": 150, 
+   "score": 93, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 93, 
+     "time": 1508562942
+    }
+   }, 
+   "team": "yes"
   }
  ], 
  "tasks": [
