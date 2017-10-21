@@ -1,8 +1,64 @@
 {
  "standings": [
   {
-   "lastAccept": 1508596309, 
+   "lastAccept": 1508601311, 
    "pos": 1, 
+   "score": 3225, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 355, 
+     "time": 1508583631
+    }, 
+    "baby_regex": {
+     "points": 383, 
+     "time": 1508586721
+    }, 
+    "differential_privacy": {
+     "points": 234, 
+     "time": 1508586090
+    }, 
+    "g00d_b0y": {
+     "points": 109, 
+     "time": 1508514502
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 72, 
+     "time": 1508578367
+    }, 
+    "hidden_program": {
+     "points": 109, 
+     "time": 1508517335
+    }, 
+    "pretty_it_all": {
+     "points": 453, 
+     "time": 1508597391
+    }, 
+    "sum": {
+     "points": 90, 
+     "time": 1508578541
+    }, 
+    "tokens_v20": {
+     "points": 406, 
+     "time": 1508594140
+    }, 
+    "top_secret": {
+     "points": 263, 
+     "time": 1508520890
+    }, 
+    "warehouse": {
+     "points": 298, 
+     "time": 1508589946
+    }, 
+    "wrong_user": {
+     "points": 453, 
+     "time": 1508601311
+    }
+   }, 
+   "team": "Eat Sleep Pwn Repeat"
+  }, 
+  {
+   "lastAccept": 1508596309, 
+   "pos": 2, 
    "score": 3060, 
    "taskStats": {
     "baby_regex": {
@@ -54,8 +110,8 @@
   }, 
   {
    "lastAccept": 1508595865, 
-   "pos": 2, 
-   "score": 2928, 
+   "pos": 3, 
+   "score": 2907, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 453, 
@@ -98,68 +154,16 @@
      "time": 1508552794
     }, 
     "wrong_user": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508587619
     }
    }, 
    "team": "Dragon Sector"
   }, 
   {
-   "lastAccept": 1508597391, 
-   "pos": 3, 
-   "score": 2772, 
-   "taskStats": {
-    "asymmetric_encryption": {
-     "points": 355, 
-     "time": 1508583631
-    }, 
-    "baby_regex": {
-     "points": 383, 
-     "time": 1508586721
-    }, 
-    "differential_privacy": {
-     "points": 234, 
-     "time": 1508586090
-    }, 
-    "g00d_b0y": {
-     "points": 109, 
-     "time": 1508514502
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 72, 
-     "time": 1508578367
-    }, 
-    "hidden_program": {
-     "points": 109, 
-     "time": 1508517335
-    }, 
-    "pretty_it_all": {
-     "points": 453, 
-     "time": 1508597391
-    }, 
-    "sum": {
-     "points": 90, 
-     "time": 1508578541
-    }, 
-    "tokens_v20": {
-     "points": 406, 
-     "time": 1508594140
-    }, 
-    "top_secret": {
-     "points": 263, 
-     "time": 1508520890
-    }, 
-    "warehouse": {
-     "points": 298, 
-     "time": 1508589946
-    }
-   }, 
-   "team": "Eat Sleep Pwn Repeat"
-  }, 
-  {
    "lastAccept": 1508594819, 
    "pos": 4, 
-   "score": 2537, 
+   "score": 2516, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 453, 
@@ -198,7 +202,7 @@
      "time": 1508584734
     }, 
     "wrong_user": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508594463
     }
    }, 
