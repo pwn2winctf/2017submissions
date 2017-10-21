@@ -45,8 +45,48 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508553624, 
+   "lastAccept": 1508556356, 
    "pos": 2, 
+   "score": 2178, 
+   "taskStats": {
+    "blackbox_pentesting": {
+     "points": 500, 
+     "time": 1508556356
+    }, 
+    "criminals": {
+     "points": 474, 
+     "time": 1508531924
+    }, 
+    "differential_privacy": {
+     "points": 293, 
+     "time": 1508545113
+    }, 
+    "g00d_b0y": {
+     "points": 139, 
+     "time": 1508521905
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 96, 
+     "time": 1508522099
+    }, 
+    "hidden_program": {
+     "points": 138, 
+     "time": 1508519168
+    }, 
+    "sum": {
+     "points": 118, 
+     "time": 1508519257
+    }, 
+    "warehouse": {
+     "points": 420, 
+     "time": 1508521719
+    }
+   }, 
+   "team": "sec0d"
+  }, 
+  {
+   "lastAccept": 1508553624, 
+   "pos": 3, 
    "score": 1892, 
    "taskStats": {
     "baby_regex": {
@@ -79,42 +119,6 @@
     }
    }, 
    "team": "Windows is Updating"
-  }, 
-  {
-   "lastAccept": 1508545113, 
-   "pos": 3, 
-   "score": 1678, 
-   "taskStats": {
-    "criminals": {
-     "points": 474, 
-     "time": 1508531924
-    }, 
-    "differential_privacy": {
-     "points": 293, 
-     "time": 1508545113
-    }, 
-    "g00d_b0y": {
-     "points": 139, 
-     "time": 1508521905
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 96, 
-     "time": 1508522099
-    }, 
-    "hidden_program": {
-     "points": 138, 
-     "time": 1508519168
-    }, 
-    "sum": {
-     "points": 118, 
-     "time": 1508519257
-    }, 
-    "warehouse": {
-     "points": 420, 
-     "time": 1508521719
-    }
-   }, 
-   "team": "sec0d"
   }, 
   {
    "lastAccept": 1508552794, 
@@ -3053,6 +3057,7 @@
   "baby_regex", 
   "rootkit", 
   "pretty_it_all", 
-  "tokens_v20"
+  "tokens_v20", 
+  "blackbox_pentesting"
  ]
 }
