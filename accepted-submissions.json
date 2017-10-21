@@ -139,7 +139,7 @@
   {
    "lastAccept": 1508561194, 
    "pos": 4, 
-   "score": 2013, 
+   "score": 1992, 
    "taskStats": {
     "baby_regex": {
      "points": 435, 
@@ -162,7 +162,7 @@
      "time": 1508553624
     }, 
     "sehlokodemais": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508527438
     }, 
     "sum": {
@@ -217,9 +217,49 @@
    "team": "sec0d"
   }, 
   {
-   "lastAccept": 1508559638, 
+   "lastAccept": 1508590975, 
    "pos": 6, 
-   "score": 1636, 
+   "score": 1707, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 256, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 118, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 80, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 116, 
+     "time": 1508531481
+    }, 
+    "sehlokodemais": {
+     "points": 453, 
+     "time": 1508590975
+    }, 
+    "sum": {
+     "points": 99, 
+     "time": 1508528158
+    }, 
+    "top_secret": {
+     "points": 271, 
+     "time": 1508538086
+    }, 
+    "warehouse": {
+     "points": 314, 
+     "time": 1508584734
+    }
+   }, 
+   "team": "HackingForSoju"
+  }, 
+  {
+   "lastAccept": 1508559638, 
+   "pos": 7, 
+   "score": 1615, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 435, 
@@ -238,7 +278,7 @@
      "time": 1508515636
     }, 
     "sehlokodemais": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508536405
     }, 
     "sum": {
@@ -254,7 +294,7 @@
   }, 
   {
    "lastAccept": 1508590520, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1590, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -290,7 +330,7 @@
   }, 
   {
    "lastAccept": 1508568561, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1375, 
    "taskStats": {
     "baby_regex": {
@@ -326,7 +366,7 @@
   }, 
   {
    "lastAccept": 1508590453, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1348, 
    "taskStats": {
     "achievement_unlocked": {
@@ -358,7 +398,7 @@
   }, 
   {
    "lastAccept": 1508579465, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1319, 
    "taskStats": {
     "achievement_unlocked": {
@@ -390,7 +430,7 @@
   }, 
   {
    "lastAccept": 1508582094, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1254, 
    "taskStats": {
     "differential_privacy": {
@@ -423,42 +463,6 @@
     }
    }, 
    "team": "noraneco"
-  }, 
-  {
-   "lastAccept": 1508584734, 
-   "pos": 12, 
-   "score": 1254, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 256, 
-     "time": 1508534972
-    }, 
-    "g00d_b0y": {
-     "points": 118, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 80, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 116, 
-     "time": 1508531481
-    }, 
-    "sum": {
-     "points": 99, 
-     "time": 1508528158
-    }, 
-    "top_secret": {
-     "points": 271, 
-     "time": 1508538086
-    }, 
-    "warehouse": {
-     "points": 314, 
-     "time": 1508584734
-    }
-   }, 
-   "team": "HackingForSoju"
   }, 
   {
    "lastAccept": 1508577289, 
