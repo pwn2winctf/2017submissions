@@ -1,8 +1,60 @@
 {
  "standings": [
   {
-   "lastAccept": 1508595865, 
+   "lastAccept": 1508596309, 
    "pos": 1, 
+   "score": 3119, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 394, 
+     "time": 1508550974
+    }, 
+    "biometric_login": {
+     "points": 474, 
+     "time": 1508596309
+    }, 
+    "butchercorp_repository": {
+     "points": 453, 
+     "time": 1508592565
+    }, 
+    "criminals": {
+     "points": 420, 
+     "time": 1508528676
+    }, 
+    "differential_privacy": {
+     "points": 246, 
+     "time": 1508519356
+    }, 
+    "g00d_b0y": {
+     "points": 112, 
+     "time": 1508516751
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 77, 
+     "time": 1508516555
+    }, 
+    "hidden_program": {
+     "points": 112, 
+     "time": 1508516866
+    }, 
+    "pretty_it_all": {
+     "points": 474, 
+     "time": 1508541716
+    }, 
+    "sum": {
+     "points": 94, 
+     "time": 1508516981
+    }, 
+    "top_secret": {
+     "points": 263, 
+     "time": 1508522560
+    }
+   }, 
+   "team": "p4"
+  }, 
+  {
+   "lastAccept": 1508595865, 
+   "pos": 2, 
    "score": 2979, 
    "taskStats": {
     "butchercorp_repository": {
@@ -51,54 +103,6 @@
     }
    }, 
    "team": "Dragon Sector"
-  }, 
-  {
-   "lastAccept": 1508592565, 
-   "pos": 2, 
-   "score": 2645, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 394, 
-     "time": 1508550974
-    }, 
-    "butchercorp_repository": {
-     "points": 453, 
-     "time": 1508592565
-    }, 
-    "criminals": {
-     "points": 420, 
-     "time": 1508528676
-    }, 
-    "differential_privacy": {
-     "points": 246, 
-     "time": 1508519356
-    }, 
-    "g00d_b0y": {
-     "points": 112, 
-     "time": 1508516751
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 77, 
-     "time": 1508516555
-    }, 
-    "hidden_program": {
-     "points": 112, 
-     "time": 1508516866
-    }, 
-    "pretty_it_all": {
-     "points": 474, 
-     "time": 1508541716
-    }, 
-    "sum": {
-     "points": 94, 
-     "time": 1508516981
-    }, 
-    "top_secret": {
-     "points": 263, 
-     "time": 1508522560
-    }
-   }, 
-   "team": "p4"
   }, 
   {
    "lastAccept": 1508594819, 
@@ -387,14 +391,14 @@
   {
    "lastAccept": 1508590520, 
    "pos": 10, 
-   "score": 1566, 
+   "score": 1540, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 363, 
      "time": 1508590520
     }, 
     "biometric_login": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508573456
     }, 
     "g00d_b0y": {
