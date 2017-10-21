@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508550974, 
    "pos": 1, 
-   "score": 2298, 
+   "score": 2280, 
    "taskStats": {
     "baby_regex": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508550974
     }, 
     "criminals": {
@@ -91,10 +91,10 @@
   {
    "lastAccept": 1508561194, 
    "pos": 3, 
-   "score": 2042, 
+   "score": 2024, 
    "taskStats": {
     "baby_regex": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508540159
     }, 
     "differential_privacy": {
@@ -169,8 +169,48 @@
    "team": "sec0d"
   }, 
   {
-   "lastAccept": 1508559638, 
+   "lastAccept": 1508586721, 
    "pos": 5, 
+   "score": 1759, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 373, 
+     "time": 1508583631
+    }, 
+    "baby_regex": {
+     "points": 435, 
+     "time": 1508586721
+    }, 
+    "differential_privacy": {
+     "points": 260, 
+     "time": 1508586090
+    }, 
+    "g00d_b0y": {
+     "points": 121, 
+     "time": 1508514502
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 82, 
+     "time": 1508578367
+    }, 
+    "hidden_program": {
+     "points": 116, 
+     "time": 1508517335
+    }, 
+    "sum": {
+     "points": 101, 
+     "time": 1508578541
+    }, 
+    "top_secret": {
+     "points": 271, 
+     "time": 1508520890
+    }
+   }, 
+   "team": "Eat Sleep Pwn Repeat"
+  }, 
+  {
+   "lastAccept": 1508559638, 
+   "pos": 6, 
    "score": 1662, 
    "taskStats": {
     "achievement_unlocked": {
@@ -206,11 +246,11 @@
   }, 
   {
    "lastAccept": 1508568561, 
-   "pos": 6, 
-   "score": 1404, 
+   "pos": 7, 
+   "score": 1386, 
    "taskStats": {
     "baby_regex": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508568561
     }, 
     "differential_privacy": {
@@ -242,7 +282,7 @@
   }, 
   {
    "lastAccept": 1508579465, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1347, 
    "taskStats": {
     "achievement_unlocked": {
@@ -271,42 +311,6 @@
     }
    }, 
    "team": "0x00C0FFEE"
-  }, 
-  {
-   "lastAccept": 1508586090, 
-   "pos": 8, 
-   "score": 1324, 
-   "taskStats": {
-    "asymmetric_encryption": {
-     "points": 373, 
-     "time": 1508583631
-    }, 
-    "differential_privacy": {
-     "points": 260, 
-     "time": 1508586090
-    }, 
-    "g00d_b0y": {
-     "points": 121, 
-     "time": 1508514502
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 82, 
-     "time": 1508578367
-    }, 
-    "hidden_program": {
-     "points": 116, 
-     "time": 1508517335
-    }, 
-    "sum": {
-     "points": 101, 
-     "time": 1508578541
-    }, 
-    "top_secret": {
-     "points": 271, 
-     "time": 1508520890
-    }
-   }, 
-   "team": "Eat Sleep Pwn Repeat"
   }, 
   {
    "lastAccept": 1508582094, 
