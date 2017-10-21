@@ -3,14 +3,14 @@
   {
    "lastAccept": 1508550974, 
    "pos": 1, 
-   "score": 2512, 
+   "score": 2491, 
    "taskStats": {
     "baby_regex": {
      "points": 474, 
      "time": 1508550974
     }, 
     "criminals": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508528676
     }, 
     "differential_privacy": {
@@ -47,14 +47,14 @@
   {
    "lastAccept": 1508556356, 
    "pos": 2, 
-   "score": 2170, 
+   "score": 2149, 
    "taskStats": {
     "blackbox_pentesting": {
      "points": 500, 
      "time": 1508556356
     }, 
     "criminals": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508531924
     }, 
     "differential_privacy": {
@@ -85,8 +85,48 @@
    "team": "sec0d"
   }, 
   {
-   "lastAccept": 1508553624, 
+   "lastAccept": 1508557689, 
    "pos": 3, 
+   "score": 2128, 
+   "taskStats": {
+    "criminals": {
+     "points": 453, 
+     "time": 1508557689
+    }, 
+    "g00d_b0y": {
+     "points": 139, 
+     "time": 1508541994
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 96, 
+     "time": 1508525698
+    }, 
+    "hidden_program": {
+     "points": 136, 
+     "time": 1508535675
+    }, 
+    "sum": {
+     "points": 117, 
+     "time": 1508526243
+    }, 
+    "tokens_v20": {
+     "points": 453, 
+     "time": 1508552740
+    }, 
+    "top_secret": {
+     "points": 314, 
+     "time": 1508532657
+    }, 
+    "warehouse": {
+     "points": 420, 
+     "time": 1508552794
+    }
+   }, 
+   "team": "DragonSector"
+  }, 
+  {
+   "lastAccept": 1508553624, 
+   "pos": 4, 
    "score": 1889, 
    "taskStats": {
     "baby_regex": {
@@ -119,42 +159,6 @@
     }
    }, 
    "team": "Windows is Updating"
-  }, 
-  {
-   "lastAccept": 1508552794, 
-   "pos": 4, 
-   "score": 1675, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 139, 
-     "time": 1508541994
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 96, 
-     "time": 1508525698
-    }, 
-    "hidden_program": {
-     "points": 136, 
-     "time": 1508535675
-    }, 
-    "sum": {
-     "points": 117, 
-     "time": 1508526243
-    }, 
-    "tokens_v20": {
-     "points": 453, 
-     "time": 1508552740
-    }, 
-    "top_secret": {
-     "points": 314, 
-     "time": 1508532657
-    }, 
-    "warehouse": {
-     "points": 420, 
-     "time": 1508552794
-    }
-   }, 
-   "team": "DragonSector"
   }, 
   {
    "lastAccept": 1508536405, 
