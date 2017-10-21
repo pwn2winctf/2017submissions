@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508615718, 
+   "lastAccept": 1508627792, 
    "pos": 1, 
-   "score": 5481, 
+   "score": 5955, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -56,6 +56,10 @@
     "resistance": {
      "points": 406, 
      "time": 1508615050
+    }, 
+    "rootkit": {
+     "points": 474, 
+     "time": 1508627792
     }, 
     "sum": {
      "points": 73, 
@@ -883,7 +887,7 @@
   {
    "lastAccept": 1508623897, 
    "pos": 21, 
-   "score": 1149, 
+   "score": 1123, 
    "taskStats": {
     "baby_regex": {
      "points": 333, 
@@ -902,7 +906,7 @@
      "time": 1508623897
     }, 
     "rootkit": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508540528
     }, 
     "sum": {
