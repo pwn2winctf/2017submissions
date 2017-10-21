@@ -2269,8 +2269,32 @@
    "team": "PendolinoWarriors"
   }, 
   {
-   "lastAccept": 1508546900, 
+   "lastAccept": 1508611878, 
    "pos": 72, 
+   "score": 523, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 99, 
+     "time": 1508611137
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 65, 
+     "time": 1508602613
+    }, 
+    "sum": {
+     "points": 80, 
+     "time": 1508611878
+    }, 
+    "warehouse": {
+     "points": 279, 
+     "time": 1508576939
+    }
+   }, 
+   "team": "ntropy"
+  }, 
+  {
+   "lastAccept": 1508546900, 
+   "pos": 73, 
    "score": 504, 
    "taskStats": {
     "g00d_b0y": {
@@ -2294,7 +2318,7 @@
   }, 
   {
    "lastAccept": 1508544243, 
-   "pos": 73, 
+   "pos": 74, 
    "score": 472, 
    "taskStats": {
     "differential_privacy": {
@@ -2318,7 +2342,7 @@
   }, 
   {
    "lastAccept": 1508592893, 
-   "pos": 74, 
+   "pos": 75, 
    "score": 472, 
    "taskStats": {
     "differential_privacy": {
@@ -2339,26 +2363,6 @@
     }
    }, 
    "team": "kerouac"
-  }, 
-  {
-   "lastAccept": 1508611137, 
-   "pos": 75, 
-   "score": 443, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 99, 
-     "time": 1508611137
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 65, 
-     "time": 1508602613
-    }, 
-    "warehouse": {
-     "points": 279, 
-     "time": 1508576939
-    }
-   }, 
-   "team": "ntropy"
   }, 
   {
    "lastAccept": 1508598922, 
