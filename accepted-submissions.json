@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508550974, 
    "pos": 1, 
-   "score": 2418, 
+   "score": 2397, 
    "taskStats": {
     "baby_regex": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508550974
     }, 
     "criminals": {
@@ -91,10 +91,10 @@
   {
    "lastAccept": 1508561194, 
    "pos": 3, 
-   "score": 2138, 
+   "score": 2117, 
    "taskStats": {
     "baby_regex": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508540159
     }, 
     "differential_privacy": {
@@ -205,8 +205,44 @@
    "team": "$wag"
   }, 
   {
-   "lastAccept": 1508535520, 
+   "lastAccept": 1508568561, 
    "pos": 6, 
+   "score": 1488, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 453, 
+     "time": 1508568561
+    }, 
+    "differential_privacy": {
+     "points": 279, 
+     "time": 1508557364
+    }, 
+    "g00d_b0y": {
+     "points": 135, 
+     "time": 1508537096
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 91, 
+     "time": 1508530033
+    }, 
+    "hidden_program": {
+     "points": 123, 
+     "time": 1508533945
+    }, 
+    "sum": {
+     "points": 109, 
+     "time": 1508523940
+    }, 
+    "top_secret": {
+     "points": 298, 
+     "time": 1508532523
+    }
+   }, 
+   "team": "M57"
+  }, 
+  {
+   "lastAccept": 1508535520, 
+   "pos": 7, 
    "score": 1143, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -238,7 +274,7 @@
   }, 
   {
    "lastAccept": 1508567151, 
-   "pos": 7, 
+   "pos": 8, 
    "score": 1129, 
    "taskStats": {
     "g00d_b0y": {
@@ -270,7 +306,7 @@
   }, 
   {
    "lastAccept": 1508566892, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1102, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -298,7 +334,7 @@
   }, 
   {
    "lastAccept": 1508533256, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1035, 
    "taskStats": {
     "differential_privacy": {
@@ -330,7 +366,7 @@
   }, 
   {
    "lastAccept": 1508538086, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1035, 
    "taskStats": {
     "differential_privacy": {
@@ -362,7 +398,7 @@
   }, 
   {
    "lastAccept": 1508539685, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1035, 
    "taskStats": {
     "differential_privacy": {
@@ -391,38 +427,6 @@
     }
    }, 
    "team": "RaBaTe pwners"
-  }, 
-  {
-   "lastAccept": 1508557364, 
-   "pos": 12, 
-   "score": 1035, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 279, 
-     "time": 1508557364
-    }, 
-    "g00d_b0y": {
-     "points": 135, 
-     "time": 1508537096
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 91, 
-     "time": 1508530033
-    }, 
-    "hidden_program": {
-     "points": 123, 
-     "time": 1508533945
-    }, 
-    "sum": {
-     "points": 109, 
-     "time": 1508523940
-    }, 
-    "top_secret": {
-     "points": 298, 
-     "time": 1508532523
-    }
-   }, 
-   "team": "M57"
   }, 
   {
    "lastAccept": 1508559921, 
