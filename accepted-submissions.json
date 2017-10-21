@@ -4063,6 +4063,18 @@
     }
    }, 
    "team": "cryptocrybaby"
+  }, 
+  {
+   "lastAccept": 1508600506, 
+   "pos": 178, 
+   "score": 72, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 72, 
+     "time": 1508600506
+    }
+   }, 
+   "team": "OPT"
   }
  ], 
  "tasks": [
