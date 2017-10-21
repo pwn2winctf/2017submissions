@@ -47,7 +47,7 @@
   {
    "lastAccept": 1508558467, 
    "pos": 2, 
-   "score": 2279, 
+   "score": 2269, 
    "taskStats": {
     "criminals": {
      "points": 435, 
@@ -82,7 +82,7 @@
      "time": 1508532657
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508552794
     }
    }, 
@@ -131,7 +131,7 @@
   {
    "lastAccept": 1508556356, 
    "pos": 4, 
-   "score": 2033, 
+   "score": 2023, 
    "taskStats": {
     "blackbox_pentesting": {
      "points": 500, 
@@ -162,7 +162,7 @@
      "time": 1508519257
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508521719
     }
    }, 
@@ -171,7 +171,7 @@
   {
    "lastAccept": 1508559638, 
    "pos": 5, 
-   "score": 1771, 
+   "score": 1761, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 474, 
@@ -198,7 +198,7 @@
      "time": 1508516199
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508559638
     }
    }, 
@@ -275,7 +275,7 @@
   {
    "lastAccept": 1508567151, 
    "pos": 8, 
-   "score": 1116, 
+   "score": 1106, 
    "taskStats": {
     "g00d_b0y": {
      "points": 130, 
@@ -298,7 +298,7 @@
      "time": 1508567151
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508564225
     }
    }, 
@@ -307,7 +307,7 @@
   {
    "lastAccept": 1508566892, 
    "pos": 9, 
-   "score": 1099, 
+   "score": 1089, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 406, 
@@ -326,7 +326,7 @@
      "time": 1508559396
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508554794
     }
    }, 
@@ -545,8 +545,36 @@
    "team": "CH1ll"
   }, 
   {
-   "lastAccept": 1508539030, 
+   "lastAccept": 1508572018, 
    "pos": 17, 
+   "score": 979, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 275, 
+     "time": 1508539002
+    }, 
+    "g00d_b0y": {
+     "points": 130, 
+     "time": 1508515414
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 90, 
+     "time": 1508534846
+    }, 
+    "hidden_program": {
+     "points": 121, 
+     "time": 1508518338
+    }, 
+    "warehouse": {
+     "points": 363, 
+     "time": 1508572018
+    }
+   }, 
+   "team": "0x00C0FFEE"
+  }, 
+  {
+   "lastAccept": 1508539030, 
+   "pos": 18, 
    "score": 950, 
    "taskStats": {
     "executive_order": {
@@ -574,7 +602,7 @@
   }, 
   {
    "lastAccept": 1508532745, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 892, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -598,7 +626,7 @@
   }, 
   {
    "lastAccept": 1508539677, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 856, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -626,7 +654,7 @@
   }, 
   {
    "lastAccept": 1508549501, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 856, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -654,8 +682,8 @@
   }, 
   {
    "lastAccept": 1508560533, 
-   "pos": 21, 
-   "score": 823, 
+   "pos": 22, 
+   "score": 813, 
    "taskStats": {
     "g00d_b0y": {
      "points": 130, 
@@ -674,7 +702,7 @@
      "time": 1508519520
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508560533
     }
    }, 
@@ -682,7 +710,7 @@
   }, 
   {
    "lastAccept": 1508570597, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 803, 
    "taskStats": {
     "achievement_unlocked": {
@@ -706,7 +734,7 @@
   }, 
   {
    "lastAccept": 1508526497, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -734,7 +762,7 @@
   }, 
   {
    "lastAccept": 1508529581, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -762,7 +790,7 @@
   }, 
   {
    "lastAccept": 1508530190, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -790,7 +818,7 @@
   }, 
   {
    "lastAccept": 1508532120, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -818,7 +846,7 @@
   }, 
   {
    "lastAccept": 1508532293, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -846,7 +874,7 @@
   }, 
   {
    "lastAccept": 1508541362, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -874,7 +902,7 @@
   }, 
   {
    "lastAccept": 1508562901, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -902,7 +930,7 @@
   }, 
   {
    "lastAccept": 1508566728, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 743, 
    "taskStats": {
     "g00d_b0y": {
@@ -930,7 +958,7 @@
   }, 
   {
    "lastAccept": 1508562470, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 726, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -954,7 +982,7 @@
   }, 
   {
    "lastAccept": 1508518748, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -982,7 +1010,7 @@
   }, 
   {
    "lastAccept": 1508521485, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -1010,7 +1038,7 @@
   }, 
   {
    "lastAccept": 1508521842, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -1038,7 +1066,7 @@
   }, 
   {
    "lastAccept": 1508526096, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -1066,7 +1094,7 @@
   }, 
   {
    "lastAccept": 1508532775, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -1094,7 +1122,7 @@
   }, 
   {
    "lastAccept": 1508543889, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -1122,7 +1150,7 @@
   }, 
   {
    "lastAccept": 1508548474, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -1150,7 +1178,7 @@
   }, 
   {
    "lastAccept": 1508551712, 
-   "pos": 39, 
+   "pos": 40, 
    "score": 725, 
    "taskStats": {
     "differential_privacy": {
@@ -1178,7 +1206,7 @@
   }, 
   {
    "lastAccept": 1508540614, 
-   "pos": 40, 
+   "pos": 41, 
    "score": 720, 
    "taskStats": {
     "g00d_b0y": {
@@ -1198,8 +1226,8 @@
   }, 
   {
    "lastAccept": 1508541861, 
-   "pos": 41, 
-   "score": 714, 
+   "pos": 42, 
+   "score": 704, 
    "taskStats": {
     "g00d_b0y": {
      "points": 130, 
@@ -1214,7 +1242,7 @@
      "time": 1508528195
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508541861
     }
    }, 
@@ -1222,8 +1250,8 @@
   }, 
   {
    "lastAccept": 1508564616, 
-   "pos": 42, 
-   "score": 693, 
+   "pos": 43, 
+   "score": 683, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 90, 
@@ -1238,7 +1266,7 @@
      "time": 1508520585
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508564616
     }
    }, 
@@ -1246,7 +1274,7 @@
   }, 
   {
    "lastAccept": 1508549541, 
-   "pos": 43, 
+   "pos": 44, 
    "score": 673, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -1266,7 +1294,7 @@
   }, 
   {
    "lastAccept": 1508546900, 
-   "pos": 44, 
+   "pos": 45, 
    "score": 622, 
    "taskStats": {
     "g00d_b0y": {
@@ -1287,30 +1315,6 @@
     }
    }, 
    "team": "bolgia4"
-  }, 
-  {
-   "lastAccept": 1508539002, 
-   "pos": 45, 
-   "score": 616, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 275, 
-     "time": 1508539002
-    }, 
-    "g00d_b0y": {
-     "points": 130, 
-     "time": 1508515414
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 90, 
-     "time": 1508534846
-    }, 
-    "hidden_program": {
-     "points": 121, 
-     "time": 1508518338
-    }
-   }, 
-   "team": "0x00C0FFEE"
   }, 
   {
    "lastAccept": 1508552183, 
@@ -1407,14 +1411,14 @@
   {
    "lastAccept": 1508544021, 
    "pos": 50, 
-   "score": 494, 
+   "score": 484, 
    "taskStats": {
     "hidden_program": {
      "points": 121, 
      "time": 1508538704
     }, 
     "warehouse": {
-     "points": 373, 
+     "points": 363, 
      "time": 1508544021
     }
    }, 
