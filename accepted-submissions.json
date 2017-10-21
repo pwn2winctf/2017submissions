@@ -47,7 +47,7 @@
   {
    "lastAccept": 1508558467, 
    "pos": 2, 
-   "score": 2404, 
+   "score": 2390, 
    "taskStats": {
     "criminals": {
      "points": 453, 
@@ -82,7 +82,7 @@
      "time": 1508532657
     }, 
     "warehouse": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508552794
     }
    }, 
@@ -91,7 +91,7 @@
   {
    "lastAccept": 1508556356, 
    "pos": 3, 
-   "score": 2137, 
+   "score": 2123, 
    "taskStats": {
     "blackbox_pentesting": {
      "points": 500, 
@@ -122,7 +122,7 @@
      "time": 1508519257
     }, 
     "warehouse": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508521719
     }
    }, 
@@ -165,9 +165,9 @@
    "team": "Windows is Updating"
   }, 
   {
-   "lastAccept": 1508536405, 
+   "lastAccept": 1508559638, 
    "pos": 5, 
-   "score": 1455, 
+   "score": 1861, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 500, 
@@ -192,6 +192,10 @@
     "sum": {
      "points": 114, 
      "time": 1508516199
+    }, 
+    "warehouse": {
+     "points": 406, 
+     "time": 1508559638
     }
    }, 
    "team": "$wag"
@@ -635,7 +639,7 @@
   {
    "lastAccept": 1508541861, 
    "pos": 21, 
-   "score": 787, 
+   "score": 773, 
    "taskStats": {
     "g00d_b0y": {
      "points": 139, 
@@ -650,7 +654,7 @@
      "time": 1508528195
     }, 
     "warehouse": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508541861
     }
    }, 
@@ -1123,7 +1127,7 @@
   {
    "lastAccept": 1508559396, 
    "pos": 40, 
-   "score": 628, 
+   "score": 614, 
    "taskStats": {
     "great_cybernetic_revolution": {
      "points": 94, 
@@ -1134,7 +1138,7 @@
      "time": 1508559396
     }, 
     "warehouse": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508554794
     }
    }, 
@@ -1179,14 +1183,14 @@
   {
    "lastAccept": 1508544021, 
    "pos": 43, 
-   "score": 554, 
+   "score": 540, 
    "taskStats": {
     "hidden_program": {
      "points": 134, 
      "time": 1508538704
     }, 
     "warehouse": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508544021
     }
    }, 
