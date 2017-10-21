@@ -67,10 +67,10 @@
   {
    "lastAccept": 1508602335, 
    "pos": 2, 
-   "score": 3709, 
+   "score": 3697, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508602335
     }, 
     "baby_regex": {
@@ -307,10 +307,10 @@
   {
    "lastAccept": 1508600053, 
    "pos": 7, 
-   "score": 1650, 
+   "score": 1638, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508579465
     }, 
     "asymmetric_encryption": {
@@ -345,8 +345,44 @@
    "team": "0x00C0FFEE"
   }, 
   {
-   "lastAccept": 1508595103, 
+   "lastAccept": 1508603685, 
    "pos": 8, 
+   "score": 1632, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 394, 
+     "time": 1508603685
+    }, 
+    "executive_order": {
+     "points": 474, 
+     "time": 1508581856
+    }, 
+    "g00d_b0y": {
+     "points": 108, 
+     "time": 1508599510
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 68, 
+     "time": 1508525466
+    }, 
+    "hidden_program": {
+     "points": 107, 
+     "time": 1508525147
+    }, 
+    "sum": {
+     "points": 87, 
+     "time": 1508522795
+    }, 
+    "tokens_v20": {
+     "points": 394, 
+     "time": 1508603106
+    }
+   }, 
+   "team": "Chaitin"
+  }, 
+  {
+   "lastAccept": 1508595103, 
+   "pos": 9, 
    "score": 1582, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -382,11 +418,11 @@
   }, 
   {
    "lastAccept": 1508591812, 
-   "pos": 9, 
-   "score": 1564, 
+   "pos": 10, 
+   "score": 1552, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508574946
     }, 
     "g00d_b0y": {
@@ -418,11 +454,11 @@
   }, 
   {
    "lastAccept": 1508559638, 
-   "pos": 10, 
-   "score": 1499, 
+   "pos": 11, 
+   "score": 1487, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508525417
     }, 
     "g00d_b0y": {
@@ -454,7 +490,7 @@
   }, 
   {
    "lastAccept": 1508590520, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1487, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -490,7 +526,7 @@
   }, 
   {
    "lastAccept": 1508599614, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1407, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -526,7 +562,7 @@
   }, 
   {
    "lastAccept": 1508568561, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1247, 
    "taskStats": {
     "baby_regex": {
@@ -561,44 +597,12 @@
    "team": "M57"
   }, 
   {
-   "lastAccept": 1508603106, 
-   "pos": 14, 
-   "score": 1238, 
-   "taskStats": {
-    "executive_order": {
-     "points": 474, 
-     "time": 1508581856
-    }, 
-    "g00d_b0y": {
-     "points": 108, 
-     "time": 1508599510
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 68, 
-     "time": 1508525466
-    }, 
-    "hidden_program": {
-     "points": 107, 
-     "time": 1508525147
-    }, 
-    "sum": {
-     "points": 87, 
-     "time": 1508522795
-    }, 
-    "tokens_v20": {
-     "points": 394, 
-     "time": 1508603106
-    }
-   }, 
-   "team": "Chaitin"
-  }, 
-  {
    "lastAccept": 1508597438, 
    "pos": 15, 
-   "score": 1211, 
+   "score": 1199, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508570597
     }, 
     "g00d_b0y": {
@@ -2039,10 +2043,10 @@
   {
    "lastAccept": 1508600792, 
    "pos": 65, 
-   "score": 581, 
+   "score": 569, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508598331
     }, 
     "great_cybernetic_revolution": {
