@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508610304, 
    "pos": 1, 
-   "score": 4791, 
+   "score": 4780, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 373, 
@@ -54,7 +54,7 @@
      "time": 1508578541
     }, 
     "tokens_v20": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508594140
     }, 
     "top_secret": {
@@ -137,9 +137,61 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508595865, 
+   "lastAccept": 1508611208, 
    "pos": 3, 
-   "score": 2781, 
+   "score": 2784, 
+   "taskStats": {
+    "butchercorp_repository": {
+     "points": 435, 
+     "time": 1508594819
+    }, 
+    "differential_privacy": {
+     "points": 228, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 100, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 65, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 99, 
+     "time": 1508531481
+    }, 
+    "sehlokodemais": {
+     "points": 420, 
+     "time": 1508590975
+    }, 
+    "sum": {
+     "points": 80, 
+     "time": 1508528158
+    }, 
+    "tokens_v20": {
+     "points": 383, 
+     "time": 1508611208
+    }, 
+    "top_secret": {
+     "points": 260, 
+     "time": 1508538086
+    }, 
+    "warehouse": {
+     "points": 279, 
+     "time": 1508584734
+    }, 
+    "wrong_user": {
+     "points": 435, 
+     "time": 1508594463
+    }
+   }, 
+   "team": "HackingForSoju"
+  }, 
+  {
+   "lastAccept": 1508595865, 
+   "pos": 4, 
+   "score": 2770, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 435, 
@@ -170,7 +222,7 @@
      "time": 1508526243
     }, 
     "tokens_v20": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508552740
     }, 
     "top_secret": {
@@ -187,54 +239,6 @@
     }
    }, 
    "team": "Dragon Sector"
-  }, 
-  {
-   "lastAccept": 1508594819, 
-   "pos": 4, 
-   "score": 2401, 
-   "taskStats": {
-    "butchercorp_repository": {
-     "points": 435, 
-     "time": 1508594819
-    }, 
-    "differential_privacy": {
-     "points": 228, 
-     "time": 1508534972
-    }, 
-    "g00d_b0y": {
-     "points": 100, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 65, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 99, 
-     "time": 1508531481
-    }, 
-    "sehlokodemais": {
-     "points": 420, 
-     "time": 1508590975
-    }, 
-    "sum": {
-     "points": 80, 
-     "time": 1508528158
-    }, 
-    "top_secret": {
-     "points": 260, 
-     "time": 1508538086
-    }, 
-    "warehouse": {
-     "points": 279, 
-     "time": 1508584734
-    }, 
-    "wrong_user": {
-     "points": 435, 
-     "time": 1508594463
-    }
-   }, 
-   "team": "HackingForSoju"
   }, 
   {
    "lastAccept": 1508604961, 
@@ -283,7 +287,7 @@
   {
    "lastAccept": 1508561194, 
    "pos": 6, 
-   "score": 1749, 
+   "score": 1738, 
    "taskStats": {
     "baby_regex": {
      "points": 363, 
@@ -314,7 +318,7 @@
      "time": 1508524497
     }, 
     "tokens_v20": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508545806
     }
    }, 
@@ -363,7 +367,7 @@
   {
    "lastAccept": 1508603685, 
    "pos": 8, 
-   "score": 1585, 
+   "score": 1574, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 373, 
@@ -390,7 +394,7 @@
      "time": 1508522795
     }, 
     "tokens_v20": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508603106
     }
    }, 
@@ -543,7 +547,7 @@
   {
    "lastAccept": 1508599614, 
    "pos": 13, 
-   "score": 1364, 
+   "score": 1353, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 347, 
@@ -566,7 +570,7 @@
      "time": 1508559396
     }, 
     "tokens_v20": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508599118
     }, 
     "warehouse": {
@@ -975,7 +979,7 @@
   {
    "lastAccept": 1508589503, 
    "pos": 26, 
-   "score": 966, 
+   "score": 955, 
    "taskStats": {
     "differential_privacy": {
      "points": 228, 
@@ -998,7 +1002,7 @@
      "time": 1508517496
     }, 
     "tokens_v20": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508582792
     }
    }, 
@@ -1071,7 +1075,7 @@
   {
    "lastAccept": 1508564928, 
    "pos": 29, 
-   "score": 899, 
+   "score": 888, 
    "taskStats": {
     "criminals": {
      "points": 406, 
@@ -1082,7 +1086,7 @@
      "time": 1508534151
     }, 
     "tokens_v20": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508549920
     }
    }, 
