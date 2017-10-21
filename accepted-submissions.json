@@ -2197,8 +2197,28 @@
    "team": "Inshall'Hack"
   }, 
   {
-   "lastAccept": 1508601387, 
+   "lastAccept": 1508603500, 
    "pos": 72, 
+   "score": 444, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 69, 
+     "time": 1508603500
+    }, 
+    "sum": {
+     "points": 87, 
+     "time": 1508603328
+    }, 
+    "warehouse": {
+     "points": 288, 
+     "time": 1508602320
+    }
+   }, 
+   "team": "\u706b\u8f66\u8dd1\u7684\u5feb , \u5168\u9760\u6885\u795e\u5e26"
+  }, 
+  {
+   "lastAccept": 1508601387, 
+   "pos": 73, 
    "score": 408, 
    "taskStats": {
     "differential_privacy": {
@@ -2215,22 +2235,6 @@
     }
    }, 
    "team": "enTaris"
-  }, 
-  {
-   "lastAccept": 1508603328, 
-   "pos": 73, 
-   "score": 375, 
-   "taskStats": {
-    "sum": {
-     "points": 87, 
-     "time": 1508603328
-    }, 
-    "warehouse": {
-     "points": 288, 
-     "time": 1508602320
-    }
-   }, 
-   "team": "\u706b\u8f66\u8dd1\u7684\u5feb , \u5168\u9760\u6885\u795e\u5e26"
   }, 
   {
    "lastAccept": 1508519861, 
