@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508604245, 
    "pos": 1, 
-   "score": 4403, 
+   "score": 4385, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 383, 
@@ -62,16 +62,16 @@
      "time": 1508589946
     }, 
     "wrong_user": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508601311
     }
    }, 
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
-   "lastAccept": 1508602335, 
+   "lastAccept": 1508605234, 
    "pos": 2, 
-   "score": 3675, 
+   "score": 4110, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 383, 
@@ -124,6 +124,10 @@
     "warehouse": {
      "points": 288, 
      "time": 1508601459
+    }, 
+    "wrong_user": {
+     "points": 435, 
+     "time": 1508605234
     }
    }, 
    "team": "p4"
@@ -131,7 +135,7 @@
   {
    "lastAccept": 1508595865, 
    "pos": 3, 
-   "score": 2829, 
+   "score": 2811, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 435, 
@@ -174,7 +178,7 @@
      "time": 1508552794
     }, 
     "wrong_user": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508587619
     }
    }, 
@@ -183,7 +187,7 @@
   {
    "lastAccept": 1508594819, 
    "pos": 4, 
-   "score": 2449, 
+   "score": 2431, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 435, 
@@ -222,7 +226,7 @@
      "time": 1508584734
     }, 
     "wrong_user": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508594463
     }
    }, 
