@@ -3,10 +3,10 @@
   {
    "lastAccept": 1508615718, 
    "pos": 1, 
-   "score": 5654, 
+   "score": 5647, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508604245
     }, 
     "asymmetric_encryption": {
@@ -83,10 +83,10 @@
   {
    "lastAccept": 1508605234, 
    "pos": 2, 
-   "score": 3999, 
+   "score": 3992, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508602335
     }, 
     "baby_regex": {
@@ -145,8 +145,64 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508595865, 
+   "lastAccept": 1508616350, 
    "pos": 3, 
+   "score": 3083, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 340, 
+     "time": 1508616350
+    }, 
+    "butchercorp_repository": {
+     "points": 435, 
+     "time": 1508594819
+    }, 
+    "differential_privacy": {
+     "points": 223, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 98, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 63, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 98, 
+     "time": 1508531481
+    }, 
+    "sehlokodemais": {
+     "points": 406, 
+     "time": 1508590975
+    }, 
+    "sum": {
+     "points": 77, 
+     "time": 1508528158
+    }, 
+    "tokens_v20": {
+     "points": 373, 
+     "time": 1508611208
+    }, 
+    "top_secret": {
+     "points": 256, 
+     "time": 1508538086
+    }, 
+    "warehouse": {
+     "points": 279, 
+     "time": 1508584734
+    }, 
+    "wrong_user": {
+     "points": 435, 
+     "time": 1508594463
+    }
+   }, 
+   "team": "HackingForSoju"
+  }, 
+  {
+   "lastAccept": 1508595865, 
+   "pos": 4, 
    "score": 2743, 
    "taskStats": {
     "butchercorp_repository": {
@@ -197,58 +253,6 @@
    "team": "Dragon Sector"
   }, 
   {
-   "lastAccept": 1508611208, 
-   "pos": 4, 
-   "score": 2743, 
-   "taskStats": {
-    "butchercorp_repository": {
-     "points": 435, 
-     "time": 1508594819
-    }, 
-    "differential_privacy": {
-     "points": 223, 
-     "time": 1508534972
-    }, 
-    "g00d_b0y": {
-     "points": 98, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 63, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 98, 
-     "time": 1508531481
-    }, 
-    "sehlokodemais": {
-     "points": 406, 
-     "time": 1508590975
-    }, 
-    "sum": {
-     "points": 77, 
-     "time": 1508528158
-    }, 
-    "tokens_v20": {
-     "points": 373, 
-     "time": 1508611208
-    }, 
-    "top_secret": {
-     "points": 256, 
-     "time": 1508538086
-    }, 
-    "warehouse": {
-     "points": 279, 
-     "time": 1508584734
-    }, 
-    "wrong_user": {
-     "points": 435, 
-     "time": 1508594463
-    }
-   }, 
-   "team": "HackingForSoju"
-  }, 
-  {
    "lastAccept": 1508611936, 
    "pos": 5, 
    "score": 2193, 
@@ -295,10 +299,10 @@
   {
    "lastAccept": 1508604961, 
    "pos": 6, 
-   "score": 1938, 
+   "score": 1931, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508579465
     }, 
     "asymmetric_encryption": {
@@ -419,10 +423,10 @@
   {
    "lastAccept": 1508603685, 
    "pos": 9, 
-   "score": 1530, 
+   "score": 1523, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508603685
     }, 
     "executive_order": {
@@ -455,10 +459,10 @@
   {
    "lastAccept": 1508591812, 
    "pos": 10, 
-   "score": 1462, 
+   "score": 1455, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508574946
     }, 
     "g00d_b0y": {
@@ -527,10 +531,10 @@
   {
    "lastAccept": 1508559638, 
    "pos": 12, 
-   "score": 1368, 
+   "score": 1361, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508525417
     }, 
     "g00d_b0y": {
@@ -563,10 +567,10 @@
   {
    "lastAccept": 1508612867, 
    "pos": 13, 
-   "score": 1368, 
+   "score": 1361, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508611885
     }, 
     "g00d_b0y": {
@@ -947,10 +951,10 @@
   {
    "lastAccept": 1508597438, 
    "pos": 24, 
-   "score": 1089, 
+   "score": 1082, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508570597
     }, 
     "g00d_b0y": {
@@ -1043,10 +1047,10 @@
   {
    "lastAccept": 1508606550, 
    "pos": 27, 
-   "score": 962, 
+   "score": 955, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508606550
     }, 
     "g00d_b0y": {
@@ -1075,10 +1079,10 @@
   {
    "lastAccept": 1508611109, 
    "pos": 28, 
-   "score": 962, 
+   "score": 955, 
    "taskStats": {
     "achievement_unlocked": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508598331
     }, 
     "g00d_b0y": {
@@ -1137,72 +1141,8 @@
    "team": "0xD13A"
   }, 
   {
-   "lastAccept": 1508613818, 
-   "pos": 30, 
-   "score": 939, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 347, 
-     "time": 1508613818
-    }, 
-    "g00d_b0y": {
-     "points": 98, 
-     "time": 1508517543
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 63, 
-     "time": 1508584081
-    }, 
-    "hidden_program": {
-     "points": 98, 
-     "time": 1508517048
-    }, 
-    "sum": {
-     "points": 77, 
-     "time": 1508584337
-    }, 
-    "top_secret": {
-     "points": 256, 
-     "time": 1508585333
-    }
-   }, 
-   "team": "Harekaze"
-  }, 
-  {
-   "lastAccept": 1508614147, 
-   "pos": 31, 
-   "score": 939, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 347, 
-     "time": 1508613096
-    }, 
-    "g00d_b0y": {
-     "points": 98, 
-     "time": 1508607345
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 63, 
-     "time": 1508611471
-    }, 
-    "hidden_program": {
-     "points": 98, 
-     "time": 1508606337
-    }, 
-    "sum": {
-     "points": 77, 
-     "time": 1508614147
-    }, 
-    "top_secret": {
-     "points": 256, 
-     "time": 1508609279
-    }
-   }, 
-   "team": "PendolinoWarriors"
-  }, 
-  {
    "lastAccept": 1508589503, 
-   "pos": 32, 
+   "pos": 30, 
    "score": 932, 
    "taskStats": {
     "differential_privacy": {
@@ -1231,6 +1171,70 @@
     }
    }, 
    "team": "sw1ss"
+  }, 
+  {
+   "lastAccept": 1508613818, 
+   "pos": 31, 
+   "score": 932, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 340, 
+     "time": 1508613818
+    }, 
+    "g00d_b0y": {
+     "points": 98, 
+     "time": 1508517543
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 63, 
+     "time": 1508584081
+    }, 
+    "hidden_program": {
+     "points": 98, 
+     "time": 1508517048
+    }, 
+    "sum": {
+     "points": 77, 
+     "time": 1508584337
+    }, 
+    "top_secret": {
+     "points": 256, 
+     "time": 1508585333
+    }
+   }, 
+   "team": "Harekaze"
+  }, 
+  {
+   "lastAccept": 1508614147, 
+   "pos": 32, 
+   "score": 932, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 340, 
+     "time": 1508613096
+    }, 
+    "g00d_b0y": {
+     "points": 98, 
+     "time": 1508607345
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 63, 
+     "time": 1508611471
+    }, 
+    "hidden_program": {
+     "points": 98, 
+     "time": 1508606337
+    }, 
+    "sum": {
+     "points": 77, 
+     "time": 1508614147
+    }, 
+    "top_secret": {
+     "points": 256, 
+     "time": 1508609279
+    }
+   }, 
+   "team": "PendolinoWarriors"
   }, 
   {
    "lastAccept": 1508535520, 
