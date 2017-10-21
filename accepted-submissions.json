@@ -241,8 +241,52 @@
    "team": "Dragon Sector"
   }, 
   {
-   "lastAccept": 1508604961, 
+   "lastAccept": 1508611936, 
    "pos": 5, 
+   "score": 2237, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 363, 
+     "time": 1508540159
+    }, 
+    "botnet_in_the_wild": {
+     "points": 500, 
+     "time": 1508611936
+    }, 
+    "differential_privacy": {
+     "points": 228, 
+     "time": 1508561194
+    }, 
+    "g00d_b0y": {
+     "points": 99, 
+     "time": 1508521252
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 65, 
+     "time": 1508528806
+    }, 
+    "hidden_program": {
+     "points": 99, 
+     "time": 1508553624
+    }, 
+    "sehlokodemais": {
+     "points": 420, 
+     "time": 1508527438
+    }, 
+    "sum": {
+     "points": 80, 
+     "time": 1508524497
+    }, 
+    "tokens_v20": {
+     "points": 383, 
+     "time": 1508545806
+    }
+   }, 
+   "team": "Windows is Updating"
+  }, 
+  {
+   "lastAccept": 1508604961, 
+   "pos": 6, 
    "score": 1980, 
    "taskStats": {
     "achievement_unlocked": {
@@ -283,46 +327,6 @@
     }
    }, 
    "team": "0x00C0FFEE"
-  }, 
-  {
-   "lastAccept": 1508561194, 
-   "pos": 6, 
-   "score": 1737, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 363, 
-     "time": 1508540159
-    }, 
-    "differential_privacy": {
-     "points": 228, 
-     "time": 1508561194
-    }, 
-    "g00d_b0y": {
-     "points": 99, 
-     "time": 1508521252
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 65, 
-     "time": 1508528806
-    }, 
-    "hidden_program": {
-     "points": 99, 
-     "time": 1508553624
-    }, 
-    "sehlokodemais": {
-     "points": 420, 
-     "time": 1508527438
-    }, 
-    "sum": {
-     "points": 80, 
-     "time": 1508524497
-    }, 
-    "tokens_v20": {
-     "points": 383, 
-     "time": 1508545806
-    }
-   }, 
-   "team": "Windows is Updating"
   }, 
   {
    "lastAccept": 1508556356, 
@@ -4464,6 +4468,7 @@
   "nobs", 
   "resistance", 
   "intel_sgx", 
-  "butchercorp_repository"
+  "butchercorp_repository", 
+  "botnet_in_the_wild"
  ]
 }
