@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508615718, 
    "pos": 1, 
-   "score": 5559, 
+   "score": 5551, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -62,7 +62,7 @@
      "time": 1508578541
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508594140
     }, 
     "top_secret": {
@@ -81,9 +81,9 @@
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
-   "lastAccept": 1508605234, 
+   "lastAccept": 1508621596, 
    "pos": 2, 
-   "score": 3950, 
+   "score": 4305, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -129,6 +129,10 @@
      "points": 75, 
      "time": 1508516981
     }, 
+    "tokens_v20": {
+     "points": 355, 
+     "time": 1508621596
+    }, 
     "top_secret": {
      "points": 256, 
      "time": 1508522560
@@ -147,7 +151,7 @@
   {
    "lastAccept": 1508616350, 
    "pos": 3, 
-   "score": 3039, 
+   "score": 3031, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -182,7 +186,7 @@
      "time": 1508528158
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508611208
     }, 
     "top_secret": {
@@ -203,7 +207,7 @@
   {
    "lastAccept": 1508595865, 
    "pos": 4, 
-   "score": 2713, 
+   "score": 2705, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 435, 
@@ -234,7 +238,7 @@
      "time": 1508526243
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508552740
     }, 
     "top_secret": {
@@ -255,7 +259,7 @@
   {
    "lastAccept": 1508611936, 
    "pos": 5, 
-   "score": 2159, 
+   "score": 2151, 
    "taskStats": {
     "baby_regex": {
      "points": 347, 
@@ -290,7 +294,7 @@
      "time": 1508524497
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508545806
     }
    }, 
@@ -299,7 +303,7 @@
   {
    "lastAccept": 1508617159, 
    "pos": 6, 
-   "score": 1915, 
+   "score": 1907, 
    "taskStats": {
     "baby_regex": {
      "points": 347, 
@@ -330,7 +334,7 @@
      "time": 1508523940
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508616963
     }, 
     "top_secret": {
@@ -467,7 +471,7 @@
   {
    "lastAccept": 1508603685, 
    "pos": 10, 
-   "score": 1470, 
+   "score": 1462, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -494,7 +498,7 @@
      "time": 1508522795
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508603106
     }
    }, 
@@ -683,7 +687,7 @@
   {
    "lastAccept": 1508599614, 
    "pos": 16, 
-   "score": 1306, 
+   "score": 1298, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 340, 
@@ -706,7 +710,7 @@
      "time": 1508559396
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508599118
     }, 
     "warehouse": {
@@ -827,7 +831,7 @@
   {
    "lastAccept": 1508612858, 
    "pos": 20, 
-   "score": 1162, 
+   "score": 1154, 
    "taskStats": {
     "differential_privacy": {
      "points": 215, 
@@ -850,7 +854,7 @@
      "time": 1508516403
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508612858
     }, 
     "top_secret": {
@@ -1331,7 +1335,7 @@
   {
    "lastAccept": 1508589503, 
    "pos": 35, 
-   "score": 906, 
+   "score": 898, 
    "taskStats": {
     "differential_privacy": {
      "points": 215, 
@@ -1354,7 +1358,7 @@
      "time": 1508517496
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508582792
     }
    }, 
@@ -1427,7 +1431,7 @@
   {
    "lastAccept": 1508564928, 
    "pos": 38, 
-   "score": 863, 
+   "score": 855, 
    "taskStats": {
     "criminals": {
      "points": 406, 
@@ -1438,7 +1442,7 @@
      "time": 1508534151
     }, 
     "tokens_v20": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508549920
     }
    }, 
