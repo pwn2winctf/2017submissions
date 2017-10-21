@@ -4655,6 +4655,18 @@
     }
    }, 
    "team": "PittISC"
+  }, 
+  {
+   "lastAccept": 1508621764, 
+   "pos": 193, 
+   "score": 61, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 61, 
+     "time": 1508621764
+    }
+   }, 
+   "team": "5k33tz"
   }
  ], 
  "tasks": [
