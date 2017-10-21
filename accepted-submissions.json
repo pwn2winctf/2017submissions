@@ -1,106 +1,14 @@
 {
  "standings": [
   {
-   "lastAccept": 1508592565, 
+   "lastAccept": 1508595865, 
    "pos": 1, 
-   "score": 2668, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 394, 
-     "time": 1508550974
-    }, 
-    "butchercorp_repository": {
-     "points": 474, 
-     "time": 1508592565
-    }, 
-    "criminals": {
-     "points": 420, 
-     "time": 1508528676
-    }, 
-    "differential_privacy": {
-     "points": 246, 
-     "time": 1508519356
-    }, 
-    "g00d_b0y": {
-     "points": 113, 
-     "time": 1508516751
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 77, 
-     "time": 1508516555
-    }, 
-    "hidden_program": {
-     "points": 112, 
-     "time": 1508516866
-    }, 
-    "pretty_it_all": {
-     "points": 474, 
-     "time": 1508541716
-    }, 
-    "sum": {
-     "points": 95, 
-     "time": 1508516981
-    }, 
-    "top_secret": {
-     "points": 263, 
-     "time": 1508522560
-    }
-   }, 
-   "team": "p4"
-  }, 
-  {
-   "lastAccept": 1508594819, 
-   "pos": 2, 
-   "score": 2615, 
+   "score": 2981, 
    "taskStats": {
     "butchercorp_repository": {
-     "points": 474, 
-     "time": 1508594819
-    }, 
-    "differential_privacy": {
-     "points": 246, 
-     "time": 1508534972
-    }, 
-    "g00d_b0y": {
-     "points": 113, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 77, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 112, 
-     "time": 1508531481
-    }, 
-    "sehlokodemais": {
      "points": 453, 
-     "time": 1508590975
+     "time": 1508595865
     }, 
-    "sum": {
-     "points": 95, 
-     "time": 1508528158
-    }, 
-    "top_secret": {
-     "points": 263, 
-     "time": 1508538086
-    }, 
-    "warehouse": {
-     "points": 308, 
-     "time": 1508584734
-    }, 
-    "wrong_user": {
-     "points": 474, 
-     "time": 1508594463
-    }
-   }, 
-   "team": "HackingForSoju"
-  }, 
-  {
-   "lastAccept": 1508587619, 
-   "pos": 3, 
-   "score": 2528, 
-   "taskStats": {
     "criminals": {
      "points": 420, 
      "time": 1508557689
@@ -143,6 +51,102 @@
     }
    }, 
    "team": "Dragon Sector"
+  }, 
+  {
+   "lastAccept": 1508592565, 
+   "pos": 2, 
+   "score": 2647, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 394, 
+     "time": 1508550974
+    }, 
+    "butchercorp_repository": {
+     "points": 453, 
+     "time": 1508592565
+    }, 
+    "criminals": {
+     "points": 420, 
+     "time": 1508528676
+    }, 
+    "differential_privacy": {
+     "points": 246, 
+     "time": 1508519356
+    }, 
+    "g00d_b0y": {
+     "points": 113, 
+     "time": 1508516751
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 77, 
+     "time": 1508516555
+    }, 
+    "hidden_program": {
+     "points": 112, 
+     "time": 1508516866
+    }, 
+    "pretty_it_all": {
+     "points": 474, 
+     "time": 1508541716
+    }, 
+    "sum": {
+     "points": 95, 
+     "time": 1508516981
+    }, 
+    "top_secret": {
+     "points": 263, 
+     "time": 1508522560
+    }
+   }, 
+   "team": "p4"
+  }, 
+  {
+   "lastAccept": 1508594819, 
+   "pos": 3, 
+   "score": 2594, 
+   "taskStats": {
+    "butchercorp_repository": {
+     "points": 453, 
+     "time": 1508594819
+    }, 
+    "differential_privacy": {
+     "points": 246, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 113, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 77, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 112, 
+     "time": 1508531481
+    }, 
+    "sehlokodemais": {
+     "points": 453, 
+     "time": 1508590975
+    }, 
+    "sum": {
+     "points": 95, 
+     "time": 1508528158
+    }, 
+    "top_secret": {
+     "points": 263, 
+     "time": 1508538086
+    }, 
+    "warehouse": {
+     "points": 308, 
+     "time": 1508584734
+    }, 
+    "wrong_user": {
+     "points": 474, 
+     "time": 1508594463
+    }
+   }, 
+   "team": "HackingForSoju"
   }, 
   {
    "lastAccept": 1508594140, 
