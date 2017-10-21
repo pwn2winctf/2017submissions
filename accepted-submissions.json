@@ -1,8 +1,56 @@
 {
  "standings": [
   {
-   "lastAccept": 1508550974, 
+   "lastAccept": 1508587619, 
    "pos": 1, 
+   "score": 2629, 
+   "taskStats": {
+    "criminals": {
+     "points": 420, 
+     "time": 1508557689
+    }, 
+    "differential_privacy": {
+     "points": 260, 
+     "time": 1508558467
+    }, 
+    "g00d_b0y": {
+     "points": 120, 
+     "time": 1508541994
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 81, 
+     "time": 1508525698
+    }, 
+    "hidden_program": {
+     "points": 116, 
+     "time": 1508535675
+    }, 
+    "sum": {
+     "points": 100, 
+     "time": 1508526243
+    }, 
+    "tokens_v20": {
+     "points": 435, 
+     "time": 1508552740
+    }, 
+    "top_secret": {
+     "points": 271, 
+     "time": 1508532657
+    }, 
+    "warehouse": {
+     "points": 326, 
+     "time": 1508552794
+    }, 
+    "wrong_user": {
+     "points": 500, 
+     "time": 1508587619
+    }
+   }, 
+   "team": "DragonSector"
+  }, 
+  {
+   "lastAccept": 1508550974, 
+   "pos": 2, 
    "score": 2277, 
    "taskStats": {
     "baby_regex": {
@@ -43,50 +91,6 @@
     }
    }, 
    "team": "p4"
-  }, 
-  {
-   "lastAccept": 1508558467, 
-   "pos": 2, 
-   "score": 2129, 
-   "taskStats": {
-    "criminals": {
-     "points": 420, 
-     "time": 1508557689
-    }, 
-    "differential_privacy": {
-     "points": 260, 
-     "time": 1508558467
-    }, 
-    "g00d_b0y": {
-     "points": 120, 
-     "time": 1508541994
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 81, 
-     "time": 1508525698
-    }, 
-    "hidden_program": {
-     "points": 116, 
-     "time": 1508535675
-    }, 
-    "sum": {
-     "points": 100, 
-     "time": 1508526243
-    }, 
-    "tokens_v20": {
-     "points": 435, 
-     "time": 1508552740
-    }, 
-    "top_secret": {
-     "points": 271, 
-     "time": 1508532657
-    }, 
-    "warehouse": {
-     "points": 326, 
-     "time": 1508552794
-    }
-   }, 
-   "team": "DragonSector"
   }, 
   {
    "lastAccept": 1508561194, 
@@ -3703,6 +3707,7 @@
   "pretty_it_all", 
   "tokens_v20", 
   "blackbox_pentesting", 
-  "biometric_login"
+  "biometric_login", 
+  "wrong_user"
  ]
 }
