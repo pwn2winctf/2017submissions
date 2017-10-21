@@ -1,45 +1,49 @@
 [
  {
-  "msg": "Some challenges (marked with the Isolated bag) run inside a per-team VPN (10.133.x.y network) which is deployed only when your team solves at least a specific amount (8) of challenges.", 
+  "msg": "Some challenges (marked with the Isolated bag) run inside a per-team VPN (10.133.x.y network) which is deployed only when your team solves at least a specific amount (8) of challenges.",
   "time": 1508525616
- }, 
+ },
  {
-  "msg": ".tar.gz from SEHLokoD+ was updated!", 
+  "msg": ".tar.gz from SEHLokoD+ was updated!",
   "time": 1508526255
- }, 
+ },
  {
-  "msg": "People Throwing 2: Consider window as a point", 
+  "msg": "People Throwing 2: Consider window as a point",
   "time": 1508526851
- }, 
+ },
  {
-  "msg": "Sorry, we had some trouble with the AWS bot during the beginning of the CTF which should be fixed by now. If you had the PR denied for a team registration or a flag submission (check if it appears in the scoreboard) please try to submit again.", 
+  "msg": "Sorry, we had some trouble with the AWS bot during the beginning of the CTF which should be fixed by now. If you had the PR denied for a team registration or a flag submission (check if it appears in the scoreboard) please try to submit again.",
   "time": 1508528713
- }, 
+ },
  {
-  "msg": "People Throwing 2: The challenge pendulum is a normal pendulum, where the pivot oscilates in horizontal.", 
+  "msg": "People Throwing 2: The challenge pendulum is a normal pendulum, where the pivot oscilates in horizontal.",
   "time": 1508529069
- }, 
+ },
  {
-  "msg": "Botnet in the Wild: Your goal is to pwn the bot, not the C2.", 
+  "msg": "Botnet in the Wild: Your goal is to pwn the bot, not the C2.",
   "time": 1508538996
- }, 
+ },
  {
-  "msg": "15Vc+acpFzoqWjhb5fzhlie1Va4pgGpv36SpDfpxoB4E4mmXsLL9I0lPDlUTF6YIh24O3PHyqmZgeuUMqSlTlnvIqNOeg5e79VFeZsYtGW3NQSBDNrs4HtvXM/D/fjHKOapvtaVWpWc9DLnSJ5Xd/bTwizzqQ1WhiKhZvnr7C8WmwLeuABgQMkgKqpII9fd9ZyTAoqIrGlTkbzrSld/gCA==", 
-  "time": 1508544304, 
+  "msg": "15Vc+acpFzoqWjhb5fzhlie1Va4pgGpv36SpDfpxoB4E4mmXsLL9I0lPDlUTF6YIh24O3PHyqmZgeuUMqSlTlnvIqNOeg5e79VFeZsYtGW3NQSBDNrs4HtvXM/D/fjHKOapvtaVWpWc9DLnSJ5Xd/bTwizzqQ1WhiKhZvnr7C8WmwLeuABgQMkgKqpII9fd9ZyTAoqIrGlTkbzrSld/gCA==",
+  "time": 1508544304,
   "to": "p4"
- }, 
+ },
  {
-  "msg": "Secure Path is under maintenance.", 
+  "msg": "Secure Path is under maintenance.",
   "time": 1508555544
- }, 
+ },
  {
-  "msg": "LhLgOzgFSi2+oWb3wSpMBbmzDx+lXRBFTs83AWpCJjl1xfrL5SowLDNpIeX4B+c2eQR8zs86D7a5rEck9gUP+MHGS+NT2dLFACCoOfKvquq4CK5TcIYxKaHWHNdYHFEcMq4XvxQwpqCsQRybIFK4QiDEcEq3WhgVxo3RjIhVZ7izCe44FjaAhBqS528nQAbPSZWmqBFSzwLatbKEoWffNQ==", 
-  "time": 1508556385, 
+  "msg": "LhLgOzgFSi2+oWb3wSpMBbmzDx+lXRBFTs83AWpCJjl1xfrL5SowLDNpIeX4B+c2eQR8zs86D7a5rEck9gUP+MHGS+NT2dLFACCoOfKvquq4CK5TcIYxKaHWHNdYHFEcMq4XvxQwpqCsQRybIFK4QiDEcEq3WhgVxo3RjIhVZ7izCe44FjaAhBqS528nQAbPSZWmqBFSzwLatbKEoWffNQ==",
+  "time": 1508556385,
   "to": "sec0d"
- }, 
+ },
  {
-  "msg": "YgFHLz0k5DbWDVXbB7ZvBmWUbYtjqaRJcL5muDFqRGallTC1PnrHQjpckSZi4TuFROt4wEdPtMP3C8OM6sA6chMSJXYKGmZ5YicPdpkKTyHkAYy9fFiepfV2lq6SB+4bHm73BmCls13I1xssRHEPUPtETDlt8RLCRtA0W6yvnwpJbBMmEHJrzYPI4at0n1aFY1bJ1pmfPK1GMYHOoYJHUw==", 
-  "time": 1508557737, 
+  "msg": "YgFHLz0k5DbWDVXbB7ZvBmWUbYtjqaRJcL5muDFqRGallTC1PnrHQjpckSZi4TuFROt4wEdPtMP3C8OM6sA6chMSJXYKGmZ5YicPdpkKTyHkAYy9fFiepfV2lq6SB+4bHm73BmCls13I1xssRHEPUPtETDlt8RLCRtA0W6yvnwpJbBMmEHJrzYPI4at0n1aFY1bJ1pmfPK1GMYHOoYJHUw==",
+  "time": 1508557737,
   "to": "DragonSector"
+ },
+ {
+  "msg": "VPN is closed for maintenance.",
+  "time": 1508559889
  }
 ]
