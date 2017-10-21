@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508604245, 
+   "lastAccept": 1508610304, 
    "pos": 1, 
-   "score": 4323, 
+   "score": 4797, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 373, 
@@ -16,6 +16,10 @@
     "baby_regex": {
      "points": 363, 
      "time": 1508586721
+    }, 
+    "blackbox_pentesting": {
+     "points": 474, 
+     "time": 1508610304
     }, 
     "butchercorp_repository": {
      "points": 435, 
@@ -277,48 +281,8 @@
    "team": "0x00C0FFEE"
   }, 
   {
-   "lastAccept": 1508556356, 
-   "pos": 6, 
-   "score": 1763, 
-   "taskStats": {
-    "blackbox_pentesting": {
-     "points": 500, 
-     "time": 1508556356
-    }, 
-    "criminals": {
-     "points": 406, 
-     "time": 1508531924
-    }, 
-    "differential_privacy": {
-     "points": 228, 
-     "time": 1508545113
-    }, 
-    "g00d_b0y": {
-     "points": 100, 
-     "time": 1508521905
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 65, 
-     "time": 1508522099
-    }, 
-    "hidden_program": {
-     "points": 100, 
-     "time": 1508519168
-    }, 
-    "sum": {
-     "points": 81, 
-     "time": 1508519257
-    }, 
-    "warehouse": {
-     "points": 283, 
-     "time": 1508521719
-    }
-   }, 
-   "team": "sec0d"
-  }, 
-  {
    "lastAccept": 1508561194, 
-   "pos": 7, 
+   "pos": 6, 
    "score": 1751, 
    "taskStats": {
     "baby_regex": {
@@ -355,6 +319,46 @@
     }
    }, 
    "team": "Windows is Updating"
+  }, 
+  {
+   "lastAccept": 1508556356, 
+   "pos": 7, 
+   "score": 1737, 
+   "taskStats": {
+    "blackbox_pentesting": {
+     "points": 474, 
+     "time": 1508556356
+    }, 
+    "criminals": {
+     "points": 406, 
+     "time": 1508531924
+    }, 
+    "differential_privacy": {
+     "points": 228, 
+     "time": 1508545113
+    }, 
+    "g00d_b0y": {
+     "points": 100, 
+     "time": 1508521905
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 65, 
+     "time": 1508522099
+    }, 
+    "hidden_program": {
+     "points": 100, 
+     "time": 1508519168
+    }, 
+    "sum": {
+     "points": 81, 
+     "time": 1508519257
+    }, 
+    "warehouse": {
+     "points": 283, 
+     "time": 1508521719
+    }
+   }, 
+   "team": "sec0d"
   }, 
   {
    "lastAccept": 1508603685, 
