@@ -3789,8 +3789,24 @@
    "team": "Overwatch"
   }, 
   {
-   "lastAccept": 1508519490, 
+   "lastAccept": 1508606216, 
    "pos": 148, 
+   "score": 171, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 67, 
+     "time": 1508606216
+    }, 
+    "hidden_program": {
+     "points": 104, 
+     "time": 1508598003
+    }
+   }, 
+   "team": "TeamAardvark"
+  }, 
+  {
+   "lastAccept": 1508519490, 
+   "pos": 149, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3806,7 +3822,7 @@
   }, 
   {
    "lastAccept": 1508520818, 
-   "pos": 149, 
+   "pos": 150, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3822,7 +3838,7 @@
   }, 
   {
    "lastAccept": 1508525241, 
-   "pos": 150, 
+   "pos": 151, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3838,7 +3854,7 @@
   }, 
   {
    "lastAccept": 1508525828, 
-   "pos": 151, 
+   "pos": 152, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3854,7 +3870,7 @@
   }, 
   {
    "lastAccept": 1508530846, 
-   "pos": 152, 
+   "pos": 153, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3870,7 +3886,7 @@
   }, 
   {
    "lastAccept": 1508541398, 
-   "pos": 153, 
+   "pos": 154, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3886,7 +3902,7 @@
   }, 
   {
    "lastAccept": 1508546729, 
-   "pos": 154, 
+   "pos": 155, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3902,7 +3918,7 @@
   }, 
   {
    "lastAccept": 1508550569, 
-   "pos": 155, 
+   "pos": 156, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3918,7 +3934,7 @@
   }, 
   {
    "lastAccept": 1508555548, 
-   "pos": 156, 
+   "pos": 157, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3934,7 +3950,7 @@
   }, 
   {
    "lastAccept": 1508559694, 
-   "pos": 157, 
+   "pos": 158, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3950,7 +3966,7 @@
   }, 
   {
    "lastAccept": 1508563555, 
-   "pos": 158, 
+   "pos": 159, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3966,7 +3982,7 @@
   }, 
   {
    "lastAccept": 1508586924, 
-   "pos": 159, 
+   "pos": 160, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3982,7 +3998,7 @@
   }, 
   {
    "lastAccept": 1508587174, 
-   "pos": 160, 
+   "pos": 161, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -3998,7 +4014,7 @@
   }, 
   {
    "lastAccept": 1508588438, 
-   "pos": 161, 
+   "pos": 162, 
    "score": 151, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -4014,7 +4030,7 @@
   }, 
   {
    "lastAccept": 1508570184, 
-   "pos": 162, 
+   "pos": 163, 
    "score": 106, 
    "taskStats": {
     "g00d_b0y": {
@@ -4026,7 +4042,7 @@
   }, 
   {
    "lastAccept": 1508520170, 
-   "pos": 163, 
+   "pos": 164, 
    "score": 104, 
    "taskStats": {
     "hidden_program": {
@@ -4038,7 +4054,7 @@
   }, 
   {
    "lastAccept": 1508535874, 
-   "pos": 164, 
+   "pos": 165, 
    "score": 104, 
    "taskStats": {
     "hidden_program": {
@@ -4050,7 +4066,7 @@
   }, 
   {
    "lastAccept": 1508559606, 
-   "pos": 165, 
+   "pos": 166, 
    "score": 104, 
    "taskStats": {
     "hidden_program": {
@@ -4062,7 +4078,7 @@
   }, 
   {
    "lastAccept": 1508559822, 
-   "pos": 166, 
+   "pos": 167, 
    "score": 104, 
    "taskStats": {
     "hidden_program": {
@@ -4074,7 +4090,7 @@
   }, 
   {
    "lastAccept": 1508563260, 
-   "pos": 167, 
+   "pos": 168, 
    "score": 104, 
    "taskStats": {
     "hidden_program": {
@@ -4083,18 +4099,6 @@
     }
    }, 
    "team": "CodeRed"
-  }, 
-  {
-   "lastAccept": 1508598003, 
-   "pos": 168, 
-   "score": 104, 
-   "taskStats": {
-    "hidden_program": {
-     "points": 104, 
-     "time": 1508598003
-    }
-   }, 
-   "team": "TeamAardvark"
   }, 
   {
    "lastAccept": 1508557869, 
