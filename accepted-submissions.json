@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508627792, 
    "pos": 1, 
-   "score": 5936, 
+   "score": 5910, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -14,7 +14,7 @@
      "time": 1508583631
     }, 
     "attack_step_intermediate": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508615718
     }, 
     "baby_regex": {
@@ -153,13 +153,17 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508621701, 
+   "lastAccept": 1508628179, 
    "pos": 3, 
-   "score": 3312, 
+   "score": 3786, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
      "time": 1508616350
+    }, 
+    "attack_step_intermediate": {
+     "points": 474, 
+     "time": 1508628179
     }, 
     "baby_regex": {
      "points": 333, 
