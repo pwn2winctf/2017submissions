@@ -3,14 +3,14 @@
   {
    "lastAccept": 1508592565, 
    "pos": 1, 
-   "score": 2735, 
+   "score": 2709, 
    "taskStats": {
     "baby_regex": {
      "points": 420, 
      "time": 1508550974
     }, 
     "butchercorp_repository": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508592565
     }, 
     "criminals": {
@@ -49,8 +49,56 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508587619, 
+   "lastAccept": 1508594819, 
    "pos": 2, 
+   "score": 2630, 
+   "taskStats": {
+    "butchercorp_repository": {
+     "points": 474, 
+     "time": 1508594819
+    }, 
+    "differential_privacy": {
+     "points": 249, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 115, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 79, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 114, 
+     "time": 1508531481
+    }, 
+    "sehlokodemais": {
+     "points": 453, 
+     "time": 1508590975
+    }, 
+    "sum": {
+     "points": 97, 
+     "time": 1508528158
+    }, 
+    "top_secret": {
+     "points": 267, 
+     "time": 1508538086
+    }, 
+    "warehouse": {
+     "points": 308, 
+     "time": 1508584734
+    }, 
+    "wrong_user": {
+     "points": 474, 
+     "time": 1508594463
+    }
+   }, 
+   "team": "HackingForSoju"
+  }, 
+  {
+   "lastAccept": 1508587619, 
+   "pos": 3, 
    "score": 2543, 
    "taskStats": {
     "criminals": {
@@ -98,7 +146,7 @@
   }, 
   {
    "lastAccept": 1508594140, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 2432, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -143,50 +191,6 @@
     }
    }, 
    "team": "Eat Sleep Pwn Repeat"
-  }, 
-  {
-   "lastAccept": 1508594463, 
-   "pos": 4, 
-   "score": 2156, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 249, 
-     "time": 1508534972
-    }, 
-    "g00d_b0y": {
-     "points": 115, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 79, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 114, 
-     "time": 1508531481
-    }, 
-    "sehlokodemais": {
-     "points": 453, 
-     "time": 1508590975
-    }, 
-    "sum": {
-     "points": 97, 
-     "time": 1508528158
-    }, 
-    "top_secret": {
-     "points": 267, 
-     "time": 1508538086
-    }, 
-    "warehouse": {
-     "points": 308, 
-     "time": 1508584734
-    }, 
-    "wrong_user": {
-     "points": 474, 
-     "time": 1508594463
-    }
-   }, 
-   "team": "HackingForSoju"
   }, 
   {
    "lastAccept": 1508561194, 
