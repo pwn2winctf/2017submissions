@@ -51,7 +51,7 @@
   {
    "lastAccept": 1508587619, 
    "pos": 2, 
-   "score": 2588, 
+   "score": 2573, 
    "taskStats": {
     "criminals": {
      "points": 420, 
@@ -78,7 +78,7 @@
      "time": 1508526243
     }, 
     "tokens_v20": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508552740
     }, 
     "top_secret": {
@@ -97,9 +97,9 @@
    "team": "Dragon Sector"
   }, 
   {
-   "lastAccept": 1508589946, 
+   "lastAccept": 1508594140, 
    "pos": 3, 
-   "score": 2016, 
+   "score": 2436, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 363, 
@@ -129,6 +129,10 @@
      "points": 99, 
      "time": 1508578541
     }, 
+    "tokens_v20": {
+     "points": 420, 
+     "time": 1508594140
+    }, 
     "top_secret": {
      "points": 267, 
      "time": 1508520890
@@ -143,7 +147,7 @@
   {
    "lastAccept": 1508561194, 
    "pos": 4, 
-   "score": 1966, 
+   "score": 1951, 
    "taskStats": {
     "baby_regex": {
      "points": 420, 
@@ -174,7 +178,7 @@
      "time": 1508524497
     }, 
     "tokens_v20": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508545806
     }
    }, 
@@ -535,7 +539,7 @@
   {
    "lastAccept": 1508589503, 
    "pos": 15, 
-   "score": 1093, 
+   "score": 1078, 
    "taskStats": {
     "differential_privacy": {
      "points": 249, 
@@ -558,7 +562,7 @@
      "time": 1508517496
     }, 
     "tokens_v20": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508582792
     }
    }, 
@@ -597,28 +601,8 @@
    "team": "Pwnium"
   }, 
   {
-   "lastAccept": 1508564928, 
-   "pos": 17, 
-   "score": 969, 
-   "taskStats": {
-    "criminals": {
-     "points": 420, 
-     "time": 1508564928
-    }, 
-    "hidden_program": {
-     "points": 114, 
-     "time": 1508534151
-    }, 
-    "tokens_v20": {
-     "points": 435, 
-     "time": 1508549920
-    }
-   }, 
-   "team": "CH1ll"
-  }, 
-  {
    "lastAccept": 1508566892, 
-   "pos": 18, 
+   "pos": 17, 
    "score": 964, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -643,6 +627,26 @@
     }
    }, 
    "team": "scryptos"
+  }, 
+  {
+   "lastAccept": 1508564928, 
+   "pos": 18, 
+   "score": 954, 
+   "taskStats": {
+    "criminals": {
+     "points": 420, 
+     "time": 1508564928
+    }, 
+    "hidden_program": {
+     "points": 114, 
+     "time": 1508534151
+    }, 
+    "tokens_v20": {
+     "points": 420, 
+     "time": 1508549920
+    }
+   }, 
+   "team": "CH1ll"
   }, 
   {
    "lastAccept": 1508533256, 
