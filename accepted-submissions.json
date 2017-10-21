@@ -481,8 +481,48 @@
    "team": "Pandemic"
   }, 
   {
-   "lastAccept": 1508603685, 
+   "lastAccept": 1508627784, 
    "pos": 10, 
+   "score": 1618, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 213, 
+     "time": 1508543889
+    }, 
+    "g00d_b0y": {
+     "points": 94, 
+     "time": 1508543867
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 58, 
+     "time": 1508515327
+    }, 
+    "hidden_program": {
+     "points": 91, 
+     "time": 1508516655
+    }, 
+    "secure_path": {
+     "points": 500, 
+     "time": 1508627784
+    }, 
+    "sum": {
+     "points": 73, 
+     "time": 1508516403
+    }, 
+    "tokens_v20": {
+     "points": 340, 
+     "time": 1508612858
+    }, 
+    "top_secret": {
+     "points": 249, 
+     "time": 1508595040
+    }
+   }, 
+   "team": "RapaceDiabolique"
+  }, 
+  {
+   "lastAccept": 1508603685, 
+   "pos": 11, 
    "score": 1435, 
    "taskStats": {
     "achievement_unlocked": {
@@ -518,7 +558,7 @@
   }, 
   {
    "lastAccept": 1508591812, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1409, 
    "taskStats": {
     "achievement_unlocked": {
@@ -554,7 +594,7 @@
   }, 
   {
    "lastAccept": 1508590520, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1397, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -590,7 +630,7 @@
   }, 
   {
    "lastAccept": 1508619909, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1381, 
    "taskStats": {
     "achievement_unlocked": {
@@ -626,7 +666,7 @@
   }, 
   {
    "lastAccept": 1508559638, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1315, 
    "taskStats": {
     "achievement_unlocked": {
@@ -662,7 +702,7 @@
   }, 
   {
    "lastAccept": 1508612867, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1315, 
    "taskStats": {
     "achievement_unlocked": {
@@ -698,7 +738,7 @@
   }, 
   {
    "lastAccept": 1508599614, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 1263, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -734,7 +774,7 @@
   }, 
   {
    "lastAccept": 1508606972, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 1202, 
    "taskStats": {
     "differential_privacy": {
@@ -770,7 +810,7 @@
   }, 
   {
    "lastAccept": 1508618758, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 1202, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -806,7 +846,7 @@
   }, 
   {
    "lastAccept": 1508613155, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 1184, 
    "taskStats": {
     "differential_privacy": {
@@ -842,7 +882,7 @@
   }, 
   {
    "lastAccept": 1508623897, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 1149, 
    "taskStats": {
     "baby_regex": {
@@ -871,42 +911,6 @@
     }
    }, 
    "team": "MV9rwGOf08"
-  }, 
-  {
-   "lastAccept": 1508612858, 
-   "pos": 21, 
-   "score": 1118, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 213, 
-     "time": 1508543889
-    }, 
-    "g00d_b0y": {
-     "points": 94, 
-     "time": 1508543867
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 58, 
-     "time": 1508515327
-    }, 
-    "hidden_program": {
-     "points": 91, 
-     "time": 1508516655
-    }, 
-    "sum": {
-     "points": 73, 
-     "time": 1508516403
-    }, 
-    "tokens_v20": {
-     "points": 340, 
-     "time": 1508612858
-    }, 
-    "top_secret": {
-     "points": 249, 
-     "time": 1508595040
-    }
-   }, 
-   "team": "RapaceDiabolique"
   }, 
   {
    "lastAccept": 1508616908, 
@@ -4822,6 +4826,7 @@
   "intel_sgx", 
   "butchercorp_repository", 
   "botnet_in_the_wild", 
-  "attack_step_intermediate"
+  "attack_step_intermediate", 
+  "secure_path"
  ]
 }
