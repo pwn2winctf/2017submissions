@@ -47,7 +47,7 @@
   {
    "lastAccept": 1508558467, 
    "pos": 2, 
-   "score": 2378, 
+   "score": 2366, 
    "taskStats": {
     "criminals": {
      "points": 453, 
@@ -82,7 +82,7 @@
      "time": 1508532657
     }, 
     "warehouse": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508552794
     }
    }, 
@@ -91,7 +91,7 @@
   {
    "lastAccept": 1508556356, 
    "pos": 3, 
-   "score": 2117, 
+   "score": 2105, 
    "taskStats": {
     "blackbox_pentesting": {
      "points": 500, 
@@ -122,7 +122,7 @@
      "time": 1508519257
     }, 
     "warehouse": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508521719
     }
    }, 
@@ -167,7 +167,7 @@
   {
    "lastAccept": 1508559638, 
    "pos": 5, 
-   "score": 1855, 
+   "score": 1843, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 500, 
@@ -194,7 +194,7 @@
      "time": 1508516199
     }, 
     "warehouse": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508559638
     }
    }, 
@@ -501,8 +501,36 @@
    "team": "CHC"
   }, 
   {
-   "lastAccept": 1508526497, 
+   "lastAccept": 1508560533, 
    "pos": 16, 
+   "score": 869, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 138, 
+     "time": 1508519402
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 94, 
+     "time": 1508517010
+    }, 
+    "hidden_program": {
+     "points": 130, 
+     "time": 1508517588
+    }, 
+    "sum": {
+     "points": 113, 
+     "time": 1508519520
+    }, 
+    "warehouse": {
+     "points": 394, 
+     "time": 1508560533
+    }
+   }, 
+   "team": "Test Icicles"
+  }, 
+  {
+   "lastAccept": 1508526497, 
+   "pos": 17, 
    "score": 783, 
    "taskStats": {
     "g00d_b0y": {
@@ -530,7 +558,7 @@
   }, 
   {
    "lastAccept": 1508529581, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 783, 
    "taskStats": {
     "g00d_b0y": {
@@ -558,7 +586,7 @@
   }, 
   {
    "lastAccept": 1508530190, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 783, 
    "taskStats": {
     "g00d_b0y": {
@@ -586,7 +614,7 @@
   }, 
   {
    "lastAccept": 1508532120, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 783, 
    "taskStats": {
     "g00d_b0y": {
@@ -614,7 +642,7 @@
   }, 
   {
    "lastAccept": 1508532293, 
-   "pos": 20, 
+   "pos": 21, 
    "score": 783, 
    "taskStats": {
     "g00d_b0y": {
@@ -642,7 +670,7 @@
   }, 
   {
    "lastAccept": 1508541362, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 783, 
    "taskStats": {
     "g00d_b0y": {
@@ -667,30 +695,6 @@
     }
    }, 
    "team": "wha1s0s1r1us"
-  }, 
-  {
-   "lastAccept": 1508541861, 
-   "pos": 22, 
-   "score": 768, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 138, 
-     "time": 1508528164
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 94, 
-     "time": 1508529186
-    }, 
-    "hidden_program": {
-     "points": 130, 
-     "time": 1508528195
-    }, 
-    "warehouse": {
-     "points": 406, 
-     "time": 1508541861
-    }
-   }, 
-   "team": "spritzers"
   }, 
   {
    "lastAccept": 1508518748, 
@@ -945,28 +949,28 @@
    "team": "=]Chapelaria[="
   }, 
   {
-   "lastAccept": 1508560021, 
+   "lastAccept": 1508541861, 
    "pos": 32, 
-   "score": 743, 
+   "score": 756, 
    "taskStats": {
+    "g00d_b0y": {
+     "points": 138, 
+     "time": 1508528164
+    }, 
     "great_cybernetic_revolution": {
      "points": 94, 
-     "time": 1508518174
+     "time": 1508529186
     }, 
     "hidden_program": {
      "points": 130, 
-     "time": 1508560021
-    }, 
-    "sum": {
-     "points": 113, 
-     "time": 1508559396
+     "time": 1508528195
     }, 
     "warehouse": {
-     "points": 406, 
-     "time": 1508554794
+     "points": 394, 
+     "time": 1508541861
     }
    }, 
-   "team": "scryptos"
+   "team": "spritzers"
   }, 
   {
    "lastAccept": 1508540614, 
@@ -989,8 +993,32 @@
    "team": "MV9rwGOf08"
   }, 
   {
-   "lastAccept": 1508549541, 
+   "lastAccept": 1508560021, 
    "pos": 34, 
+   "score": 731, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 94, 
+     "time": 1508518174
+    }, 
+    "hidden_program": {
+     "points": 130, 
+     "time": 1508560021
+    }, 
+    "sum": {
+     "points": 113, 
+     "time": 1508559396
+    }, 
+    "warehouse": {
+     "points": 394, 
+     "time": 1508554794
+    }
+   }, 
+   "team": "scryptos"
+  }, 
+  {
+   "lastAccept": 1508549541, 
+   "pos": 35, 
    "score": 681, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -1010,7 +1038,7 @@
   }, 
   {
    "lastAccept": 1508539472, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 653, 
    "taskStats": {
     "g00d_b0y": {
@@ -1034,7 +1062,7 @@
   }, 
   {
    "lastAccept": 1508546900, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 653, 
    "taskStats": {
     "g00d_b0y": {
@@ -1058,7 +1086,7 @@
   }, 
   {
    "lastAccept": 1508539002, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 645, 
    "taskStats": {
     "differential_privacy": {
@@ -1082,7 +1110,7 @@
   }, 
   {
    "lastAccept": 1508552183, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 645, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -1106,7 +1134,7 @@
   }, 
   {
    "lastAccept": 1508540128, 
-   "pos": 39, 
+   "pos": 40, 
    "score": 628, 
    "taskStats": {
     "differential_privacy": {
@@ -1130,7 +1158,7 @@
   }, 
   {
    "lastAccept": 1508544243, 
-   "pos": 40, 
+   "pos": 41, 
    "score": 628, 
    "taskStats": {
     "differential_privacy": {
@@ -1154,7 +1182,7 @@
   }, 
   {
    "lastAccept": 1508549920, 
-   "pos": 41, 
+   "pos": 42, 
    "score": 583, 
    "taskStats": {
     "hidden_program": {
@@ -1170,7 +1198,7 @@
   }, 
   {
    "lastAccept": 1508520890, 
-   "pos": 42, 
+   "pos": 43, 
    "score": 576, 
    "taskStats": {
     "g00d_b0y": {
@@ -1190,43 +1218,19 @@
   }, 
   {
    "lastAccept": 1508544021, 
-   "pos": 43, 
-   "score": 536, 
+   "pos": 44, 
+   "score": 524, 
    "taskStats": {
     "hidden_program": {
      "points": 130, 
      "time": 1508538704
     }, 
     "warehouse": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508544021
     }
    }, 
    "team": "ALLES!"
-  }, 
-  {
-   "lastAccept": 1508519520, 
-   "pos": 44, 
-   "score": 475, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 138, 
-     "time": 1508519402
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 94, 
-     "time": 1508517010
-    }, 
-    "hidden_program": {
-     "points": 130, 
-     "time": 1508517588
-    }, 
-    "sum": {
-     "points": 113, 
-     "time": 1508519520
-    }
-   }, 
-   "team": "Test Icicles"
   }, 
   {
    "lastAccept": 1508519861, 
