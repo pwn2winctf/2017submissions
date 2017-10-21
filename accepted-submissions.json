@@ -241,12 +241,44 @@
    "team": "M57"
   }, 
   {
-   "lastAccept": 1508535520, 
+   "lastAccept": 1508577289, 
    "pos": 7, 
-   "score": 1121, 
+   "score": 1334, 
    "taskStats": {
     "asymmetric_encryption": {
-     "points": 406, 
+     "points": 394, 
+     "time": 1508577289
+    }, 
+    "executive_order": {
+     "points": 500, 
+     "time": 1508539030
+    }, 
+    "g00d_b0y": {
+     "points": 127, 
+     "time": 1508517202
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 88, 
+     "time": 1508517307
+    }, 
+    "hidden_program": {
+     "points": 119, 
+     "time": 1508533929
+    }, 
+    "sum": {
+     "points": 106, 
+     "time": 1508516889
+    }
+   }, 
+   "team": "Pandemic"
+  }, 
+  {
+   "lastAccept": 1508535520, 
+   "pos": 8, 
+   "score": 1109, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 394, 
      "time": 1508518938
     }, 
     "differential_privacy": {
@@ -274,7 +306,7 @@
   }, 
   {
    "lastAccept": 1508567151, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1075, 
    "taskStats": {
     "g00d_b0y": {
@@ -306,11 +338,11 @@
   }, 
   {
    "lastAccept": 1508566892, 
-   "pos": 9, 
-   "score": 1066, 
+   "pos": 10, 
+   "score": 1054, 
    "taskStats": {
     "asymmetric_encryption": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508566892
     }, 
     "great_cybernetic_revolution": {
@@ -334,7 +366,7 @@
   }, 
   {
    "lastAccept": 1508533256, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1003, 
    "taskStats": {
     "differential_privacy": {
@@ -366,7 +398,7 @@
   }, 
   {
    "lastAccept": 1508538086, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1003, 
    "taskStats": {
     "differential_privacy": {
@@ -398,7 +430,7 @@
   }, 
   {
    "lastAccept": 1508539685, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1003, 
    "taskStats": {
     "differential_privacy": {
@@ -430,7 +462,7 @@
   }, 
   {
    "lastAccept": 1508559921, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1003, 
    "taskStats": {
     "differential_privacy": {
@@ -462,7 +494,7 @@
   }, 
   {
    "lastAccept": 1508568710, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1003, 
    "taskStats": {
     "differential_privacy": {
@@ -494,7 +526,7 @@
   }, 
   {
    "lastAccept": 1508569002, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1003, 
    "taskStats": {
     "differential_privacy": {
@@ -526,7 +558,7 @@
   }, 
   {
    "lastAccept": 1508573437, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 1003, 
    "taskStats": {
     "differential_privacy": {
@@ -558,7 +590,7 @@
   }, 
   {
    "lastAccept": 1508564928, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 992, 
    "taskStats": {
     "criminals": {
@@ -578,7 +610,7 @@
   }, 
   {
    "lastAccept": 1508572018, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 956, 
    "taskStats": {
     "differential_privacy": {
@@ -603,34 +635,6 @@
     }
    }, 
    "team": "0x00C0FFEE"
-  }, 
-  {
-   "lastAccept": 1508539030, 
-   "pos": 19, 
-   "score": 940, 
-   "taskStats": {
-    "executive_order": {
-     "points": 500, 
-     "time": 1508539030
-    }, 
-    "g00d_b0y": {
-     "points": 127, 
-     "time": 1508517202
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 88, 
-     "time": 1508517307
-    }, 
-    "hidden_program": {
-     "points": 119, 
-     "time": 1508533929
-    }, 
-    "sum": {
-     "points": 106, 
-     "time": 1508516889
-    }
-   }, 
-   "team": "Pandemic"
   }, 
   {
    "lastAccept": 1508573456, 
@@ -691,10 +695,10 @@
   {
    "lastAccept": 1508532745, 
    "pos": 22, 
-   "score": 888, 
+   "score": 876, 
    "taskStats": {
     "asymmetric_encryption": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508525275
     }, 
     "differential_privacy": {
@@ -743,10 +747,10 @@
   {
    "lastAccept": 1508539677, 
    "pos": 24, 
-   "score": 846, 
+   "score": 834, 
    "taskStats": {
     "asymmetric_encryption": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508520977
     }, 
     "g00d_b0y": {
@@ -771,10 +775,10 @@
   {
    "lastAccept": 1508549501, 
    "pos": 25, 
-   "score": 846, 
+   "score": 834, 
    "taskStats": {
     "asymmetric_encryption": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508548071
     }, 
     "g00d_b0y": {
@@ -1105,32 +1109,8 @@
    "team": "0xD13A"
   }, 
   {
-   "lastAccept": 1508562470, 
-   "pos": 37, 
-   "score": 719, 
-   "taskStats": {
-    "asymmetric_encryption": {
-     "points": 406, 
-     "time": 1508562470
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 88, 
-     "time": 1508547247
-    }, 
-    "hidden_program": {
-     "points": 119, 
-     "time": 1508549876
-    }, 
-    "sum": {
-     "points": 106, 
-     "time": 1508555045
-    }
-   }, 
-   "team": "guatitasec"
-  }, 
-  {
    "lastAccept": 1508518748, 
-   "pos": 38, 
+   "pos": 37, 
    "score": 715, 
    "taskStats": {
     "differential_privacy": {
@@ -1158,7 +1138,7 @@
   }, 
   {
    "lastAccept": 1508521842, 
-   "pos": 39, 
+   "pos": 38, 
    "score": 715, 
    "taskStats": {
     "differential_privacy": {
@@ -1186,7 +1166,7 @@
   }, 
   {
    "lastAccept": 1508526096, 
-   "pos": 40, 
+   "pos": 39, 
    "score": 715, 
    "taskStats": {
     "differential_privacy": {
@@ -1214,7 +1194,7 @@
   }, 
   {
    "lastAccept": 1508532775, 
-   "pos": 41, 
+   "pos": 40, 
    "score": 715, 
    "taskStats": {
     "differential_privacy": {
@@ -1242,7 +1222,7 @@
   }, 
   {
    "lastAccept": 1508540614, 
-   "pos": 42, 
+   "pos": 41, 
    "score": 715, 
    "taskStats": {
     "g00d_b0y": {
@@ -1262,7 +1242,7 @@
   }, 
   {
    "lastAccept": 1508543889, 
-   "pos": 43, 
+   "pos": 42, 
    "score": 715, 
    "taskStats": {
     "differential_privacy": {
@@ -1290,7 +1270,7 @@
   }, 
   {
    "lastAccept": 1508548474, 
-   "pos": 44, 
+   "pos": 43, 
    "score": 715, 
    "taskStats": {
     "differential_privacy": {
@@ -1318,7 +1298,7 @@
   }, 
   {
    "lastAccept": 1508551712, 
-   "pos": 45, 
+   "pos": 44, 
    "score": 715, 
    "taskStats": {
     "differential_privacy": {
@@ -1343,6 +1323,30 @@
     }
    }, 
    "team": "=]Chapelaria[="
+  }, 
+  {
+   "lastAccept": 1508562470, 
+   "pos": 45, 
+   "score": 707, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 394, 
+     "time": 1508562470
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 88, 
+     "time": 1508547247
+    }, 
+    "hidden_program": {
+     "points": 119, 
+     "time": 1508549876
+    }, 
+    "sum": {
+     "points": 106, 
+     "time": 1508555045
+    }
+   }, 
+   "team": "guatitasec"
   }, 
   {
    "lastAccept": 1508541861, 
