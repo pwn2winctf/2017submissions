@@ -1,8 +1,56 @@
 {
  "standings": [
   {
-   "lastAccept": 1508587619, 
+   "lastAccept": 1508592565, 
    "pos": 1, 
+   "score": 2749, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 420, 
+     "time": 1508550974
+    }, 
+    "butchercorp_repository": {
+     "points": 500, 
+     "time": 1508592565
+    }, 
+    "criminals": {
+     "points": 420, 
+     "time": 1508528676
+    }, 
+    "differential_privacy": {
+     "points": 256, 
+     "time": 1508519356
+    }, 
+    "g00d_b0y": {
+     "points": 118, 
+     "time": 1508516751
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 80, 
+     "time": 1508516555
+    }, 
+    "hidden_program": {
+     "points": 115, 
+     "time": 1508516866
+    }, 
+    "pretty_it_all": {
+     "points": 474, 
+     "time": 1508541716
+    }, 
+    "sum": {
+     "points": 99, 
+     "time": 1508516981
+    }, 
+    "top_secret": {
+     "points": 267, 
+     "time": 1508522560
+    }
+   }, 
+   "team": "p4"
+  }, 
+  {
+   "lastAccept": 1508587619, 
+   "pos": 2, 
    "score": 2598, 
    "taskStats": {
     "criminals": {
@@ -47,50 +95,6 @@
     }
    }, 
    "team": "Dragon Sector"
-  }, 
-  {
-   "lastAccept": 1508550974, 
-   "pos": 2, 
-   "score": 2249, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 420, 
-     "time": 1508550974
-    }, 
-    "criminals": {
-     "points": 420, 
-     "time": 1508528676
-    }, 
-    "differential_privacy": {
-     "points": 256, 
-     "time": 1508519356
-    }, 
-    "g00d_b0y": {
-     "points": 118, 
-     "time": 1508516751
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 80, 
-     "time": 1508516555
-    }, 
-    "hidden_program": {
-     "points": 115, 
-     "time": 1508516866
-    }, 
-    "pretty_it_all": {
-     "points": 474, 
-     "time": 1508541716
-    }, 
-    "sum": {
-     "points": 99, 
-     "time": 1508516981
-    }, 
-    "top_secret": {
-     "points": 267, 
-     "time": 1508522560
-    }
-   }, 
-   "team": "p4"
   }, 
   {
    "lastAccept": 1508589946, 
@@ -3795,6 +3799,7 @@
   "wrong_user", 
   "nobs", 
   "resistance", 
-  "intel_sgx"
+  "intel_sgx", 
+  "butchercorp_repository"
  ]
 }
