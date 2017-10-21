@@ -1437,8 +1437,28 @@
    "team": "zeus"
   }, 
   {
-   "lastAccept": 1508546900, 
+   "lastAccept": 1508578171, 
    "pos": 50, 
+   "score": 658, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 453, 
+     "time": 1508574946
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 88, 
+     "time": 1508578171
+    }, 
+    "hidden_program": {
+     "points": 117, 
+     "time": 1508577778
+    }
+   }, 
+   "team": "CyKor"
+  }, 
+  {
+   "lastAccept": 1508546900, 
+   "pos": 51, 
    "score": 604, 
    "taskStats": {
     "g00d_b0y": {
@@ -1462,7 +1482,7 @@
   }, 
   {
    "lastAccept": 1508540128, 
-   "pos": 51, 
+   "pos": 52, 
    "score": 596, 
    "taskStats": {
     "differential_privacy": {
@@ -1486,7 +1506,7 @@
   }, 
   {
    "lastAccept": 1508544243, 
-   "pos": 52, 
+   "pos": 53, 
    "score": 596, 
    "taskStats": {
     "differential_privacy": {
@@ -1507,22 +1527,6 @@
     }
    }, 
    "team": "MuchPainNoGain"
-  }, 
-  {
-   "lastAccept": 1508577778, 
-   "pos": 53, 
-   "score": 570, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 453, 
-     "time": 1508574946
-    }, 
-    "hidden_program": {
-     "points": 117, 
-     "time": 1508577778
-    }
-   }, 
-   "team": "CyKor"
   }, 
   {
    "lastAccept": 1508520890, 
