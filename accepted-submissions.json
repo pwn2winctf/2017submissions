@@ -1,10 +1,14 @@
 {
  "standings": [
   {
-   "lastAccept": 1508541716, 
+   "lastAccept": 1508550974, 
    "pos": 1, 
-   "score": 2087, 
+   "score": 2561, 
    "taskStats": {
+    "baby_regex": {
+     "points": 474, 
+     "time": 1508550974
+    }, 
     "criminals": {
      "points": 474, 
      "time": 1508528676
@@ -43,10 +47,10 @@
   {
    "lastAccept": 1508545806, 
    "pos": 2, 
-   "score": 1821, 
+   "score": 1795, 
    "taskStats": {
     "baby_regex": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508540159
     }, 
     "g00d_b0y": {
