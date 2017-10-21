@@ -2333,8 +2333,28 @@
    "team": "PendolinoWarriors"
   }, 
   {
-   "lastAccept": 1508598922, 
+   "lastAccept": 1508611137, 
    "pos": 75, 
+   "score": 444, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 100, 
+     "time": 1508611137
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 65, 
+     "time": 1508602613
+    }, 
+    "warehouse": {
+     "points": 279, 
+     "time": 1508576939
+    }
+   }, 
+   "team": "ntropy"
+  }, 
+  {
+   "lastAccept": 1508598922, 
+   "pos": 76, 
    "score": 424, 
    "taskStats": {
     "great_cybernetic_revolution": {
@@ -2354,7 +2374,7 @@
   }, 
   {
    "lastAccept": 1508601387, 
-   "pos": 76, 
+   "pos": 77, 
    "score": 393, 
    "taskStats": {
     "differential_privacy": {
@@ -2374,7 +2394,7 @@
   }, 
   {
    "lastAccept": 1508519904, 
-   "pos": 77, 
+   "pos": 78, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2398,7 +2418,7 @@
   }, 
   {
    "lastAccept": 1508520699, 
-   "pos": 78, 
+   "pos": 79, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2422,7 +2442,7 @@
   }, 
   {
    "lastAccept": 1508520845, 
-   "pos": 79, 
+   "pos": 80, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2446,7 +2466,7 @@
   }, 
   {
    "lastAccept": 1508522050, 
-   "pos": 80, 
+   "pos": 81, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2470,7 +2490,7 @@
   }, 
   {
    "lastAccept": 1508522878, 
-   "pos": 81, 
+   "pos": 82, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2494,7 +2514,7 @@
   }, 
   {
    "lastAccept": 1508523449, 
-   "pos": 82, 
+   "pos": 83, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2518,7 +2538,7 @@
   }, 
   {
    "lastAccept": 1508526662, 
-   "pos": 83, 
+   "pos": 84, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2542,7 +2562,7 @@
   }, 
   {
    "lastAccept": 1508526858, 
-   "pos": 84, 
+   "pos": 85, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2566,7 +2586,7 @@
   }, 
   {
    "lastAccept": 1508534819, 
-   "pos": 85, 
+   "pos": 86, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2590,7 +2610,7 @@
   }, 
   {
    "lastAccept": 1508535105, 
-   "pos": 86, 
+   "pos": 87, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2614,7 +2634,7 @@
   }, 
   {
    "lastAccept": 1508535361, 
-   "pos": 87, 
+   "pos": 88, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2638,7 +2658,7 @@
   }, 
   {
    "lastAccept": 1508536413, 
-   "pos": 88, 
+   "pos": 89, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2662,7 +2682,7 @@
   }, 
   {
    "lastAccept": 1508539843, 
-   "pos": 89, 
+   "pos": 90, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2686,7 +2706,7 @@
   }, 
   {
    "lastAccept": 1508543062, 
-   "pos": 90, 
+   "pos": 91, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2710,7 +2730,7 @@
   }, 
   {
    "lastAccept": 1508547527, 
-   "pos": 91, 
+   "pos": 92, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2734,7 +2754,7 @@
   }, 
   {
    "lastAccept": 1508550168, 
-   "pos": 92, 
+   "pos": 93, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2758,7 +2778,7 @@
   }, 
   {
    "lastAccept": 1508559313, 
-   "pos": 93, 
+   "pos": 94, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2782,7 +2802,7 @@
   }, 
   {
    "lastAccept": 1508565545, 
-   "pos": 94, 
+   "pos": 95, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2806,7 +2826,7 @@
   }, 
   {
    "lastAccept": 1508577358, 
-   "pos": 95, 
+   "pos": 96, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2830,7 +2850,7 @@
   }, 
   {
    "lastAccept": 1508594969, 
-   "pos": 96, 
+   "pos": 97, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2854,7 +2874,7 @@
   }, 
   {
    "lastAccept": 1508595480, 
-   "pos": 97, 
+   "pos": 98, 
    "score": 344, 
    "taskStats": {
     "g00d_b0y": {
@@ -2875,22 +2895,6 @@
     }
    }, 
    "team": "PiratesInChairs"
-  }, 
-  {
-   "lastAccept": 1508602613, 
-   "pos": 98, 
-   "score": 344, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 65, 
-     "time": 1508602613
-    }, 
-    "warehouse": {
-     "points": 279, 
-     "time": 1508576939
-    }
-   }, 
-   "team": "ntropy"
   }, 
   {
    "lastAccept": 1508603771, 
