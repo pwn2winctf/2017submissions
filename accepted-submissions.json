@@ -1,65 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508601459, 
+   "lastAccept": 1508602288, 
    "pos": 1, 
-   "score": 3346, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 383, 
-     "time": 1508550974
-    }, 
-    "biometric_login": {
-     "points": 474, 
-     "time": 1508596309
-    }, 
-    "butchercorp_repository": {
-     "points": 453, 
-     "time": 1508592565
-    }, 
-    "criminals": {
-     "points": 420, 
-     "time": 1508528676
-    }, 
-    "differential_privacy": {
-     "points": 231, 
-     "time": 1508519356
-    }, 
-    "g00d_b0y": {
-     "points": 109, 
-     "time": 1508516751
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 70, 
-     "time": 1508516555
-    }, 
-    "hidden_program": {
-     "points": 108, 
-     "time": 1508516866
-    }, 
-    "pretty_it_all": {
-     "points": 453, 
-     "time": 1508541716
-    }, 
-    "sum": {
-     "points": 89, 
-     "time": 1508516981
-    }, 
-    "top_secret": {
-     "points": 263, 
-     "time": 1508522560
-    }, 
-    "warehouse": {
-     "points": 293, 
-     "time": 1508601459
-    }
-   }, 
-   "team": "p4"
-  }, 
-  {
-   "lastAccept": 1508601311, 
-   "pos": 2, 
-   "score": 3213, 
+   "score": 3648, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 355, 
@@ -68,6 +12,10 @@
     "baby_regex": {
      "points": 383, 
      "time": 1508586721
+    }, 
+    "butchercorp_repository": {
+     "points": 435, 
+     "time": 1508602288
     }, 
     "differential_privacy": {
      "points": 231, 
@@ -113,12 +61,68 @@
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
+   "lastAccept": 1508601459, 
+   "pos": 2, 
+   "score": 3328, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 383, 
+     "time": 1508550974
+    }, 
+    "biometric_login": {
+     "points": 474, 
+     "time": 1508596309
+    }, 
+    "butchercorp_repository": {
+     "points": 435, 
+     "time": 1508592565
+    }, 
+    "criminals": {
+     "points": 420, 
+     "time": 1508528676
+    }, 
+    "differential_privacy": {
+     "points": 231, 
+     "time": 1508519356
+    }, 
+    "g00d_b0y": {
+     "points": 109, 
+     "time": 1508516751
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 70, 
+     "time": 1508516555
+    }, 
+    "hidden_program": {
+     "points": 108, 
+     "time": 1508516866
+    }, 
+    "pretty_it_all": {
+     "points": 453, 
+     "time": 1508541716
+    }, 
+    "sum": {
+     "points": 89, 
+     "time": 1508516981
+    }, 
+    "top_secret": {
+     "points": 263, 
+     "time": 1508522560
+    }, 
+    "warehouse": {
+     "points": 293, 
+     "time": 1508601459
+    }
+   }, 
+   "team": "p4"
+  }, 
+  {
    "lastAccept": 1508595865, 
    "pos": 3, 
-   "score": 2895, 
+   "score": 2877, 
    "taskStats": {
     "butchercorp_repository": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508595865
     }, 
     "criminals": {
@@ -167,10 +171,10 @@
   {
    "lastAccept": 1508594819, 
    "pos": 4, 
-   "score": 2504, 
+   "score": 2486, 
    "taskStats": {
     "butchercorp_repository": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508594819
     }, 
     "differential_privacy": {
