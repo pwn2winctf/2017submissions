@@ -3903,6 +3903,18 @@
     }
    }, 
    "team": "SPiralBL0ck"
+  }, 
+  {
+   "lastAccept": 1508596893, 
+   "pos": 171, 
+   "score": 77, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 77, 
+     "time": 1508596893
+    }
+   }, 
+   "team": "Burlingpwn"
   }
  ], 
  "tasks": [
