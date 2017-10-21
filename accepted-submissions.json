@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508610304, 
+   "lastAccept": 1508615050, 
    "pos": 1, 
-   "score": 4734, 
+   "score": 5169, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 347, 
@@ -48,6 +48,10 @@
     "pretty_it_all": {
      "points": 453, 
      "time": 1508597391
+    }, 
+    "resistance": {
+     "points": 435, 
+     "time": 1508615050
     }, 
     "sum": {
      "points": 79, 
@@ -627,7 +631,7 @@
   {
    "lastAccept": 1508606972, 
    "pos": 15, 
-   "score": 1294, 
+   "score": 1276, 
    "taskStats": {
     "differential_privacy": {
      "points": 223, 
@@ -646,7 +650,7 @@
      "time": 1508538704
     }, 
     "resistance": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508606972
     }, 
     "sum": {
@@ -663,7 +667,7 @@
   {
    "lastAccept": 1508613155, 
    "pos": 16, 
-   "score": 1275, 
+   "score": 1257, 
    "taskStats": {
     "differential_privacy": {
      "points": 223, 
@@ -682,7 +686,7 @@
      "time": 1508592519
     }, 
     "resistance": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508613155
     }, 
     "sum": {
@@ -967,7 +971,7 @@
   {
    "lastAccept": 1508600903, 
    "pos": 25, 
-   "score": 1015, 
+   "score": 997, 
    "taskStats": {
     "differential_privacy": {
      "points": 223, 
@@ -986,7 +990,7 @@
      "time": 1508565612
     }, 
     "resistance": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508591711
     }, 
     "sum": {
