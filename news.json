@@ -92,5 +92,9 @@
  {
   "msg": "If you're having any trouble understanding what the 'intermediate' in Attack Step[Intermediate] stands for, just read it as [Step 1] and [Final] as [Step 2].", 
   "time": 1508623557
+ }, 
+ {
+  "msg": "The main link to the .tar.gz from Attack Step was updated! (was broken)", 
+  "time": 1508625061
  }
 ]
