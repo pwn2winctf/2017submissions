@@ -3711,6 +3711,18 @@
     }
    }, 
    "team": "rawsec"
+  }, 
+  {
+   "lastAccept": 1508588206, 
+   "pos": 168, 
+   "score": 80, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 80, 
+     "time": 1508588206
+    }
+   }, 
+   "team": "hAIXer"
   }
  ], 
  "tasks": [
