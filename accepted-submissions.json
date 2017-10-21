@@ -51,7 +51,7 @@
   {
    "lastAccept": 1508587619, 
    "pos": 2, 
-   "score": 2572, 
+   "score": 2546, 
    "taskStats": {
     "criminals": {
      "points": 420, 
@@ -90,7 +90,7 @@
      "time": 1508552794
     }, 
     "wrong_user": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508587619
     }
    }, 
@@ -145,8 +145,52 @@
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
-   "lastAccept": 1508561194, 
+   "lastAccept": 1508594463, 
    "pos": 4, 
+   "score": 2159, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 249, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 116, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 79, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 114, 
+     "time": 1508531481
+    }, 
+    "sehlokodemais": {
+     "points": 453, 
+     "time": 1508590975
+    }, 
+    "sum": {
+     "points": 99, 
+     "time": 1508528158
+    }, 
+    "top_secret": {
+     "points": 267, 
+     "time": 1508538086
+    }, 
+    "warehouse": {
+     "points": 308, 
+     "time": 1508584734
+    }, 
+    "wrong_user": {
+     "points": 474, 
+     "time": 1508594463
+    }
+   }, 
+   "team": "HackingForSoju"
+  }, 
+  {
+   "lastAccept": 1508561194, 
+   "pos": 5, 
    "score": 1950, 
    "taskStats": {
     "baby_regex": {
@@ -186,7 +230,7 @@
   }, 
   {
    "lastAccept": 1508556356, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 1885, 
    "taskStats": {
     "blackbox_pentesting": {
@@ -223,46 +267,6 @@
     }
    }, 
    "team": "sec0d"
-  }, 
-  {
-   "lastAccept": 1508590975, 
-   "pos": 6, 
-   "score": 1685, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 249, 
-     "time": 1508534972
-    }, 
-    "g00d_b0y": {
-     "points": 116, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 79, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 114, 
-     "time": 1508531481
-    }, 
-    "sehlokodemais": {
-     "points": 453, 
-     "time": 1508590975
-    }, 
-    "sum": {
-     "points": 99, 
-     "time": 1508528158
-    }, 
-    "top_secret": {
-     "points": 267, 
-     "time": 1508538086
-    }, 
-    "warehouse": {
-     "points": 308, 
-     "time": 1508584734
-    }
-   }, 
-   "team": "HackingForSoju"
   }, 
   {
    "lastAccept": 1508591812, 
