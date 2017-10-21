@@ -569,8 +569,36 @@
    "team": "noraneco"
   }, 
   {
-   "lastAccept": 1508592554, 
+   "lastAccept": 1508598985, 
    "pos": 15, 
+   "score": 1161, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 383, 
+     "time": 1508595753
+    }, 
+    "g00d_b0y": {
+     "points": 111, 
+     "time": 1508540573
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 74, 
+     "time": 1508540614
+    }, 
+    "rootkit": {
+     "points": 500, 
+     "time": 1508540528
+    }, 
+    "sum": {
+     "points": 93, 
+     "time": 1508598985
+    }
+   }, 
+   "team": "MV9rwGOf08"
+  }, 
+  {
+   "lastAccept": 1508592554, 
+   "pos": 16, 
    "score": 1094, 
    "taskStats": {
     "g00d_b0y": {
@@ -595,30 +623,6 @@
     }
    }, 
    "team": "spritzers"
-  }, 
-  {
-   "lastAccept": 1508595753, 
-   "pos": 16, 
-   "score": 1068, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 383, 
-     "time": 1508595753
-    }, 
-    "g00d_b0y": {
-     "points": 111, 
-     "time": 1508540573
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 74, 
-     "time": 1508540614
-    }, 
-    "rootkit": {
-     "points": 500, 
-     "time": 1508540528
-    }
-   }, 
-   "team": "MV9rwGOf08"
   }, 
   {
    "lastAccept": 1508589503, 
