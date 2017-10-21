@@ -22,5 +22,10 @@
  {
   "msg": "Botnet in the Wild: Your goal is to pwn the bot, not the C2.", 
   "time": 1508538996
+ }, 
+ {
+  "msg": "15Vc+acpFzoqWjhb5fzhlie1Va4pgGpv36SpDfpxoB4E4mmXsLL9I0lPDlUTF6YIh24O3PHyqmZgeuUMqSlTlnvIqNOeg5e79VFeZsYtGW3NQSBDNrs4HtvXM/D/fjHKOapvtaVWpWc9DLnSJ5Xd/bTwizzqQ1WhiKhZvnr7C8WmwLeuABgQMkgKqpII9fd9ZyTAoqIrGlTkbzrSld/gCA==", 
+  "time": 1508544304, 
+  "to": "p4"
  }
 ]
