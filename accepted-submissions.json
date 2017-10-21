@@ -1,69 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508602335, 
+   "lastAccept": 1508603280, 
    "pos": 1, 
-   "score": 3726, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 406, 
-     "time": 1508602335
-    }, 
-    "baby_regex": {
-     "points": 383, 
-     "time": 1508550974
-    }, 
-    "biometric_login": {
-     "points": 474, 
-     "time": 1508596309
-    }, 
-    "butchercorp_repository": {
-     "points": 435, 
-     "time": 1508592565
-    }, 
-    "criminals": {
-     "points": 420, 
-     "time": 1508528676
-    }, 
-    "differential_privacy": {
-     "points": 231, 
-     "time": 1508519356
-    }, 
-    "g00d_b0y": {
-     "points": 108, 
-     "time": 1508516751
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 69, 
-     "time": 1508516555
-    }, 
-    "hidden_program": {
-     "points": 107, 
-     "time": 1508516866
-    }, 
-    "pretty_it_all": {
-     "points": 453, 
-     "time": 1508541716
-    }, 
-    "sum": {
-     "points": 89, 
-     "time": 1508516981
-    }, 
-    "top_secret": {
-     "points": 263, 
-     "time": 1508522560
-    }, 
-    "warehouse": {
-     "points": 288, 
-     "time": 1508601459
-    }
-   }, 
-   "team": "p4"
-  }, 
-  {
-   "lastAccept": 1508602288, 
-   "pos": 2, 
-   "score": 3628, 
+   "score": 4034, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 355, 
@@ -76,6 +16,10 @@
     "butchercorp_repository": {
      "points": 435, 
      "time": 1508602288
+    }, 
+    "criminals": {
+     "points": 406, 
+     "time": 1508603280
     }, 
     "differential_privacy": {
      "points": 231, 
@@ -121,16 +65,76 @@
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
+   "lastAccept": 1508602335, 
+   "pos": 2, 
+   "score": 3712, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 406, 
+     "time": 1508602335
+    }, 
+    "baby_regex": {
+     "points": 383, 
+     "time": 1508550974
+    }, 
+    "biometric_login": {
+     "points": 474, 
+     "time": 1508596309
+    }, 
+    "butchercorp_repository": {
+     "points": 435, 
+     "time": 1508592565
+    }, 
+    "criminals": {
+     "points": 406, 
+     "time": 1508528676
+    }, 
+    "differential_privacy": {
+     "points": 231, 
+     "time": 1508519356
+    }, 
+    "g00d_b0y": {
+     "points": 108, 
+     "time": 1508516751
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 69, 
+     "time": 1508516555
+    }, 
+    "hidden_program": {
+     "points": 107, 
+     "time": 1508516866
+    }, 
+    "pretty_it_all": {
+     "points": 453, 
+     "time": 1508541716
+    }, 
+    "sum": {
+     "points": 89, 
+     "time": 1508516981
+    }, 
+    "top_secret": {
+     "points": 263, 
+     "time": 1508522560
+    }, 
+    "warehouse": {
+     "points": 288, 
+     "time": 1508601459
+    }
+   }, 
+   "team": "p4"
+  }, 
+  {
    "lastAccept": 1508595865, 
    "pos": 3, 
-   "score": 2857, 
+   "score": 2843, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 435, 
      "time": 1508595865
     }, 
     "criminals": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508557689
     }, 
     "differential_privacy": {
@@ -263,14 +267,14 @@
   {
    "lastAccept": 1508556356, 
    "pos": 6, 
-   "score": 1812, 
+   "score": 1798, 
    "taskStats": {
     "blackbox_pentesting": {
      "points": 500, 
      "time": 1508556356
     }, 
     "criminals": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508531924
     }, 
     "differential_privacy": {
@@ -843,10 +847,10 @@
   {
    "lastAccept": 1508564928, 
    "pos": 23, 
-   "score": 921, 
+   "score": 907, 
    "taskStats": {
     "criminals": {
-     "points": 420, 
+     "points": 406, 
      "time": 1508564928
     }, 
     "hidden_program": {
@@ -1245,36 +1249,8 @@
    "team": "VoidHack"
   }, 
   {
-   "lastAccept": 1508577226, 
-   "pos": 36, 
-   "score": 793, 
-   "taskStats": {
-    "criminals": {
-     "points": 420, 
-     "time": 1508577226
-    }, 
-    "g00d_b0y": {
-     "points": 108, 
-     "time": 1508556211
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 69, 
-     "time": 1508556343
-    }, 
-    "hidden_program": {
-     "points": 107, 
-     "time": 1508552462
-    }, 
-    "sum": {
-     "points": 89, 
-     "time": 1508554957
-    }
-   }, 
-   "team": "Dreamtale"
-  }, 
-  {
    "lastAccept": 1508587947, 
-   "pos": 37, 
+   "pos": 36, 
    "score": 784, 
    "taskStats": {
     "differential_privacy": {
@@ -1299,6 +1275,34 @@
     }
    }, 
    "team": "14K"
+  }, 
+  {
+   "lastAccept": 1508577226, 
+   "pos": 37, 
+   "score": 779, 
+   "taskStats": {
+    "criminals": {
+     "points": 406, 
+     "time": 1508577226
+    }, 
+    "g00d_b0y": {
+     "points": 108, 
+     "time": 1508556211
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 69, 
+     "time": 1508556343
+    }, 
+    "hidden_program": {
+     "points": 107, 
+     "time": 1508552462
+    }, 
+    "sum": {
+     "points": 89, 
+     "time": 1508554957
+    }
+   }, 
+   "team": "Dreamtale"
   }, 
   {
    "lastAccept": 1508532745, 
