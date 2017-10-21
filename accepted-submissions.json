@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508615050, 
+   "lastAccept": 1508615718, 
    "pos": 1, 
-   "score": 5155, 
+   "score": 5655, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 347, 
@@ -12,6 +12,10 @@
     "asymmetric_encryption": {
      "points": 347, 
      "time": 1508583631
+    }, 
+    "attack_step_intermediate": {
+     "points": 500, 
+     "time": 1508615718
     }, 
     "baby_regex": {
      "points": 355, 
@@ -4561,6 +4565,7 @@
   "resistance", 
   "intel_sgx", 
   "butchercorp_repository", 
-  "botnet_in_the_wild"
+  "botnet_in_the_wild", 
+  "attack_step_intermediate"
  ]
 }
