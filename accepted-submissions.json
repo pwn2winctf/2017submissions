@@ -2245,8 +2245,32 @@
    "team": "HackPack"
   }, 
   {
-   "lastAccept": 1508546900, 
+   "lastAccept": 1508611471, 
    "pos": 71, 
+   "score": 523, 
+   "taskStats": {
+    "g00d_b0y": {
+     "points": 99, 
+     "time": 1508607345
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 65, 
+     "time": 1508611471
+    }, 
+    "hidden_program": {
+     "points": 99, 
+     "time": 1508606337
+    }, 
+    "top_secret": {
+     "points": 260, 
+     "time": 1508609279
+    }
+   }, 
+   "team": "PendolinoWarriors"
+  }, 
+  {
+   "lastAccept": 1508546900, 
+   "pos": 72, 
    "score": 504, 
    "taskStats": {
     "g00d_b0y": {
@@ -2270,7 +2294,7 @@
   }, 
   {
    "lastAccept": 1508544243, 
-   "pos": 72, 
+   "pos": 73, 
    "score": 472, 
    "taskStats": {
     "differential_privacy": {
@@ -2294,7 +2318,7 @@
   }, 
   {
    "lastAccept": 1508592893, 
-   "pos": 73, 
+   "pos": 74, 
    "score": 472, 
    "taskStats": {
     "differential_privacy": {
@@ -2315,26 +2339,6 @@
     }
    }, 
    "team": "kerouac"
-  }, 
-  {
-   "lastAccept": 1508609279, 
-   "pos": 74, 
-   "score": 458, 
-   "taskStats": {
-    "g00d_b0y": {
-     "points": 99, 
-     "time": 1508607345
-    }, 
-    "hidden_program": {
-     "points": 99, 
-     "time": 1508606337
-    }, 
-    "top_secret": {
-     "points": 260, 
-     "time": 1508609279
-    }
-   }, 
-   "team": "PendolinoWarriors"
   }, 
   {
    "lastAccept": 1508611137, 
