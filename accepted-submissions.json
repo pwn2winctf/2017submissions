@@ -4727,6 +4727,18 @@
     }
    }, 
    "team": "InSecurity"
+  }, 
+  {
+   "lastAccept": 1508624287, 
+   "pos": 195, 
+   "score": 60, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 60, 
+     "time": 1508624287
+    }
+   }, 
+   "team": "TeamNothing"
   }
  ], 
  "tasks": [
