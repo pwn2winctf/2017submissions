@@ -505,8 +505,52 @@
    "team": "RapaceDiabolique"
   }, 
   {
-   "lastAccept": 1508634000, 
+   "lastAccept": 1508671605, 
    "pos": 9, 
+   "score": 2082, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 314, 
+     "time": 1508595753
+    }, 
+    "botnet_in_the_wild": {
+     "points": 474, 
+     "time": 1508671605
+    }, 
+    "differential_privacy": {
+     "points": 191, 
+     "time": 1508627812
+    }, 
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1508540573
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 53, 
+     "time": 1508540614
+    }, 
+    "hidden_program": {
+     "points": 84, 
+     "time": 1508623897
+    }, 
+    "rootkit": {
+     "points": 453, 
+     "time": 1508540528
+    }, 
+    "secure_path": {
+     "points": 363, 
+     "time": 1508634654
+    }, 
+    "sum": {
+     "points": 65, 
+     "time": 1508598985
+    }
+   }, 
+   "team": "MV9rwGOf08"
+  }, 
+  {
+   "lastAccept": 1508634000, 
+   "pos": 10, 
    "score": 2000, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -550,15 +594,15 @@
   }, 
   {
    "lastAccept": 1508611936, 
-   "pos": 10, 
-   "score": 1996, 
+   "pos": 11, 
+   "score": 1970, 
    "taskStats": {
     "baby_regex": {
      "points": 314, 
      "time": 1508540159
     }, 
     "botnet_in_the_wild": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508611936
     }, 
     "differential_privacy": {
@@ -594,7 +638,7 @@
   }, 
   {
    "lastAccept": 1508653989, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1680, 
    "taskStats": {
     "baby_regex": {
@@ -635,46 +679,6 @@
     }
    }, 
    "team": "noraneco"
-  }, 
-  {
-   "lastAccept": 1508634654, 
-   "pos": 12, 
-   "score": 1608, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 314, 
-     "time": 1508595753
-    }, 
-    "differential_privacy": {
-     "points": 191, 
-     "time": 1508627812
-    }, 
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1508540573
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 53, 
-     "time": 1508540614
-    }, 
-    "hidden_program": {
-     "points": 84, 
-     "time": 1508623897
-    }, 
-    "rootkit": {
-     "points": 453, 
-     "time": 1508540528
-    }, 
-    "secure_path": {
-     "points": 363, 
-     "time": 1508634654
-    }, 
-    "sum": {
-     "points": 65, 
-     "time": 1508598985
-    }
-   }, 
-   "team": "MV9rwGOf08"
   }, 
   {
    "lastAccept": 1508629471, 
