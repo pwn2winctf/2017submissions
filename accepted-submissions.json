@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508670358, 
+   "lastAccept": 1508682893, 
    "pos": 1, 
-   "score": 6733, 
+   "score": 7233, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -56,6 +56,10 @@
     "hidden_program": {
      "points": 84, 
      "time": 1508517335
+    }, 
+    "netscape": {
+     "points": 500, 
+     "time": 1508682893
     }, 
     "pretty_it_all": {
      "points": 420, 
@@ -5470,6 +5474,7 @@
   "secure_path", 
   "p0ng_adventure", 
   "attack_step_final", 
-  "shift_register"
+  "shift_register", 
+  "netscape"
  ]
 }
