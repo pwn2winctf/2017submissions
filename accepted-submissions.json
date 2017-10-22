@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508684991, 
    "pos": 1, 
-   "score": 7559, 
+   "score": 7548, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -98,7 +98,7 @@
      "time": 1508589946
     }, 
     "wrong_user": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508601311
     }
    }, 
@@ -107,7 +107,7 @@
   {
    "lastAccept": 1508672206, 
    "pos": 2, 
-   "score": 5668, 
+   "score": 5657, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -186,7 +186,7 @@
      "time": 1508601459
     }, 
     "wrong_user": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508605234
     }
    }, 
@@ -195,7 +195,7 @@
   {
    "lastAccept": 1508679450, 
    "pos": 3, 
-   "score": 5132, 
+   "score": 5121, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -266,79 +266,15 @@
      "time": 1508552794
     }, 
     "wrong_user": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508587619
     }
    }, 
    "team": "Dragon Sector"
   }, 
   {
-   "lastAccept": 1508628179, 
-   "pos": 4, 
-   "score": 3467, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 308, 
-     "time": 1508616350
-    }, 
-    "attack_step_intermediate": {
-     "points": 474, 
-     "time": 1508628179
-    }, 
-    "baby_regex": {
-     "points": 308, 
-     "time": 1508621701
-    }, 
-    "butchercorp_repository": {
-     "points": 420, 
-     "time": 1508594819
-    }, 
-    "differential_privacy": {
-     "points": 176, 
-     "time": 1508534972
-    }, 
-    "g00d_b0y": {
-     "points": 84, 
-     "time": 1508530266
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 51, 
-     "time": 1508528306
-    }, 
-    "hidden_program": {
-     "points": 83, 
-     "time": 1508531481
-    }, 
-    "sehlokodemais": {
-     "points": 355, 
-     "time": 1508590975
-    }, 
-    "sum": {
-     "points": 64, 
-     "time": 1508528158
-    }, 
-    "tokens_v20": {
-     "points": 288, 
-     "time": 1508611208
-    }, 
-    "top_secret": {
-     "points": 228, 
-     "time": 1508538086
-    }, 
-    "warehouse": {
-     "points": 234, 
-     "time": 1508584734
-    }, 
-    "wrong_user": {
-     "points": 394, 
-     "time": 1508594463
-    }
-   }, 
-   "team": "HackingForSoju"
-  }, 
-  {
    "lastAccept": 1508685031, 
-   "pos": 5, 
+   "pos": 4, 
    "score": 3460, 
    "taskStats": {
     "achievement_unlocked": {
@@ -399,6 +335,70 @@
     }
    }, 
    "team": "0x00C0FFEE"
+  }, 
+  {
+   "lastAccept": 1508628179, 
+   "pos": 5, 
+   "score": 3456, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 308, 
+     "time": 1508616350
+    }, 
+    "attack_step_intermediate": {
+     "points": 474, 
+     "time": 1508628179
+    }, 
+    "baby_regex": {
+     "points": 308, 
+     "time": 1508621701
+    }, 
+    "butchercorp_repository": {
+     "points": 420, 
+     "time": 1508594819
+    }, 
+    "differential_privacy": {
+     "points": 176, 
+     "time": 1508534972
+    }, 
+    "g00d_b0y": {
+     "points": 84, 
+     "time": 1508530266
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 51, 
+     "time": 1508528306
+    }, 
+    "hidden_program": {
+     "points": 83, 
+     "time": 1508531481
+    }, 
+    "sehlokodemais": {
+     "points": 355, 
+     "time": 1508590975
+    }, 
+    "sum": {
+     "points": 64, 
+     "time": 1508528158
+    }, 
+    "tokens_v20": {
+     "points": 288, 
+     "time": 1508611208
+    }, 
+    "top_secret": {
+     "points": 228, 
+     "time": 1508538086
+    }, 
+    "warehouse": {
+     "points": 234, 
+     "time": 1508584734
+    }, 
+    "wrong_user": {
+     "points": 383, 
+     "time": 1508594463
+    }
+   }, 
+   "team": "HackingForSoju"
   }, 
   {
    "lastAccept": 1508658928, 
@@ -555,7 +555,7 @@
   {
    "lastAccept": 1508684041, 
    "pos": 9, 
-   "score": 2102, 
+   "score": 2091, 
    "taskStats": {
     "differential_privacy": {
      "points": 176, 
@@ -594,7 +594,7 @@
      "time": 1508541861
     }, 
     "wrong_user": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508684041
     }
    }, 
@@ -781,8 +781,52 @@
    "team": "ASIS"
   }, 
   {
-   "lastAccept": 1508684126, 
+   "lastAccept": 1508685981, 
    "pos": 14, 
+   "score": 1842, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 314, 
+     "time": 1508590520
+    }, 
+    "biometric_login": {
+     "points": 453, 
+     "time": 1508573456
+    }, 
+    "differential_privacy": {
+     "points": 176, 
+     "time": 1508657725
+    }, 
+    "g00d_b0y": {
+     "points": 84, 
+     "time": 1508519161
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 51, 
+     "time": 1508515238
+    }, 
+    "hidden_program": {
+     "points": 83, 
+     "time": 1508520106
+    }, 
+    "sum": {
+     "points": 64, 
+     "time": 1508520213
+    }, 
+    "warehouse": {
+     "points": 234, 
+     "time": 1508587456
+    }, 
+    "wrong_user": {
+     "points": 383, 
+     "time": 1508685981
+    }
+   }, 
+   "team": "Kap0k"
+  }, 
+  {
+   "lastAccept": 1508684126, 
+   "pos": 15, 
    "score": 1840, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -826,7 +870,7 @@
   }, 
   {
    "lastAccept": 1508611936, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1829, 
    "taskStats": {
     "baby_regex": {
@@ -870,8 +914,8 @@
   }, 
   {
    "lastAccept": 1508678116, 
-   "pos": 16, 
-   "score": 1814, 
+   "pos": 17, 
+   "score": 1803, 
    "taskStats": {
     "criminals": {
      "points": 373, 
@@ -906,7 +950,7 @@
      "time": 1508544021
     }, 
     "wrong_user": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508678116
     }
    }, 
@@ -914,7 +958,7 @@
   }, 
   {
    "lastAccept": 1508685762, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 1773, 
    "taskStats": {
     "botnet_in_the_wild": {
@@ -958,7 +1002,7 @@
   }, 
   {
    "lastAccept": 1508683828, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 1723, 
    "taskStats": {
     "baby_regex": {
@@ -1002,7 +1046,7 @@
   }, 
   {
    "lastAccept": 1508685818, 
-   "pos": 19, 
+   "pos": 20, 
    "score": 1710, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1046,8 +1090,8 @@
   }, 
   {
    "lastAccept": 1508653989, 
-   "pos": 20, 
-   "score": 1622, 
+   "pos": 21, 
+   "score": 1611, 
    "taskStats": {
     "baby_regex": {
      "points": 308, 
@@ -1082,7 +1126,7 @@
      "time": 1508564225
     }, 
     "wrong_user": {
-     "points": 394, 
+     "points": 383, 
      "time": 1508653989
     }
    }, 
@@ -1090,7 +1134,7 @@
   }, 
   {
    "lastAccept": 1508629471, 
-   "pos": 21, 
+   "pos": 22, 
    "score": 1542, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1134,7 +1178,7 @@
   }, 
   {
    "lastAccept": 1508682217, 
-   "pos": 22, 
+   "pos": 23, 
    "score": 1522, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -1178,7 +1222,7 @@
   }, 
   {
    "lastAccept": 1508678553, 
-   "pos": 23, 
+   "pos": 24, 
    "score": 1516, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1222,7 +1266,7 @@
   }, 
   {
    "lastAccept": 1508556356, 
-   "pos": 24, 
+   "pos": 25, 
    "score": 1500, 
    "taskStats": {
     "blackbox_pentesting": {
@@ -1262,7 +1306,7 @@
   }, 
   {
    "lastAccept": 1508656711, 
-   "pos": 25, 
+   "pos": 26, 
    "score": 1487, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1299,46 +1343,6 @@
     }
    }, 
    "team": "Hayyim_"
-  }, 
-  {
-   "lastAccept": 1508657725, 
-   "pos": 26, 
-   "score": 1459, 
-   "taskStats": {
-    "asymmetric_encryption": {
-     "points": 314, 
-     "time": 1508590520
-    }, 
-    "biometric_login": {
-     "points": 453, 
-     "time": 1508573456
-    }, 
-    "differential_privacy": {
-     "points": 176, 
-     "time": 1508657725
-    }, 
-    "g00d_b0y": {
-     "points": 84, 
-     "time": 1508519161
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 51, 
-     "time": 1508515238
-    }, 
-    "hidden_program": {
-     "points": 83, 
-     "time": 1508520106
-    }, 
-    "sum": {
-     "points": 64, 
-     "time": 1508520213
-    }, 
-    "warehouse": {
-     "points": 234, 
-     "time": 1508587456
-    }
-   }, 
-   "team": "Kap0k"
   }, 
   {
    "lastAccept": 1508634984, 
