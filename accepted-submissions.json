@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508682893, 
    "pos": 1, 
-   "score": 7230, 
+   "score": 7218, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -94,7 +94,7 @@
      "time": 1508589946
     }, 
     "wrong_user": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508601311
     }
    }, 
@@ -103,7 +103,7 @@
   {
    "lastAccept": 1508672206, 
    "pos": 2, 
-   "score": 5702, 
+   "score": 5690, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -182,7 +182,7 @@
      "time": 1508601459
     }, 
     "wrong_user": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508605234
     }
    }, 
@@ -191,7 +191,7 @@
   {
    "lastAccept": 1508679450, 
    "pos": 3, 
-   "score": 5173, 
+   "score": 5161, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -262,7 +262,7 @@
      "time": 1508552794
     }, 
     "wrong_user": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508587619
     }
    }, 
@@ -271,7 +271,7 @@
   {
    "lastAccept": 1508628179, 
    "pos": 4, 
-   "score": 3493, 
+   "score": 3481, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -326,7 +326,7 @@
      "time": 1508584734
     }, 
     "wrong_user": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508594463
     }
    }, 
@@ -545,8 +545,56 @@
    "team": "M57"
   }, 
   {
-   "lastAccept": 1508680185, 
+   "lastAccept": 1508684041, 
    "pos": 9, 
+   "score": 2108, 
+   "taskStats": {
+    "differential_privacy": {
+     "points": 181, 
+     "time": 1508678832
+    }, 
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1508528164
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 51, 
+     "time": 1508529186
+    }, 
+    "hidden_program": {
+     "points": 83, 
+     "time": 1508528195
+    }, 
+    "intel_sgx": {
+     "points": 500, 
+     "time": 1508592554
+    }, 
+    "sum": {
+     "points": 64, 
+     "time": 1508603374
+    }, 
+    "tokens_v20": {
+     "points": 288, 
+     "time": 1508668949
+    }, 
+    "top_secret": {
+     "points": 228, 
+     "time": 1508665334
+    }, 
+    "warehouse": {
+     "points": 234, 
+     "time": 1508541861
+    }, 
+    "wrong_user": {
+     "points": 394, 
+     "time": 1508684041
+    }
+   }, 
+   "team": "spritzers"
+  }, 
+  {
+   "lastAccept": 1508680185, 
+   "pos": 10, 
    "score": 1983, 
    "taskStats": {
     "biometric_login": {
@@ -590,7 +638,7 @@
   }, 
   {
    "lastAccept": 1508634000, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1974, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -634,7 +682,7 @@
   }, 
   {
    "lastAccept": 1508671605, 
-   "pos": 11, 
+   "pos": 12, 
    "score": 1967, 
    "taskStats": {
     "baby_regex": {
@@ -678,7 +726,7 @@
   }, 
   {
    "lastAccept": 1508611936, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1858, 
    "taskStats": {
     "baby_regex": {
@@ -722,8 +770,8 @@
   }, 
   {
    "lastAccept": 1508678116, 
-   "pos": 13, 
-   "score": 1840, 
+   "pos": 14, 
+   "score": 1828, 
    "taskStats": {
     "criminals": {
      "points": 373, 
@@ -758,7 +806,7 @@
      "time": 1508544021
     }, 
     "wrong_user": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508678116
     }
    }, 
@@ -766,7 +814,7 @@
   }, 
   {
    "lastAccept": 1508683828, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1729, 
    "taskStats": {
     "baby_regex": {
@@ -809,53 +857,9 @@
    "team": "famhacko"
   }, 
   {
-   "lastAccept": 1508678832, 
-   "pos": 15, 
-   "score": 1714, 
-   "taskStats": {
-    "differential_privacy": {
-     "points": 181, 
-     "time": 1508678832
-    }, 
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1508528164
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 51, 
-     "time": 1508529186
-    }, 
-    "hidden_program": {
-     "points": 83, 
-     "time": 1508528195
-    }, 
-    "intel_sgx": {
-     "points": 500, 
-     "time": 1508592554
-    }, 
-    "sum": {
-     "points": 64, 
-     "time": 1508603374
-    }, 
-    "tokens_v20": {
-     "points": 288, 
-     "time": 1508668949
-    }, 
-    "top_secret": {
-     "points": 228, 
-     "time": 1508665334
-    }, 
-    "warehouse": {
-     "points": 234, 
-     "time": 1508541861
-    }
-   }, 
-   "team": "spritzers"
-  }, 
-  {
    "lastAccept": 1508653989, 
    "pos": 16, 
-   "score": 1640, 
+   "score": 1628, 
    "taskStats": {
     "baby_regex": {
      "points": 308, 
@@ -890,7 +894,7 @@
      "time": 1508564225
     }, 
     "wrong_user": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508653989
     }
    }, 
