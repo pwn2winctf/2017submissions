@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508670358, 
    "pos": 1, 
-   "score": 6774, 
+   "score": 6767, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -70,7 +70,7 @@
      "time": 1508627792
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508663814
     }, 
     "sum": {
@@ -99,7 +99,7 @@
   {
    "lastAccept": 1508672206, 
    "pos": 2, 
-   "score": 5728, 
+   "score": 5721, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -154,7 +154,7 @@
      "time": 1508672206
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508636546
     }, 
     "sehlokodemais": {
@@ -329,9 +329,9 @@
    "team": "HackingForSoju"
   }, 
   {
-   "lastAccept": 1508634744, 
+   "lastAccept": 1508681683, 
    "pos": 5, 
-   "score": 2661, 
+   "score": 3001, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -364,6 +364,10 @@
     "resistance": {
      "points": 373, 
      "time": 1508634744
+    }, 
+    "secure_path": {
+     "points": 340, 
+     "time": 1508681683
     }, 
     "sehlokodemais": {
      "points": 363, 
@@ -435,7 +439,7 @@
   {
    "lastAccept": 1508645144, 
    "pos": 7, 
-   "score": 2464, 
+   "score": 2457, 
    "taskStats": {
     "baby_regex": {
      "points": 308, 
@@ -466,7 +470,7 @@
      "time": 1508617159
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508633466
     }, 
     "sum": {
@@ -487,7 +491,7 @@
   {
    "lastAccept": 1508667831, 
    "pos": 8, 
-   "score": 2091, 
+   "score": 2084, 
    "taskStats": {
     "baby_regex": {
      "points": 308, 
@@ -514,7 +518,7 @@
      "time": 1508667831
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508627784
     }, 
     "sum": {
@@ -535,7 +539,7 @@
   {
    "lastAccept": 1508680185, 
    "pos": 9, 
-   "score": 2003, 
+   "score": 1996, 
    "taskStats": {
     "biometric_login": {
      "points": 453, 
@@ -562,7 +566,7 @@
      "time": 1508618729
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508672591
     }, 
     "sehlokodemais": {
@@ -623,7 +627,7 @@
   {
    "lastAccept": 1508671605, 
    "pos": 11, 
-   "score": 1977, 
+   "score": 1970, 
    "taskStats": {
     "baby_regex": {
      "points": 308, 
@@ -654,7 +658,7 @@
      "time": 1508540528
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508634654
     }, 
     "sum": {
@@ -1127,7 +1131,7 @@
   {
    "lastAccept": 1508677488, 
    "pos": 23, 
-   "score": 1442, 
+   "score": 1435, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 320, 
@@ -1154,7 +1158,7 @@
      "time": 1508539677
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508677488
     }, 
     "sum": {
@@ -1207,7 +1211,7 @@
   {
    "lastAccept": 1508634984, 
    "pos": 25, 
-   "score": 1415, 
+   "score": 1408, 
    "taskStats": {
     "differential_privacy": {
      "points": 183, 
@@ -1230,7 +1234,7 @@
      "time": 1508613155
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508634984
     }, 
     "sum": {
@@ -1363,7 +1367,7 @@
   {
    "lastAccept": 1508668645, 
    "pos": 29, 
-   "score": 1276, 
+   "score": 1269, 
    "taskStats": {
     "differential_privacy": {
      "points": 183, 
@@ -1382,7 +1386,7 @@
      "time": 1508518239
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508668645
     }, 
     "sum": {
@@ -1515,7 +1519,7 @@
   {
    "lastAccept": 1508645675, 
    "pos": 33, 
-   "score": 1187, 
+   "score": 1180, 
    "taskStats": {
     "differential_privacy": {
      "points": 183, 
@@ -1538,7 +1542,7 @@
      "time": 1508591711
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508645675
     }, 
     "sum": {
@@ -1655,7 +1659,7 @@
   {
    "lastAccept": 1508639533, 
    "pos": 37, 
-   "score": 1042, 
+   "score": 1035, 
    "taskStats": {
     "differential_privacy": {
      "points": 183, 
@@ -1674,7 +1678,7 @@
      "time": 1508525140
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508639533
     }, 
     "sum": {
@@ -2103,7 +2107,7 @@
   {
    "lastAccept": 1508673911, 
    "pos": 50, 
-   "score": 770, 
+   "score": 763, 
    "taskStats": {
     "baby_regex": {
      "points": 308, 
@@ -2114,7 +2118,7 @@
      "time": 1508673911
     }, 
     "secure_path": {
-     "points": 347, 
+     "points": 340, 
      "time": 1508669287
     }, 
     "sum": {
