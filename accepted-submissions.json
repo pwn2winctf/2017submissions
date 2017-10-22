@@ -403,7 +403,7 @@
   {
    "lastAccept": 1508645144, 
    "pos": 7, 
-   "score": 2584, 
+   "score": 2563, 
    "taskStats": {
     "baby_regex": {
      "points": 320, 
@@ -426,7 +426,7 @@
      "time": 1508533945
     }, 
     "p0ng_adventure": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508645144
     }, 
     "resistance": {
@@ -453,9 +453,57 @@
    "team": "M57"
   }, 
   {
-   "lastAccept": 1508634000, 
+   "lastAccept": 1508667831, 
    "pos": 8, 
-   "score": 2052, 
+   "score": 2180, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 320, 
+     "time": 1508633626
+    }, 
+    "differential_privacy": {
+     "points": 193, 
+     "time": 1508543889
+    }, 
+    "g00d_b0y": {
+     "points": 86, 
+     "time": 1508543867
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 54, 
+     "time": 1508515327
+    }, 
+    "hidden_program": {
+     "points": 85, 
+     "time": 1508516655
+    }, 
+    "p0ng_adventure": {
+     "points": 453, 
+     "time": 1508667831
+    }, 
+    "secure_path": {
+     "points": 383, 
+     "time": 1508627784
+    }, 
+    "sum": {
+     "points": 67, 
+     "time": 1508516403
+    }, 
+    "tokens_v20": {
+     "points": 308, 
+     "time": 1508612858
+    }, 
+    "top_secret": {
+     "points": 231, 
+     "time": 1508595040
+    }
+   }, 
+   "team": "RapaceDiabolique"
+  }, 
+  {
+   "lastAccept": 1508634000, 
+   "pos": 9, 
+   "score": 2031, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 320, 
@@ -486,7 +534,7 @@
      "time": 1508533929
     }, 
     "p0ng_adventure": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508634000
     }, 
     "sum": {
@@ -498,7 +546,7 @@
   }, 
   {
    "lastAccept": 1508611936, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 2019, 
    "taskStats": {
     "baby_regex": {
@@ -539,50 +587,6 @@
     }
    }, 
    "team": "Windows is Updating"
-  }, 
-  {
-   "lastAccept": 1508633626, 
-   "pos": 10, 
-   "score": 1727, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 320, 
-     "time": 1508633626
-    }, 
-    "differential_privacy": {
-     "points": 193, 
-     "time": 1508543889
-    }, 
-    "g00d_b0y": {
-     "points": 86, 
-     "time": 1508543867
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 54, 
-     "time": 1508515327
-    }, 
-    "hidden_program": {
-     "points": 85, 
-     "time": 1508516655
-    }, 
-    "secure_path": {
-     "points": 383, 
-     "time": 1508627784
-    }, 
-    "sum": {
-     "points": 67, 
-     "time": 1508516403
-    }, 
-    "tokens_v20": {
-     "points": 308, 
-     "time": 1508612858
-    }, 
-    "top_secret": {
-     "points": 231, 
-     "time": 1508595040
-    }
-   }, 
-   "team": "RapaceDiabolique"
   }, 
   {
    "lastAccept": 1508653989, 
