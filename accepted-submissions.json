@@ -89,9 +89,9 @@
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
-   "lastAccept": 1508621596, 
+   "lastAccept": 1508636546, 
    "pos": 2, 
-   "score": 4166, 
+   "score": 4586, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -132,6 +132,10 @@
     "pretty_it_all": {
      "points": 435, 
      "time": 1508541716
+    }, 
+    "secure_path": {
+     "points": 420, 
+     "time": 1508636546
     }, 
     "sum": {
      "points": 72, 
@@ -335,7 +339,7 @@
   {
    "lastAccept": 1508633466, 
    "pos": 6, 
-   "score": 2247, 
+   "score": 2232, 
    "taskStats": {
     "baby_regex": {
      "points": 326, 
@@ -362,7 +366,7 @@
      "time": 1508617159
     }, 
     "secure_path": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508633466
     }, 
     "sum": {
@@ -471,7 +475,7 @@
   {
    "lastAccept": 1508633626, 
    "pos": 9, 
-   "score": 1853, 
+   "score": 1838, 
    "taskStats": {
     "baby_regex": {
      "points": 326, 
@@ -494,7 +498,7 @@
      "time": 1508516655
     }, 
     "secure_path": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508627784
     }, 
     "sum": {
@@ -515,7 +519,7 @@
   {
    "lastAccept": 1508634654, 
    "pos": 10, 
-   "score": 1748, 
+   "score": 1733, 
    "taskStats": {
     "baby_regex": {
      "points": 326, 
@@ -542,7 +546,7 @@
      "time": 1508540528
     }, 
     "secure_path": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508634654
     }, 
     "sum": {
@@ -639,7 +643,7 @@
   {
    "lastAccept": 1508634984, 
    "pos": 13, 
-   "score": 1588, 
+   "score": 1573, 
    "taskStats": {
     "differential_privacy": {
      "points": 203, 
@@ -662,7 +666,7 @@
      "time": 1508613155
     }, 
     "secure_path": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508634984
     }, 
     "sum": {
