@@ -337,9 +337,9 @@
    "team": "HackingForSoju"
   }, 
   {
-   "lastAccept": 1508681683, 
+   "lastAccept": 1508685031, 
    "pos": 5, 
-   "score": 2965, 
+   "score": 3465, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -368,6 +368,10 @@
     "hidden_program": {
      "points": 83, 
      "time": 1508518338
+    }, 
+    "people_throwing2": {
+     "points": 500, 
+     "time": 1508685031
     }, 
     "resistance": {
      "points": 355, 
@@ -5503,6 +5507,7 @@
   "p0ng_adventure", 
   "attack_step_final", 
   "shift_register", 
-  "netscape"
+  "netscape", 
+  "people_throwing2"
  ]
 }
