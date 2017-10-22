@@ -321,8 +321,56 @@
    "team": "0x00C0FFEE"
   }, 
   {
-   "lastAccept": 1508611936, 
+   "lastAccept": 1508633466, 
    "pos": 6, 
+   "score": 2317, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 333, 
+     "time": 1508568561
+    }, 
+    "differential_privacy": {
+     "points": 210, 
+     "time": 1508557364
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1508537096
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 57, 
+     "time": 1508530033
+    }, 
+    "hidden_program": {
+     "points": 90, 
+     "time": 1508533945
+    }, 
+    "resistance": {
+     "points": 406, 
+     "time": 1508617159
+    }, 
+    "secure_path": {
+     "points": 474, 
+     "time": 1508633466
+    }, 
+    "sum": {
+     "points": 72, 
+     "time": 1508523940
+    }, 
+    "tokens_v20": {
+     "points": 333, 
+     "time": 1508616963
+    }, 
+    "top_secret": {
+     "points": 249, 
+     "time": 1508532523
+    }
+   }, 
+   "team": "M57"
+  }, 
+  {
+   "lastAccept": 1508611936, 
+   "pos": 7, 
    "score": 2094, 
    "taskStats": {
     "baby_regex": {
@@ -363,50 +411,6 @@
     }
    }, 
    "team": "Windows is Updating"
-  }, 
-  {
-   "lastAccept": 1508617159, 
-   "pos": 7, 
-   "score": 1843, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 333, 
-     "time": 1508568561
-    }, 
-    "differential_privacy": {
-     "points": 210, 
-     "time": 1508557364
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1508537096
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 57, 
-     "time": 1508530033
-    }, 
-    "hidden_program": {
-     "points": 90, 
-     "time": 1508533945
-    }, 
-    "resistance": {
-     "points": 406, 
-     "time": 1508617159
-    }, 
-    "sum": {
-     "points": 72, 
-     "time": 1508523940
-    }, 
-    "tokens_v20": {
-     "points": 333, 
-     "time": 1508616963
-    }, 
-    "top_secret": {
-     "points": 249, 
-     "time": 1508532523
-    }
-   }, 
-   "team": "M57"
   }, 
   {
    "lastAccept": 1508629471, 
@@ -535,7 +539,7 @@
   {
    "lastAccept": 1508627784, 
    "pos": 11, 
-   "score": 1604, 
+   "score": 1578, 
    "taskStats": {
     "differential_privacy": {
      "points": 210, 
@@ -554,7 +558,7 @@
      "time": 1508516655
     }, 
     "secure_path": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508627784
     }, 
     "sum": {
