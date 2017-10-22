@@ -5099,6 +5099,18 @@
     }
    }, 
    "team": "HueHUE"
+  }, 
+  {
+   "lastAccept": 1508654075, 
+   "pos": 202, 
+   "score": 55, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 55, 
+     "time": 1508654075
+    }
+   }, 
+   "team": "blacktapir"
   }
  ], 
  "tasks": [
