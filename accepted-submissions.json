@@ -4955,6 +4955,18 @@
     }
    }, 
    "team": "AbsoluteVoid"
+  }, 
+  {
+   "lastAccept": 1508638950, 
+   "pos": 200, 
+   "score": 56, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 56, 
+     "time": 1508638950
+    }
+   }, 
+   "team": "HueHUE"
   }
  ], 
  "tasks": [
