@@ -373,8 +373,52 @@
    "team": "M57"
   }, 
   {
-   "lastAccept": 1508611936, 
+   "lastAccept": 1508634000, 
    "pos": 7, 
+   "score": 2131, 
+   "taskStats": {
+    "asymmetric_encryption": {
+     "points": 333, 
+     "time": 1508577289
+    }, 
+    "baby_regex": {
+     "points": 326, 
+     "time": 1508595103
+    }, 
+    "differential_privacy": {
+     "points": 208, 
+     "time": 1508614851
+    }, 
+    "executive_order": {
+     "points": 453, 
+     "time": 1508539030
+    }, 
+    "g00d_b0y": {
+     "points": 93, 
+     "time": 1508517202
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 57, 
+     "time": 1508517307
+    }, 
+    "hidden_program": {
+     "points": 89, 
+     "time": 1508533929
+    }, 
+    "p0ng_adventure": {
+     "points": 500, 
+     "time": 1508634000
+    }, 
+    "sum": {
+     "points": 72, 
+     "time": 1508516889
+    }
+   }, 
+   "team": "Pandemic"
+  }, 
+  {
+   "lastAccept": 1508611936, 
+   "pos": 8, 
    "score": 2084, 
    "taskStats": {
     "baby_regex": {
@@ -418,7 +462,7 @@
   }, 
   {
    "lastAccept": 1508633626, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 1901, 
    "taskStats": {
     "baby_regex": {
@@ -462,7 +506,7 @@
   }, 
   {
    "lastAccept": 1508629471, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 1687, 
    "taskStats": {
     "achievement_unlocked": {
@@ -506,7 +550,7 @@
   }, 
   {
    "lastAccept": 1508556356, 
-   "pos": 10, 
+   "pos": 11, 
    "score": 1636, 
    "taskStats": {
     "blackbox_pentesting": {
@@ -543,46 +587,6 @@
     }
    }, 
    "team": "sec0d"
-  }, 
-  {
-   "lastAccept": 1508614851, 
-   "pos": 11, 
-   "score": 1631, 
-   "taskStats": {
-    "asymmetric_encryption": {
-     "points": 333, 
-     "time": 1508577289
-    }, 
-    "baby_regex": {
-     "points": 326, 
-     "time": 1508595103
-    }, 
-    "differential_privacy": {
-     "points": 208, 
-     "time": 1508614851
-    }, 
-    "executive_order": {
-     "points": 453, 
-     "time": 1508539030
-    }, 
-    "g00d_b0y": {
-     "points": 93, 
-     "time": 1508517202
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 57, 
-     "time": 1508517307
-    }, 
-    "hidden_program": {
-     "points": 89, 
-     "time": 1508533929
-    }, 
-    "sum": {
-     "points": 72, 
-     "time": 1508516889
-    }
-   }, 
-   "team": "Pandemic"
   }, 
   {
    "lastAccept": 1508627900, 
@@ -4915,6 +4919,7 @@
   "butchercorp_repository", 
   "botnet_in_the_wild", 
   "attack_step_intermediate", 
-  "secure_path"
+  "secure_path", 
+  "p0ng_adventure"
  ]
 }
