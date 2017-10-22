@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508670358, 
    "pos": 1, 
-   "score": 6896, 
+   "score": 6886, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 314, 
@@ -62,7 +62,7 @@
      "time": 1508597391
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508615050
     }, 
     "rootkit": {
@@ -97,9 +97,9 @@
    "team": "Eat Sleep Pwn Repeat"
   }, 
   {
-   "lastAccept": 1508671955, 
+   "lastAccept": 1508672006, 
    "pos": 2, 
-   "score": 5045, 
+   "score": 5418, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 314, 
@@ -144,6 +144,10 @@
     "pretty_it_all": {
      "points": 420, 
      "time": 1508541716
+    }, 
+    "resistance": {
+     "points": 373, 
+     "time": 1508672006
     }, 
     "secure_path": {
      "points": 363, 
@@ -307,7 +311,7 @@
   {
    "lastAccept": 1508634744, 
    "pos": 5, 
-   "score": 2738, 
+   "score": 2728, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 314, 
@@ -338,7 +342,7 @@
      "time": 1508518338
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508634744
     }, 
     "sehlokodemais": {
@@ -411,7 +415,7 @@
   {
    "lastAccept": 1508645144, 
    "pos": 7, 
-   "score": 2520, 
+   "score": 2510, 
    "taskStats": {
     "baby_regex": {
      "points": 314, 
@@ -438,7 +442,7 @@
      "time": 1508645144
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508617159
     }, 
     "secure_path": {
@@ -891,7 +895,7 @@
   {
    "lastAccept": 1508627900, 
    "pos": 18, 
-   "score": 1481, 
+   "score": 1471, 
    "taskStats": {
     "criminals": {
      "points": 383, 
@@ -914,7 +918,7 @@
      "time": 1508538704
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508606972
     }, 
     "sum": {
@@ -931,7 +935,7 @@
   {
    "lastAccept": 1508634984, 
    "pos": 19, 
-   "score": 1455, 
+   "score": 1445, 
    "taskStats": {
     "differential_privacy": {
      "points": 191, 
@@ -950,7 +954,7 @@
      "time": 1508592519
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508613155
     }, 
     "secure_path": {
@@ -1195,7 +1199,7 @@
   {
    "lastAccept": 1508645675, 
    "pos": 26, 
-   "score": 1224, 
+   "score": 1214, 
    "taskStats": {
     "differential_privacy": {
      "points": 191, 
@@ -1214,7 +1218,7 @@
      "time": 1508565612
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508591711
     }, 
     "secure_path": {
@@ -1231,7 +1235,7 @@
   {
    "lastAccept": 1508641260, 
    "pos": 27, 
-   "score": 1215, 
+   "score": 1205, 
    "taskStats": {
     "baby_regex": {
      "points": 314, 
@@ -1250,7 +1254,7 @@
      "time": 1508552183
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508641260
     }, 
     "sum": {
@@ -1335,7 +1339,7 @@
   {
    "lastAccept": 1508659726, 
    "pos": 30, 
-   "score": 1123, 
+   "score": 1113, 
    "taskStats": {
     "biometric_login": {
      "points": 453, 
@@ -1354,7 +1358,7 @@
      "time": 1508526858
     }, 
     "resistance": {
-     "points": 383, 
+     "points": 373, 
      "time": 1508618729
     }, 
     "sum": {
