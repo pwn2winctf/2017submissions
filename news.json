@@ -115,5 +115,9 @@
  {
   "msg": "The source for p0ng Adventure was updated to a larger board.", 
   "time": 1508632587
+ }, 
+ {
+  "msg": "In PPC/physics challenges, omit the last '\\n' if you have trouble sending the second testcase answers, do e.g. '\\n'.join(answers)", 
+  "time": 1508634090
  }
 ]
