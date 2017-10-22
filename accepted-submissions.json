@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508634753, 
    "pos": 1, 
-   "score": 6220, 
+   "score": 6205, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -82,7 +82,7 @@
      "time": 1508589946
     }, 
     "wrong_user": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508601311
     }
    }, 
@@ -91,7 +91,7 @@
   {
    "lastAccept": 1508644178, 
    "pos": 2, 
-   "score": 4804, 
+   "score": 4789, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -158,7 +158,7 @@
      "time": 1508601459
     }, 
     "wrong_user": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508605234
     }
    }, 
@@ -167,7 +167,7 @@
   {
    "lastAccept": 1508628179, 
    "pos": 3, 
-   "score": 3693, 
+   "score": 3678, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -222,7 +222,7 @@
      "time": 1508584734
     }, 
     "wrong_user": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508594463
     }
    }, 
@@ -231,7 +231,7 @@
   {
    "lastAccept": 1508646450, 
    "pos": 4, 
-   "score": 3616, 
+   "score": 3601, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -286,7 +286,7 @@
      "time": 1508552794
     }, 
     "wrong_user": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508587619
     }
    }, 
@@ -573,8 +573,52 @@
    "team": "RapaceDiabolique"
   }, 
   {
-   "lastAccept": 1508634654, 
+   "lastAccept": 1508653989, 
    "pos": 11, 
+   "score": 1729, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 320, 
+     "time": 1508643624
+    }, 
+    "differential_privacy": {
+     "points": 199, 
+     "time": 1508582094
+    }, 
+    "g00d_b0y": {
+     "points": 88, 
+     "time": 1508537981
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 55, 
+     "time": 1508534107
+    }, 
+    "hidden_program": {
+     "points": 87, 
+     "time": 1508535229
+    }, 
+    "sum": {
+     "points": 67, 
+     "time": 1508537278
+    }, 
+    "top_secret": {
+     "points": 240, 
+     "time": 1508567151
+    }, 
+    "warehouse": {
+     "points": 253, 
+     "time": 1508564225
+    }, 
+    "wrong_user": {
+     "points": 420, 
+     "time": 1508653989
+    }
+   }, 
+   "team": "noraneco"
+  }, 
+  {
+   "lastAccept": 1508634654, 
+   "pos": 12, 
    "score": 1684, 
    "taskStats": {
     "baby_regex": {
@@ -614,7 +658,7 @@
   }, 
   {
    "lastAccept": 1508629471, 
-   "pos": 12, 
+   "pos": 13, 
    "score": 1629, 
    "taskStats": {
     "achievement_unlocked": {
@@ -658,7 +702,7 @@
   }, 
   {
    "lastAccept": 1508556356, 
-   "pos": 13, 
+   "pos": 14, 
    "score": 1585, 
    "taskStats": {
     "blackbox_pentesting": {
@@ -698,7 +742,7 @@
   }, 
   {
    "lastAccept": 1508627900, 
-   "pos": 14, 
+   "pos": 15, 
    "score": 1515, 
    "taskStats": {
     "criminals": {
@@ -738,7 +782,7 @@
   }, 
   {
    "lastAccept": 1508634984, 
-   "pos": 15, 
+   "pos": 16, 
    "score": 1513, 
    "taskStats": {
     "differential_privacy": {
@@ -778,7 +822,7 @@
   }, 
   {
    "lastAccept": 1508591812, 
-   "pos": 16, 
+   "pos": 17, 
    "score": 1370, 
    "taskStats": {
     "achievement_unlocked": {
@@ -814,7 +858,7 @@
   }, 
   {
    "lastAccept": 1508590520, 
-   "pos": 17, 
+   "pos": 18, 
    "score": 1344, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -850,7 +894,7 @@
   }, 
   {
    "lastAccept": 1508619909, 
-   "pos": 18, 
+   "pos": 19, 
    "score": 1343, 
    "taskStats": {
     "achievement_unlocked": {
@@ -883,46 +927,6 @@
     }
    }, 
    "team": "Hayyim_"
-  }, 
-  {
-   "lastAccept": 1508643624, 
-   "pos": 19, 
-   "score": 1309, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 320, 
-     "time": 1508643624
-    }, 
-    "differential_privacy": {
-     "points": 199, 
-     "time": 1508582094
-    }, 
-    "g00d_b0y": {
-     "points": 88, 
-     "time": 1508537981
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 55, 
-     "time": 1508534107
-    }, 
-    "hidden_program": {
-     "points": 87, 
-     "time": 1508535229
-    }, 
-    "sum": {
-     "points": 67, 
-     "time": 1508537278
-    }, 
-    "top_secret": {
-     "points": 240, 
-     "time": 1508567151
-    }, 
-    "warehouse": {
-     "points": 253, 
-     "time": 1508564225
-    }
-   }, 
-   "team": "noraneco"
   }, 
   {
    "lastAccept": 1508559638, 
