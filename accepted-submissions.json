@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508634753, 
    "pos": 1, 
-   "score": 6168, 
+   "score": 6147, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -62,7 +62,7 @@
      "time": 1508615050
     }, 
     "rootkit": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508627792
     }, 
     "sum": {
@@ -349,8 +349,56 @@
    "team": "0x00C0FFEE"
   }, 
   {
-   "lastAccept": 1508645144, 
+   "lastAccept": 1508658928, 
    "pos": 6, 
+   "score": 2675, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 320, 
+     "time": 1508603685
+    }, 
+    "butchercorp_repository": {
+     "points": 420, 
+     "time": 1508655630
+    }, 
+    "executive_order": {
+     "points": 453, 
+     "time": 1508581856
+    }, 
+    "g00d_b0y": {
+     "points": 87, 
+     "time": 1508599510
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 55, 
+     "time": 1508525466
+    }, 
+    "hidden_program": {
+     "points": 86, 
+     "time": 1508525147
+    }, 
+    "pretty_it_all": {
+     "points": 420, 
+     "time": 1508647809
+    }, 
+    "rootkit": {
+     "points": 453, 
+     "time": 1508658928
+    }, 
+    "sum": {
+     "points": 67, 
+     "time": 1508522795
+    }, 
+    "tokens_v20": {
+     "points": 314, 
+     "time": 1508603106
+    }
+   }, 
+   "team": "Chaitin"
+  }, 
+  {
+   "lastAccept": 1508645144, 
+   "pos": 7, 
    "score": 2612, 
    "taskStats": {
     "baby_regex": {
@@ -399,50 +447,6 @@
     }
    }, 
    "team": "M57"
-  }, 
-  {
-   "lastAccept": 1508655630, 
-   "pos": 7, 
-   "score": 2222, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 320, 
-     "time": 1508603685
-    }, 
-    "butchercorp_repository": {
-     "points": 420, 
-     "time": 1508655630
-    }, 
-    "executive_order": {
-     "points": 453, 
-     "time": 1508581856
-    }, 
-    "g00d_b0y": {
-     "points": 87, 
-     "time": 1508599510
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 55, 
-     "time": 1508525466
-    }, 
-    "hidden_program": {
-     "points": 86, 
-     "time": 1508525147
-    }, 
-    "pretty_it_all": {
-     "points": 420, 
-     "time": 1508647809
-    }, 
-    "sum": {
-     "points": 67, 
-     "time": 1508522795
-    }, 
-    "tokens_v20": {
-     "points": 314, 
-     "time": 1508603106
-    }
-   }, 
-   "team": "Chaitin"
   }, 
   {
    "lastAccept": 1508634000, 
@@ -623,7 +627,7 @@
   {
    "lastAccept": 1508634654, 
    "pos": 12, 
-   "score": 1678, 
+   "score": 1657, 
    "taskStats": {
     "baby_regex": {
      "points": 320, 
@@ -646,7 +650,7 @@
      "time": 1508623897
     }, 
     "rootkit": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508540528
     }, 
     "secure_path": {
