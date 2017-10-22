@@ -345,9 +345,9 @@
    "team": "0x00C0FFEE"
   }, 
   {
-   "lastAccept": 1508633466, 
+   "lastAccept": 1508645144, 
    "pos": 6, 
-   "score": 2181, 
+   "score": 2655, 
    "taskStats": {
     "baby_regex": {
      "points": 320, 
@@ -368,6 +368,10 @@
     "hidden_program": {
      "points": 88, 
      "time": 1508533945
+    }, 
+    "p0ng_adventure": {
+     "points": 474, 
+     "time": 1508645144
     }, 
     "resistance": {
      "points": 383, 
@@ -395,7 +399,7 @@
   {
    "lastAccept": 1508634000, 
    "pos": 7, 
-   "score": 2096, 
+   "score": 2070, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 320, 
@@ -426,7 +430,7 @@
      "time": 1508533929
     }, 
     "p0ng_adventure": {
-     "points": 500, 
+     "points": 474, 
      "time": 1508634000
     }, 
     "sum": {
