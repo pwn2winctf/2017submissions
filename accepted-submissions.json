@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508627792, 
+   "lastAccept": 1508634753, 
    "pos": 1, 
-   "score": 5842, 
+   "score": 6342, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -12,6 +12,10 @@
     "asymmetric_encryption": {
      "points": 333, 
      "time": 1508583631
+    }, 
+    "attack_step_final": {
+     "points": 500, 
+     "time": 1508634753
     }, 
     "attack_step_intermediate": {
      "points": 474, 
@@ -4940,6 +4944,7 @@
   "botnet_in_the_wild", 
   "attack_step_intermediate", 
   "secure_path", 
-  "p0ng_adventure"
+  "p0ng_adventure", 
+  "attack_step_final"
  ]
 }
