@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508634753, 
    "pos": 1, 
-   "score": 6318, 
+   "score": 6297, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -26,7 +26,7 @@
      "time": 1508586721
     }, 
     "blackbox_pentesting": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508610304
     }, 
     "butchercorp_repository": {
@@ -603,10 +603,10 @@
   {
    "lastAccept": 1508556356, 
    "pos": 12, 
-   "score": 1618, 
+   "score": 1597, 
    "taskStats": {
     "blackbox_pentesting": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508556356
     }, 
     "criminals": {
@@ -1081,8 +1081,40 @@
    "team": "HAVOC"
   }, 
   {
-   "lastAccept": 1508616908, 
+   "lastAccept": 1508642902, 
    "pos": 25, 
+   "score": 1140, 
+   "taskStats": {
+    "blackbox_pentesting": {
+     "points": 453, 
+     "time": 1508642902
+    }, 
+    "criminals": {
+     "points": 383, 
+     "time": 1508577226
+    }, 
+    "g00d_b0y": {
+     "points": 91, 
+     "time": 1508556211
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 55, 
+     "time": 1508556343
+    }, 
+    "hidden_program": {
+     "points": 88, 
+     "time": 1508552462
+    }, 
+    "sum": {
+     "points": 70, 
+     "time": 1508554957
+    }
+   }, 
+   "team": "Dreamtale"
+  }, 
+  {
+   "lastAccept": 1508616908, 
+   "pos": 26, 
    "score": 1084, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -1118,7 +1150,7 @@
   }, 
   {
    "lastAccept": 1508619432, 
-   "pos": 26, 
+   "pos": 27, 
    "score": 1083, 
    "taskStats": {
     "baby_regex": {
@@ -1150,7 +1182,7 @@
   }, 
   {
    "lastAccept": 1508615348, 
-   "pos": 27, 
+   "pos": 28, 
    "score": 1077, 
    "taskStats": {
     "baby_regex": {
@@ -1186,7 +1218,7 @@
   }, 
   {
    "lastAccept": 1508619132, 
-   "pos": 28, 
+   "pos": 29, 
    "score": 1077, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1222,7 +1254,7 @@
   }, 
   {
    "lastAccept": 1508603374, 
-   "pos": 29, 
+   "pos": 30, 
    "score": 1060, 
    "taskStats": {
     "g00d_b0y": {
@@ -1254,7 +1286,7 @@
   }, 
   {
    "lastAccept": 1508582094, 
-   "pos": 30, 
+   "pos": 31, 
    "score": 1007, 
    "taskStats": {
     "differential_privacy": {
@@ -1290,7 +1322,7 @@
   }, 
   {
    "lastAccept": 1508608787, 
-   "pos": 31, 
+   "pos": 32, 
    "score": 1007, 
    "taskStats": {
     "differential_privacy": {
@@ -1326,7 +1358,7 @@
   }, 
   {
    "lastAccept": 1508629074, 
-   "pos": 32, 
+   "pos": 33, 
    "score": 1007, 
    "taskStats": {
     "differential_privacy": {
@@ -1362,7 +1394,7 @@
   }, 
   {
    "lastAccept": 1508640037, 
-   "pos": 33, 
+   "pos": 34, 
    "score": 993, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -1394,7 +1426,7 @@
   }, 
   {
    "lastAccept": 1508600903, 
-   "pos": 34, 
+   "pos": 35, 
    "score": 888, 
    "taskStats": {
     "differential_privacy": {
@@ -1426,7 +1458,7 @@
   }, 
   {
    "lastAccept": 1508606550, 
-   "pos": 35, 
+   "pos": 36, 
    "score": 886, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1458,7 +1490,7 @@
   }, 
   {
    "lastAccept": 1508611109, 
-   "pos": 36, 
+   "pos": 37, 
    "score": 886, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1490,7 +1522,7 @@
   }, 
   {
    "lastAccept": 1508616387, 
-   "pos": 37, 
+   "pos": 38, 
    "score": 886, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1522,7 +1554,7 @@
   }, 
   {
    "lastAccept": 1508623017, 
-   "pos": 38, 
+   "pos": 39, 
    "score": 883, 
    "taskStats": {
     "g00d_b0y": {
@@ -1554,7 +1586,7 @@
   }, 
   {
    "lastAccept": 1508622133, 
-   "pos": 39, 
+   "pos": 40, 
    "score": 876, 
    "taskStats": {
     "baby_regex": {
@@ -1586,7 +1618,7 @@
   }, 
   {
    "lastAccept": 1508535520, 
-   "pos": 40, 
+   "pos": 41, 
    "score": 838, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -1618,7 +1650,7 @@
   }, 
   {
    "lastAccept": 1508589503, 
-   "pos": 41, 
+   "pos": 42, 
    "score": 838, 
    "taskStats": {
     "differential_privacy": {
@@ -1650,7 +1682,7 @@
   }, 
   {
    "lastAccept": 1508605465, 
-   "pos": 42, 
+   "pos": 43, 
    "score": 838, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -1682,7 +1714,7 @@
   }, 
   {
    "lastAccept": 1508626409, 
-   "pos": 43, 
+   "pos": 44, 
    "score": 831, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1714,7 +1746,7 @@
   }, 
   {
    "lastAccept": 1508564928, 
-   "pos": 44, 
+   "pos": 45, 
    "score": 804, 
    "taskStats": {
     "criminals": {
@@ -1734,7 +1766,7 @@
   }, 
   {
    "lastAccept": 1508533256, 
-   "pos": 45, 
+   "pos": 46, 
    "score": 751, 
    "taskStats": {
     "differential_privacy": {
@@ -1766,7 +1798,7 @@
   }, 
   {
    "lastAccept": 1508569002, 
-   "pos": 46, 
+   "pos": 47, 
    "score": 751, 
    "taskStats": {
     "differential_privacy": {
@@ -1798,7 +1830,7 @@
   }, 
   {
    "lastAccept": 1508573437, 
-   "pos": 47, 
+   "pos": 48, 
    "score": 751, 
    "taskStats": {
     "differential_privacy": {
@@ -1830,7 +1862,7 @@
   }, 
   {
    "lastAccept": 1508594643, 
-   "pos": 48, 
+   "pos": 49, 
    "score": 751, 
    "taskStats": {
     "differential_privacy": {
@@ -1862,7 +1894,7 @@
   }, 
   {
    "lastAccept": 1508633617, 
-   "pos": 49, 
+   "pos": 50, 
    "score": 751, 
    "taskStats": {
     "differential_privacy": {
@@ -1894,7 +1926,7 @@
   }, 
   {
    "lastAccept": 1508634477, 
-   "pos": 50, 
+   "pos": 51, 
    "score": 751, 
    "taskStats": {
     "differential_privacy": {
@@ -1923,34 +1955,6 @@
     }
    }, 
    "team": "wcsc_hotfix"
-  }, 
-  {
-   "lastAccept": 1508577226, 
-   "pos": 51, 
-   "score": 687, 
-   "taskStats": {
-    "criminals": {
-     "points": 383, 
-     "time": 1508577226
-    }, 
-    "g00d_b0y": {
-     "points": 91, 
-     "time": 1508556211
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 55, 
-     "time": 1508556343
-    }, 
-    "hidden_program": {
-     "points": 88, 
-     "time": 1508552462
-    }, 
-    "sum": {
-     "points": 70, 
-     "time": 1508554957
-    }
-   }, 
-   "team": "Dreamtale"
   }, 
   {
    "lastAccept": 1508618729, 
