@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508670358, 
    "pos": 1, 
-   "score": 6767, 
+   "score": 6749, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -26,7 +26,7 @@
      "time": 1508586721
     }, 
     "blackbox_pentesting": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508610304
     }, 
     "butchercorp_repository": {
@@ -437,8 +437,60 @@
    "team": "Chaitin"
   }, 
   {
-   "lastAccept": 1508645144, 
+   "lastAccept": 1508681774, 
    "pos": 7, 
+   "score": 2519, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 308, 
+     "time": 1508633626
+    }, 
+    "blackbox_pentesting": {
+     "points": 435, 
+     "time": 1508681774
+    }, 
+    "differential_privacy": {
+     "points": 183, 
+     "time": 1508543889
+    }, 
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1508543867
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 51, 
+     "time": 1508515327
+    }, 
+    "hidden_program": {
+     "points": 84, 
+     "time": 1508516655
+    }, 
+    "p0ng_adventure": {
+     "points": 453, 
+     "time": 1508667831
+    }, 
+    "secure_path": {
+     "points": 340, 
+     "time": 1508627784
+    }, 
+    "sum": {
+     "points": 64, 
+     "time": 1508516403
+    }, 
+    "tokens_v20": {
+     "points": 288, 
+     "time": 1508612858
+    }, 
+    "top_secret": {
+     "points": 228, 
+     "time": 1508595040
+    }
+   }, 
+   "team": "RapaceDiabolique"
+  }, 
+  {
+   "lastAccept": 1508645144, 
+   "pos": 8, 
    "score": 2457, 
    "taskStats": {
     "baby_regex": {
@@ -487,54 +539,6 @@
     }
    }, 
    "team": "M57"
-  }, 
-  {
-   "lastAccept": 1508667831, 
-   "pos": 8, 
-   "score": 2084, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 308, 
-     "time": 1508633626
-    }, 
-    "differential_privacy": {
-     "points": 183, 
-     "time": 1508543889
-    }, 
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1508543867
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 51, 
-     "time": 1508515327
-    }, 
-    "hidden_program": {
-     "points": 84, 
-     "time": 1508516655
-    }, 
-    "p0ng_adventure": {
-     "points": 453, 
-     "time": 1508667831
-    }, 
-    "secure_path": {
-     "points": 340, 
-     "time": 1508627784
-    }, 
-    "sum": {
-     "points": 64, 
-     "time": 1508516403
-    }, 
-    "tokens_v20": {
-     "points": 288, 
-     "time": 1508612858
-    }, 
-    "top_secret": {
-     "points": 228, 
-     "time": 1508595040
-    }
-   }, 
-   "team": "RapaceDiabolique"
   }, 
   {
    "lastAccept": 1508680185, 
@@ -965,48 +969,8 @@
    "team": "CH1ll"
   }, 
   {
-   "lastAccept": 1508556356, 
-   "pos": 19, 
-   "score": 1527, 
-   "taskStats": {
-    "blackbox_pentesting": {
-     "points": 453, 
-     "time": 1508556356
-    }, 
-    "criminals": {
-     "points": 373, 
-     "time": 1508531924
-    }, 
-    "differential_privacy": {
-     "points": 183, 
-     "time": 1508545113
-    }, 
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1508521905
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 51, 
-     "time": 1508522099
-    }, 
-    "hidden_program": {
-     "points": 84, 
-     "time": 1508519168
-    }, 
-    "sum": {
-     "points": 64, 
-     "time": 1508519257
-    }, 
-    "warehouse": {
-     "points": 234, 
-     "time": 1508521719
-    }
-   }, 
-   "team": "sec0d"
-  }, 
-  {
    "lastAccept": 1508678553, 
-   "pos": 20, 
+   "pos": 19, 
    "score": 1525, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1047,6 +1011,46 @@
     }
    }, 
    "team": "14K"
+  }, 
+  {
+   "lastAccept": 1508556356, 
+   "pos": 20, 
+   "score": 1509, 
+   "taskStats": {
+    "blackbox_pentesting": {
+     "points": 435, 
+     "time": 1508556356
+    }, 
+    "criminals": {
+     "points": 373, 
+     "time": 1508531924
+    }, 
+    "differential_privacy": {
+     "points": 183, 
+     "time": 1508545113
+    }, 
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1508521905
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 51, 
+     "time": 1508522099
+    }, 
+    "hidden_program": {
+     "points": 84, 
+     "time": 1508519168
+    }, 
+    "sum": {
+     "points": 64, 
+     "time": 1508519257
+    }, 
+    "warehouse": {
+     "points": 234, 
+     "time": 1508521719
+    }
+   }, 
+   "team": "sec0d"
   }, 
   {
    "lastAccept": 1508656711, 
@@ -1591,10 +1595,10 @@
   {
    "lastAccept": 1508642902, 
    "pos": 35, 
-   "score": 1110, 
+   "score": 1092, 
    "taskStats": {
     "blackbox_pentesting": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508642902
     }, 
     "criminals": {
