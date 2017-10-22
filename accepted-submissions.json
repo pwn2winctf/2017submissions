@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508663814, 
+   "lastAccept": 1508670358, 
    "pos": 1, 
-   "score": 6463, 
+   "score": 6898, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 314, 
@@ -40,6 +40,10 @@
     "differential_privacy": {
      "points": 193, 
      "time": 1508586090
+    }, 
+    "executive_order": {
+     "points": 435, 
+     "time": 1508670358
     }, 
     "g00d_b0y": {
      "points": 85, 
@@ -355,7 +359,7 @@
   {
    "lastAccept": 1508658928, 
    "pos": 6, 
-   "score": 2645, 
+   "score": 2627, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 314, 
@@ -366,7 +370,7 @@
      "time": 1508655630
     }, 
     "executive_order": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508581856
     }, 
     "g00d_b0y": {
@@ -503,7 +507,7 @@
   {
    "lastAccept": 1508634000, 
    "pos": 9, 
-   "score": 2020, 
+   "score": 2002, 
    "taskStats": {
     "asymmetric_encryption": {
      "points": 320, 
@@ -518,7 +522,7 @@
      "time": 1508614851
     }, 
     "executive_order": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508539030
     }, 
     "g00d_b0y": {
@@ -957,44 +961,8 @@
    "team": "P\u00e3o de Bat\u00e3ta"
   }, 
   {
-   "lastAccept": 1508668695, 
-   "pos": 20, 
-   "score": 1352, 
-   "taskStats": {
-    "baby_regex": {
-     "points": 314, 
-     "time": 1508607433
-    }, 
-    "executive_order": {
-     "points": 453, 
-     "time": 1508619432
-    }, 
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1508516489
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 53, 
-     "time": 1508515894
-    }, 
-    "hidden_program": {
-     "points": 84, 
-     "time": 1508519861
-    }, 
-    "sum": {
-     "points": 65, 
-     "time": 1508517153
-    }, 
-    "tokens_v20": {
-     "points": 298, 
-     "time": 1508668695
-    }
-   }, 
-   "team": "famhacko"
-  }, 
-  {
    "lastAccept": 1508591812, 
-   "pos": 21, 
+   "pos": 20, 
    "score": 1338, 
    "taskStats": {
     "achievement_unlocked": {
@@ -1027,6 +995,42 @@
     }
    }, 
    "team": "CyKor"
+  }, 
+  {
+   "lastAccept": 1508668695, 
+   "pos": 21, 
+   "score": 1334, 
+   "taskStats": {
+    "baby_regex": {
+     "points": 314, 
+     "time": 1508607433
+    }, 
+    "executive_order": {
+     "points": 435, 
+     "time": 1508619432
+    }, 
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1508516489
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 53, 
+     "time": 1508515894
+    }, 
+    "hidden_program": {
+     "points": 84, 
+     "time": 1508519861
+    }, 
+    "sum": {
+     "points": 65, 
+     "time": 1508517153
+    }, 
+    "tokens_v20": {
+     "points": 298, 
+     "time": 1508668695
+    }
+   }, 
+   "team": "famhacko"
   }, 
   {
    "lastAccept": 1508668645, 
