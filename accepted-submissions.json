@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508627792, 
    "pos": 1, 
-   "score": 5890, 
+   "score": 5872, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -50,7 +50,7 @@
      "time": 1508517335
     }, 
     "pretty_it_all": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508597391
     }, 
     "resistance": {
@@ -87,7 +87,7 @@
   {
    "lastAccept": 1508621596, 
    "pos": 2, 
-   "score": 4203, 
+   "score": 4185, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -126,7 +126,7 @@
      "time": 1508516866
     }, 
     "pretty_it_all": {
-     "points": 453, 
+     "points": 435, 
      "time": 1508541716
     }, 
     "sum": {
@@ -217,9 +217,9 @@
    "team": "HackingForSoju"
   }, 
   {
-   "lastAccept": 1508595865, 
+   "lastAccept": 1508633609, 
    "pos": 4, 
-   "score": 2617, 
+   "score": 3052, 
    "taskStats": {
     "butchercorp_repository": {
      "points": 435, 
@@ -244,6 +244,10 @@
     "hidden_program": {
      "points": 90, 
      "time": 1508535675
+    }, 
+    "pretty_it_all": {
+     "points": 435, 
+     "time": 1508633609
     }, 
     "sum": {
      "points": 72, 
@@ -2005,28 +2009,8 @@
    "team": "0x34044"
   }, 
   {
-   "lastAccept": 1508549541, 
-   "pos": 56, 
-   "score": 582, 
-   "taskStats": {
-    "great_cybernetic_revolution": {
-     "points": 57, 
-     "time": 1508531268
-    }, 
-    "pretty_it_all": {
-     "points": 453, 
-     "time": 1508547427
-    }, 
-    "sum": {
-     "points": 72, 
-     "time": 1508549541
-    }
-   }, 
-   "team": "alicio"
-  }, 
-  {
    "lastAccept": 1508597528, 
-   "pos": 57, 
+   "pos": 56, 
    "score": 572, 
    "taskStats": {
     "g00d_b0y": {
@@ -2054,7 +2038,7 @@
   }, 
   {
    "lastAccept": 1508618394, 
-   "pos": 58, 
+   "pos": 57, 
    "score": 572, 
    "taskStats": {
     "g00d_b0y": {
@@ -2079,6 +2063,26 @@
     }
    }, 
    "team": "ntropy"
+  }, 
+  {
+   "lastAccept": 1508549541, 
+   "pos": 58, 
+   "score": 564, 
+   "taskStats": {
+    "great_cybernetic_revolution": {
+     "points": 57, 
+     "time": 1508531268
+    }, 
+    "pretty_it_all": {
+     "points": 435, 
+     "time": 1508547427
+    }, 
+    "sum": {
+     "points": 72, 
+     "time": 1508549541
+    }
+   }, 
+   "team": "alicio"
   }, 
   {
    "lastAccept": 1508529581, 
