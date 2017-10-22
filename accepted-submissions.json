@@ -185,9 +185,9 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508678611, 
+   "lastAccept": 1508679450, 
    "pos": 3, 
-   "score": 4767, 
+   "score": 5220, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -196,6 +196,10 @@
     "asymmetric_encryption": {
      "points": 320, 
      "time": 1508643498
+    }, 
+    "botnet_in_the_wild": {
+     "points": 453, 
+     "time": 1508679450
     }, 
     "butchercorp_repository": {
      "points": 420, 
@@ -531,14 +535,14 @@
   {
    "lastAccept": 1508671605, 
    "pos": 9, 
-   "score": 2026, 
+   "score": 2005, 
    "taskStats": {
     "baby_regex": {
      "points": 314, 
      "time": 1508595753
     }, 
     "botnet_in_the_wild": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508671605
     }, 
     "differential_privacy": {
@@ -619,14 +623,14 @@
   {
    "lastAccept": 1508611936, 
    "pos": 11, 
-   "score": 1920, 
+   "score": 1899, 
    "taskStats": {
     "baby_regex": {
      "points": 314, 
      "time": 1508540159
     }, 
     "botnet_in_the_wild": {
-     "points": 474, 
+     "points": 453, 
      "time": 1508611936
     }, 
     "differential_privacy": {
