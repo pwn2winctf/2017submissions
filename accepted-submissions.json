@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508627792, 
    "pos": 1, 
-   "score": 5854, 
+   "score": 5842, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -54,7 +54,7 @@
      "time": 1508597391
     }, 
     "resistance": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508615050
     }, 
     "rootkit": {
@@ -273,9 +273,9 @@
    "team": "Dragon Sector"
   }, 
   {
-   "lastAccept": 1508625636, 
+   "lastAccept": 1508634744, 
    "pos": 5, 
-   "score": 2498, 
+   "score": 2892, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 326, 
@@ -305,6 +305,10 @@
      "points": 89, 
      "time": 1508518338
     }, 
+    "resistance": {
+     "points": 394, 
+     "time": 1508634744
+    }, 
     "sehlokodemais": {
      "points": 406, 
      "time": 1508604961
@@ -327,7 +331,7 @@
   {
    "lastAccept": 1508633466, 
    "pos": 6, 
-   "score": 2278, 
+   "score": 2266, 
    "taskStats": {
     "baby_regex": {
      "points": 326, 
@@ -350,7 +354,7 @@
      "time": 1508533945
     }, 
     "resistance": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508617159
     }, 
     "secure_path": {
@@ -631,7 +635,7 @@
   {
    "lastAccept": 1508627900, 
    "pos": 13, 
-   "score": 1563, 
+   "score": 1551, 
    "taskStats": {
     "criminals": {
      "points": 383, 
@@ -654,7 +658,7 @@
      "time": 1508538704
     }, 
     "resistance": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508606972
     }, 
     "sum": {
@@ -959,7 +963,7 @@
   {
    "lastAccept": 1508613155, 
    "pos": 22, 
-   "score": 1166, 
+   "score": 1154, 
    "taskStats": {
     "differential_privacy": {
      "points": 203, 
@@ -978,7 +982,7 @@
      "time": 1508592519
     }, 
     "resistance": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508613155
     }, 
     "sum": {
@@ -1275,7 +1279,7 @@
   {
    "lastAccept": 1508600903, 
    "pos": 31, 
-   "score": 920, 
+   "score": 908, 
    "taskStats": {
     "differential_privacy": {
      "points": 203, 
@@ -1294,7 +1298,7 @@
      "time": 1508565612
     }, 
     "resistance": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508591711
     }, 
     "sum": {
@@ -1899,7 +1903,7 @@
   {
    "lastAccept": 1508618729, 
    "pos": 51, 
-   "score": 717, 
+   "score": 705, 
    "taskStats": {
     "g00d_b0y": {
      "points": 93, 
@@ -1914,7 +1918,7 @@
      "time": 1508526858
     }, 
     "resistance": {
-     "points": 406, 
+     "points": 394, 
      "time": 1508618729
     }, 
     "sum": {
