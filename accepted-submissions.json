@@ -3,7 +3,7 @@
   {
    "lastAccept": 1508634753, 
    "pos": 1, 
-   "score": 6199, 
+   "score": 6184, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -30,7 +30,7 @@
      "time": 1508610304
     }, 
     "butchercorp_repository": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508602288
     }, 
     "criminals": {
@@ -91,7 +91,7 @@
   {
    "lastAccept": 1508644178, 
    "pos": 2, 
-   "score": 4783, 
+   "score": 4768, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -110,7 +110,7 @@
      "time": 1508596309
     }, 
     "butchercorp_repository": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508592565
     }, 
     "criminals": {
@@ -167,7 +167,7 @@
   {
    "lastAccept": 1508628179, 
    "pos": 3, 
-   "score": 3672, 
+   "score": 3657, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -182,7 +182,7 @@
      "time": 1508621701
     }, 
     "butchercorp_repository": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508594819
     }, 
     "differential_privacy": {
@@ -231,7 +231,7 @@
   {
    "lastAccept": 1508646450, 
    "pos": 4, 
-   "score": 3595, 
+   "score": 3580, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 320, 
@@ -242,7 +242,7 @@
      "time": 1508643498
     }, 
     "butchercorp_repository": {
-     "points": 435, 
+     "points": 420, 
      "time": 1508595865
     }, 
     "criminals": {
@@ -401,8 +401,52 @@
    "team": "M57"
   }, 
   {
-   "lastAccept": 1508634000, 
+   "lastAccept": 1508655630, 
    "pos": 7, 
+   "score": 2224, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 320, 
+     "time": 1508603685
+    }, 
+    "butchercorp_repository": {
+     "points": 420, 
+     "time": 1508655630
+    }, 
+    "executive_order": {
+     "points": 453, 
+     "time": 1508581856
+    }, 
+    "g00d_b0y": {
+     "points": 88, 
+     "time": 1508599510
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 55, 
+     "time": 1508525466
+    }, 
+    "hidden_program": {
+     "points": 87, 
+     "time": 1508525147
+    }, 
+    "pretty_it_all": {
+     "points": 420, 
+     "time": 1508647809
+    }, 
+    "sum": {
+     "points": 67, 
+     "time": 1508522795
+    }, 
+    "tokens_v20": {
+     "points": 314, 
+     "time": 1508603106
+    }
+   }, 
+   "team": "Chaitin"
+  }, 
+  {
+   "lastAccept": 1508634000, 
+   "pos": 8, 
    "score": 2061, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -446,7 +490,7 @@
   }, 
   {
    "lastAccept": 1508611936, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 2034, 
    "taskStats": {
     "baby_regex": {
@@ -487,46 +531,6 @@
     }
    }, 
    "team": "Windows is Updating"
-  }, 
-  {
-   "lastAccept": 1508647809, 
-   "pos": 9, 
-   "score": 1804, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 320, 
-     "time": 1508603685
-    }, 
-    "executive_order": {
-     "points": 453, 
-     "time": 1508581856
-    }, 
-    "g00d_b0y": {
-     "points": 88, 
-     "time": 1508599510
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 55, 
-     "time": 1508525466
-    }, 
-    "hidden_program": {
-     "points": 87, 
-     "time": 1508525147
-    }, 
-    "pretty_it_all": {
-     "points": 420, 
-     "time": 1508647809
-    }, 
-    "sum": {
-     "points": 67, 
-     "time": 1508522795
-    }, 
-    "tokens_v20": {
-     "points": 314, 
-     "time": 1508603106
-    }
-   }, 
-   "team": "Chaitin"
   }, 
   {
    "lastAccept": 1508633626, 
