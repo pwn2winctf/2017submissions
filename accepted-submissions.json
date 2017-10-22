@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1508682893, 
+   "lastAccept": 1508684991, 
    "pos": 1, 
-   "score": 7209, 
+   "score": 7564, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -77,6 +77,10 @@
      "points": 340, 
      "time": 1508663814
     }, 
+    "sehlokodemais": {
+     "points": 355, 
+     "time": 1508684991
+    }, 
     "sum": {
      "points": 64, 
      "time": 1508578541
@@ -103,7 +107,7 @@
   {
    "lastAccept": 1508672206, 
    "pos": 2, 
-   "score": 5681, 
+   "score": 5673, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -162,7 +166,7 @@
      "time": 1508636546
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508671955
     }, 
     "sum": {
@@ -191,7 +195,7 @@
   {
    "lastAccept": 1508679450, 
    "pos": 3, 
-   "score": 5145, 
+   "score": 5137, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -238,7 +242,7 @@
      "time": 1508677670
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508678611
     }, 
     "shift_register": {
@@ -271,7 +275,7 @@
   {
    "lastAccept": 1508628179, 
    "pos": 4, 
-   "score": 3480, 
+   "score": 3472, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -306,7 +310,7 @@
      "time": 1508531481
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508590975
     }, 
     "sum": {
@@ -335,7 +339,7 @@
   {
    "lastAccept": 1508681683, 
    "pos": 5, 
-   "score": 2973, 
+   "score": 2965, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -374,7 +378,7 @@
      "time": 1508681683
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508604961
     }, 
     "sum": {
@@ -593,52 +597,8 @@
    "team": "spritzers"
   }, 
   {
-   "lastAccept": 1508680185, 
-   "pos": 10, 
-   "score": 1974, 
-   "taskStats": {
-    "biometric_login": {
-     "points": 453, 
-     "time": 1508659726
-    }, 
-    "differential_privacy": {
-     "points": 180, 
-     "time": 1508680185
-    }, 
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1508518227
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 51, 
-     "time": 1508518704
-    }, 
-    "hidden_program": {
-     "points": 83, 
-     "time": 1508526858
-    }, 
-    "resistance": {
-     "points": 355, 
-     "time": 1508618729
-    }, 
-    "secure_path": {
-     "points": 340, 
-     "time": 1508672591
-    }, 
-    "sehlokodemais": {
-     "points": 363, 
-     "time": 1508679458
-    }, 
-    "sum": {
-     "points": 64, 
-     "time": 1508519724
-    }
-   }, 
-   "team": "fireshell"
-  }, 
-  {
    "lastAccept": 1508634000, 
-   "pos": 11, 
+   "pos": 10, 
    "score": 1973, 
    "taskStats": {
     "asymmetric_encryption": {
@@ -679,6 +639,50 @@
     }
    }, 
    "team": "Pandemic"
+  }, 
+  {
+   "lastAccept": 1508680185, 
+   "pos": 11, 
+   "score": 1966, 
+   "taskStats": {
+    "biometric_login": {
+     "points": 453, 
+     "time": 1508659726
+    }, 
+    "differential_privacy": {
+     "points": 180, 
+     "time": 1508680185
+    }, 
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1508518227
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 51, 
+     "time": 1508518704
+    }, 
+    "hidden_program": {
+     "points": 83, 
+     "time": 1508526858
+    }, 
+    "resistance": {
+     "points": 355, 
+     "time": 1508618729
+    }, 
+    "secure_path": {
+     "points": 340, 
+     "time": 1508672591
+    }, 
+    "sehlokodemais": {
+     "points": 355, 
+     "time": 1508679458
+    }, 
+    "sum": {
+     "points": 64, 
+     "time": 1508519724
+    }
+   }, 
+   "team": "fireshell"
   }, 
   {
    "lastAccept": 1508671605, 
@@ -771,7 +775,7 @@
   {
    "lastAccept": 1508611936, 
    "pos": 14, 
-   "score": 1842, 
+   "score": 1834, 
    "taskStats": {
     "baby_regex": {
      "points": 308, 
@@ -798,7 +802,7 @@
      "time": 1508553624
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508527438
     }, 
     "sum": {
@@ -859,7 +863,7 @@
   {
    "lastAccept": 1508684110, 
    "pos": 16, 
-   "score": 1771, 
+   "score": 1763, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -882,7 +886,7 @@
      "time": 1508684110
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508612867
     }, 
     "sum": {
@@ -1075,7 +1079,7 @@
   {
    "lastAccept": 1508682241, 
    "pos": 21, 
-   "score": 1543, 
+   "score": 1535, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -1098,7 +1102,7 @@
      "time": 1508682241
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508674233
     }, 
     "sum": {
@@ -1243,7 +1247,7 @@
   {
    "lastAccept": 1508656711, 
    "pos": 25, 
-   "score": 1496, 
+   "score": 1488, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -1266,7 +1270,7 @@
      "time": 1508575776
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508597438
     }, 
     "sum": {
@@ -1363,7 +1367,7 @@
   {
    "lastAccept": 1508673177, 
    "pos": 28, 
-   "score": 1368, 
+   "score": 1360, 
    "taskStats": {
     "achievement_unlocked": {
      "points": 308, 
@@ -1386,7 +1390,7 @@
      "time": 1508515636
     }, 
     "sehlokodemais": {
-     "points": 363, 
+     "points": 355, 
      "time": 1508536405
     }, 
     "sum": {
