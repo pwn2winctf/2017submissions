@@ -185,8 +185,76 @@
    "team": "p4"
   }, 
   {
-   "lastAccept": 1508628179, 
+   "lastAccept": 1508674880, 
    "pos": 3, 
+   "score": 4013, 
+   "taskStats": {
+    "achievement_unlocked": {
+     "points": 314, 
+     "time": 1508646450
+    }, 
+    "asymmetric_encryption": {
+     "points": 320, 
+     "time": 1508643498
+    }, 
+    "butchercorp_repository": {
+     "points": 420, 
+     "time": 1508595865
+    }, 
+    "criminals": {
+     "points": 383, 
+     "time": 1508557689
+    }, 
+    "differential_privacy": {
+     "points": 189, 
+     "time": 1508558467
+    }, 
+    "g00d_b0y": {
+     "points": 85, 
+     "time": 1508541994
+    }, 
+    "great_cybernetic_revolution": {
+     "points": 52, 
+     "time": 1508525698
+    }, 
+    "hidden_program": {
+     "points": 84, 
+     "time": 1508535675
+    }, 
+    "pretty_it_all": {
+     "points": 420, 
+     "time": 1508633609
+    }, 
+    "shift_register": {
+     "points": 500, 
+     "time": 1508674880
+    }, 
+    "sum": {
+     "points": 65, 
+     "time": 1508526243
+    }, 
+    "tokens_v20": {
+     "points": 293, 
+     "time": 1508552740
+    }, 
+    "top_secret": {
+     "points": 231, 
+     "time": 1508532657
+    }, 
+    "warehouse": {
+     "points": 237, 
+     "time": 1508552794
+    }, 
+    "wrong_user": {
+     "points": 420, 
+     "time": 1508587619
+    }
+   }, 
+   "team": "Dragon Sector"
+  }, 
+  {
+   "lastAccept": 1508628179, 
+   "pos": 4, 
    "score": 3561, 
    "taskStats": {
     "achievement_unlocked": {
@@ -247,70 +315,6 @@
     }
    }, 
    "team": "HackingForSoju"
-  }, 
-  {
-   "lastAccept": 1508646450, 
-   "pos": 4, 
-   "score": 3513, 
-   "taskStats": {
-    "achievement_unlocked": {
-     "points": 314, 
-     "time": 1508646450
-    }, 
-    "asymmetric_encryption": {
-     "points": 320, 
-     "time": 1508643498
-    }, 
-    "butchercorp_repository": {
-     "points": 420, 
-     "time": 1508595865
-    }, 
-    "criminals": {
-     "points": 383, 
-     "time": 1508557689
-    }, 
-    "differential_privacy": {
-     "points": 189, 
-     "time": 1508558467
-    }, 
-    "g00d_b0y": {
-     "points": 85, 
-     "time": 1508541994
-    }, 
-    "great_cybernetic_revolution": {
-     "points": 52, 
-     "time": 1508525698
-    }, 
-    "hidden_program": {
-     "points": 84, 
-     "time": 1508535675
-    }, 
-    "pretty_it_all": {
-     "points": 420, 
-     "time": 1508633609
-    }, 
-    "sum": {
-     "points": 65, 
-     "time": 1508526243
-    }, 
-    "tokens_v20": {
-     "points": 293, 
-     "time": 1508552740
-    }, 
-    "top_secret": {
-     "points": 231, 
-     "time": 1508532657
-    }, 
-    "warehouse": {
-     "points": 237, 
-     "time": 1508552794
-    }, 
-    "wrong_user": {
-     "points": 420, 
-     "time": 1508587619
-    }
-   }, 
-   "team": "Dragon Sector"
   }, 
   {
    "lastAccept": 1508634744, 
@@ -5373,6 +5377,7 @@
   "attack_step_intermediate", 
   "secure_path", 
   "p0ng_adventure", 
-  "attack_step_final"
+  "attack_step_final", 
+  "shift_register"
  ]
 }
